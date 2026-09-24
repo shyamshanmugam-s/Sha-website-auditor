@@ -279,11 +279,17 @@ if (fs.existsSync(clientDistPath)) {
   });
 }
 
-// Start Server
-const PORT = CONFIG.PORT;
-app.listen(PORT, () => {
-  console.log(`====================================================`);
-  console.log(`🚀 SHA Website Auditor Server running on port ${PORT}`);
-  console.log(`📡 API Health: http://localhost:${PORT}/api/health`);
-  console.log(`====================================================`);
-});
+// Start Server (Standalone local execution)
+const isVercel = CONFIG.IS_VERCEL;
+if (!isVercel && process.env.NODE_ENV !== 'test') {
+  const PORT = CONFIG.PORT;
+  app.listen(PORT, () => {
+    console.log(`====================================================`);
+    console.log(`🚀 SHA Website Auditor Server running on port ${PORT}`);
+    console.log(`📡 API Health: http://localhost:${PORT}/api/health`);
+    console.log(`====================================================`);
+  });
+}
+
+export { app };
+export default app;

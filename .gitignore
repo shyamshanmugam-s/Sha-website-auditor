@@ -1,0 +1,11 @@
+node_modules/
+dist/
+data/audits/
+data/pdfs/
+data/screenshots/
+*.log
+.env
+.env.*
+!.env.example
+.DS_Store
+data/dashboard-production-verification.png
