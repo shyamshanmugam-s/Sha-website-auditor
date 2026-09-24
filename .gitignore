@@ -9,3 +9,4 @@ data/screenshots/
 !.env.example
 .DS_Store
 data/dashboard-production-verification.png
+client/dist/
