@@ -1,0 +1,44 @@
+{
+  "name": "sha-website-auditor",
+  "version": "1.0.0",
+  "description": "Professional Website Auditor by SHA WebStudio",
+  "main": "dist/index.js",
+  "scripts": {
+    "build:server": "tsc -p tsconfig.server.json",
+    "build:client": "npm --prefix client run build",
+    "build": "npm run build:server && npm run build:client",
+    "dev:server": "tsx watch server/index.ts",
+    "dev:client": "npm --prefix client run dev",
+    "dev": "concurrently -k -p \"[{name}]\" -n \"SERVER,CLIENT\" -c \"cyan.bold,green.bold\" \"npm run dev:server\" \"npm run dev:client\"",
+    "start": "node dist/index.js",
+    "test": "npx tsx test/runTests.ts"
+  },
+  "keywords": ["website-auditor", "seo", "ux", "accessibility", "lighthouse", "playwright", "gemini"],
+  "author": "SHA WebStudio",
+  "license": "MIT",
+  "dependencies": {
+    "@google/genai": "^2.3.0",
+    "chrome-launcher": "^1.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "ipaddr.js": "^2.2.0",
+    "isomorphic-dompurify": "^2.20.0",
+    "jsdom": "^26.0.0",
+    "lighthouse": "^12.3.0",
+    "playwright": "^1.50.1",
+    "uuid": "^11.1.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^5.0.0",
+    "@types/jsdom": "^21.1.7",
+    "@types/node": "^22.13.5",
+    "@types/uuid": "^10.0.0",
+    "concurrently": "^9.1.2",
+    "tsx": "^4.19.3",
+    "typescript": "^5.7.3"
+  }
+}

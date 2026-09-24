@@ -1,0 +1,41 @@
+[
+  {
+    "url": "http://aainteriordesignstudio.com/",
+    "finalUrl": "http://aainteriordesignstudio.com/",
+    "statusCode": 200,
+    "statusText": "OK",
+    "contentType": "text/html",
+    "responseTimeMs": 2565,
+    "title": "",
+    "metaDescription": "",
+    "canonicalUrl": "",
+    "h1s": [],
+    "headingTree": [],
+    "desktopScreenshot": "/screenshots/88c4a85f-3eab-4922-9e2a-fd9827be79d4/homepage-desktop-1790181745966.png",
+    "mobileScreenshot": "/screenshots/88c4a85f-3eab-4922-9e2a-fd9827be79d4/homepage-mobile-1790181748930.png",
+    "consoleErrors": [],
+    "networkErrors": [],
+    "internalLinks": [],
+    "externalLinks": [],
+    "images": [],
+    "forms": [],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": null,
+      "xFrameOptions": null,
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 694,
+    "evidenceIds": [
+      "E-002",
+      "E-003"
+    ]
+  }
+]

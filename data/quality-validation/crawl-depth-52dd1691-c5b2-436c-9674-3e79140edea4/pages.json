@@ -1,0 +1,4070 @@
+[
+  {
+    "url": "https://som.com/",
+    "finalUrl": "https://www.som.com/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 10441,
+    "title": "Homepage – SOM",
+    "metaDescription": "Skidmore, Owings & Merrill (SOM) is a collective of architects, designers, engineers, and planners working together to build a better future.",
+    "canonicalUrl": "https://www.som.com/",
+    "h1s": [
+      "Spotlight on Product Design",
+      "Our Culture"
+    ],
+    "headingTree": [
+      {
+        "tag": "h2",
+        "text": "Fast Company namesGrimes EngineeringCenter bestarchitectural design of2026"
+      },
+      {
+        "tag": "h2",
+        "text": "400 Lake Shore DriveTops Out on Chicago’sLakefront"
+      },
+      {
+        "tag": "h2",
+        "text": "In Milan, SOMtransforms amodernist officecomplex into a verdantand connectedcampus"
+      },
+      {
+        "tag": "h2",
+        "text": "Celebrating 90 yearsof innovation at SOM"
+      },
+      {
+        "tag": "h2",
+        "text": "Lever House Celebrates 75th Anniversary with Isamu Noguchi Exhibition"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Designs New Headquarters for Dubai Holding"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM London Studio Celebrates 40 Years With New Exhibition"
+      },
+      {
+        "tag": "h2",
+        "text": "First Look: Designs Revealed for UCSB’s East Campus Student Housing"
+      },
+      {
+        "tag": "h1",
+        "text": "Spotlight on Product Design"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Design"
+      },
+      {
+        "tag": "h2",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "SOM’s Tetras Lighting for Artemide Introduced at Milan Design Week"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM79 at NYCxDESIGN Featured in The New York Times"
+      },
+      {
+        "tag": "h2",
+        "text": "Introducing the SOM Collection for IKONstudio"
+      },
+      {
+        "tag": "h2",
+        "text": "Uncovering a Legacy of Furniture Design"
+      },
+      {
+        "tag": "h1",
+        "text": "Our Culture"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/homepage-desktop-1790181446273.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/homepage-mobile-1790181447127.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/news/grimes-engineering-center-wins-fast-companys-2026-innovation-by-design-award/",
+      "https://www.som.com/news/400-lake-shore-drive-tops-out/",
+      "https://www.som.com/projects/corso-italia-23/",
+      "https://www.som.com/news/lever-house-celebrates-its-75th-anniversary-with-isamu-noguchi-exhibition/",
+      "https://www.som.com/news/som-designs-new-headquarters-for-dubai-holding/",
+      "https://www.som.com/news/london-40th-exhibition/",
+      "https://www.som.com/news/ucsb-housing-reveal/",
+      "https://www.som.com/news/tetras-launched/",
+      "https://www.som.com/news/som79-nyt/",
+      "https://www.som.com/news/skidmore-owings-merrill-introduces-the-som-collection-for-ikonstudio/",
+      "https://www.som.com/story/uncovering-a-legacy-of-furniture-design/",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169584/Schenck-Noguchi-Lever-House-2026_09_01DSC_2465_card-1789385499-140x104-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 104
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169608/223387_000_Dubai_Holding_HQ_N110_large-1789409565-scaled-140x78-c.jpg",
+        "alt": "Dubai Holding",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169642/2026_LO40TH_NEWS_RAIL-03-1789460043-scaled-140x105-c.png",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 105
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168575/Science-Walk_med-1786737381-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/166021/IKONSOM_Product-Design_SOM79_Spotlight-1780939229-140x70-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 70
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/142804/Tetras-Fixtures_SOM-x-Artemide_med-1744912696-140x114-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 114
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/164883/EXH000_016_IKONstudio_x_Rarify_New_Icons_N9_large-1785420739-scaled-140x175-c.jpg",
+        "alt": "IKONstudio x Rarify: New Icons",
+        "naturalWidth": 140,
+        "naturalHeight": 175
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/165944/SOM79_7A_0924B_crop-1780675254-scaled-140x140-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/167570/IBM_Sofa_Card_Crop-1784641858-140x105-c.png",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 105
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/39675/SFOffice_002_large-scaled-140x203-c.jpg",
+        "alt": "SF Office",
+        "naturalWidth": 140,
+        "naturalHeight": 203
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 15,
+        "naturalHeight": 14
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 16
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 11
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 4,
+        "naturalHeight": 5
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 104362,
+    "evidenceIds": [
+      "E-002",
+      "E-003",
+      "E-004",
+      "E-005",
+      "E-006"
+    ]
+  },
+  {
+    "url": "https://www.som.com/about",
+    "finalUrl": "https://www.som.com/about/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 6679,
+    "title": "About – SOM",
+    "metaDescription": "We are a collective of architects, designers, engineers, and planners working together to build a better future.",
+    "canonicalUrl": "https://www.som.com/about/",
+    "h1s": [
+      "We are a collective of architects, designers, engineers, and planners working together to build a better future.",
+      "Interdisciplinary from the start",
+      "Advocates for the environment",
+      "A culture of social responsibility",
+      "Collective governance",
+      "A community that never stops learning",
+      "Our Legacy",
+      "Studios"
+    ],
+    "headingTree": [
+      {
+        "tag": "h2",
+        "text": "About"
+      },
+      {
+        "tag": "h1",
+        "text": "We are a collective of architects, designers, engineers, and planners working together to build a better future."
+      },
+      {
+        "tag": "h1",
+        "text": "Interdisciplinary from the start"
+      },
+      {
+        "tag": "h1",
+        "text": "Advocates for the environment"
+      },
+      {
+        "tag": "h1",
+        "text": "A culture of social responsibility"
+      },
+      {
+        "tag": "h1",
+        "text": "Collective governance"
+      },
+      {
+        "tag": "h1",
+        "text": "A community that never stops learning"
+      },
+      {
+        "tag": "h1",
+        "text": "Our Legacy"
+      },
+      {
+        "tag": "h1",
+        "text": "Studios"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181456222-desktop-1790181456223.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181456222-mobile-1790181457156.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/about/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/news/som-releases-climate-action-report-achieves-net-zero-emissions/",
+      "https://www.som.com/story/2025-impact-report/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/legacy/",
+      "https://www.som.com/studios/",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/about/",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/1268/Hero_About-140x45-c.png",
+        "alt": "\"\"",
+        "naturalWidth": 140,
+        "naturalHeight": 45
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/38324/AAmado_COAM-expoSOM025_large-scaled-1366x917-c.jpg",
+        "alt": "Slide 1 of 1, \"Beyond the Structure\" at COAM n Madrid.",
+        "naturalWidth": 800,
+        "naturalHeight": 537
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/2063/proofs_004_large-scaled-140x181-c.jpg",
+        "alt": "John Hancock",
+        "naturalWidth": 140,
+        "naturalHeight": 181
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/2059/SOM_JTI_Geneva_-rHuftonCrow_061_R_large-scaled-140x135-c.jpg",
+        "alt": "JTI HQ",
+        "naturalWidth": 140,
+        "naturalHeight": 135
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/2094/PRT40122_large-scaled-140x223-c.jpg",
+        "alt": "Pearl River Tower",
+        "naturalWidth": 140,
+        "naturalHeight": 223
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/2091/UCM-Campus_2020_DB_058_large-scaled-140x67-c.jpg",
+        "alt": "UCM Campus_2020_DB_058_large",
+        "naturalWidth": 140,
+        "naturalHeight": 67
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/2094/PRT40122_large-scaled-140x223-c.jpg",
+        "alt": "Pearl River Tower",
+        "naturalWidth": 140,
+        "naturalHeight": 223
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/38349/MWNT_SOM_Lucas-Blair_200_large-140x182-c.jpg",
+        "alt": "One Manhattan West construction",
+        "naturalWidth": 140,
+        "naturalHeight": 182
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/1310/About-LP-07-140x79-c.png",
+        "alt": "\"\"",
+        "naturalWidth": 140,
+        "naturalHeight": 79
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/128153/2024_ExComm_NY_FA9A1358-1717620485-140x101-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/110481/NFN_001421_N128_large-1685978958-scaled-140x68-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/38322/Ambika-P3-SOM-2_large-1-scaled-140x209-c.jpg",
+        "alt": "Anatomy of Structure Exhibition",
+        "naturalWidth": 140,
+        "naturalHeight": 209
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/38329/20190308_CDMX-Exhibition_55_large-scaled-140x100-c.jpg",
+        "alt": "Kinetic Structure",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/38322/Ambika-P3-SOM-2_large-1-scaled-140x209-c.jpg",
+        "alt": "Anatomy of Structure Exhibition",
+        "naturalWidth": 140,
+        "naturalHeight": 209
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/38342/1WTC_SOM_JamesEwing-0753v2_large-scaled-140x209-c.jpg",
+        "alt": "1WTC",
+        "naturalWidth": 140,
+        "naturalHeight": 209
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/44982/CONN-1630680331.GENERAL_ES51S4_jpg-copy-1630680331-1366x771-c.jpg",
+        "alt": "Slide 1 of 1, Conn",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/38975/SOM_ChicagoOffice_DaveBurk_032_large-140x140-c.jpg",
+        "alt": "SOM Chicago Interior",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/38363/SOM_NYOffice_DaveBurk_007_large-scaled-140x81-c.jpg",
+        "alt": "SOM's New York studio",
+        "naturalWidth": 140,
+        "naturalHeight": 81
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 114146,
+    "evidenceIds": [
+      "E-007",
+      "E-008",
+      "E-009",
+      "E-010",
+      "E-011"
+    ]
+  },
+  {
+    "url": "https://www.som.com/expertise/product-design",
+    "finalUrl": "https://www.som.com/expertise/product-design/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 7801,
+    "title": "Product Design – SOM",
+    "metaDescription": "",
+    "canonicalUrl": "https://www.som.com/expertise/product-design/",
+    "h1s": [
+      "Product Design",
+      "Improving the human experience through holistic design",
+      "Featured Projects + News"
+    ],
+    "headingTree": [
+      {
+        "tag": "h1",
+        "text": "Product Design"
+      },
+      {
+        "tag": "h1",
+        "text": "Improving the human experience through holistic design"
+      },
+      {
+        "tag": "h1",
+        "text": "Featured Projects + News"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM79 Collection"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM76 Collection"
+      },
+      {
+        "tag": "h2",
+        "text": "Uncovering a Legacy of Furniture Design"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM79 at NYCxDESIGN Featured in The New York Times"
+      },
+      {
+        "tag": "h2",
+        "text": "New Exhibition Reveals SOM's Rich Legacy of Furniture Design"
+      },
+      {
+        "tag": "h2",
+        "text": "Nebula Urban Lighting and Furniture"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM’s Tetras Lighting for Artemide Introduced at Milan Design Week"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM, AKDO Introduce Dyad, a Marble Tile Collection"
+      },
+      {
+        "tag": "h2",
+        "text": "Valli Door Hardware"
+      },
+      {
+        "tag": "h2",
+        "text": "Hover Dog Bed Shortlisted for the Annual UK Barkitecture Competition"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181467386-desktop-1790181467386.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181467386-mobile-1790181468306.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/expertise/product-design/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/projects/som79-collection/",
+      "https://www.som.com/projects/som76-collection/",
+      "https://www.som.com/story/uncovering-a-legacy-of-furniture-design/",
+      "https://www.som.com/news/som79-nyt/",
+      "https://www.som.com/news/new-exhibition-reveals-soms-rich-legacy-of-furniture-design/",
+      "https://www.som.com/projects/nebula/",
+      "https://www.som.com/news/tetras-launched/",
+      "https://www.som.com/news/dyad-tile-launch/",
+      "https://www.som.com/projects/valli-valli-door-hardware/",
+      "https://www.som.com/news/hover-barkitecture/",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/expertise/product-design/",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/151787/Akdo_Dyad-Pavo-Tulip-Black-Dark-Olive-Install_1x1-1752866996-1757482953-scaled-140x140-c.jpg",
+        "alt": "Akdo_Dyad-Pavo-Tulip-Black-Dark-Olive-Install_1x1",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/151787/Akdo_Dyad-Pavo-Tulip-Black-Dark-Olive-Install_1x1-1752866996-1757482953-scaled-140x140-c.jpg",
+        "alt": "Akdo_Dyad-Pavo-Tulip-Black-Dark-Olive-Install_1x1",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/151813/Tetras-Fixtures_SOM-x-Artemide-1757512373-scaled-1366x769-c.jpg",
+        "alt": "Slide 1 of 4, Tetras",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/151811/Neri_Nebula_09-1757512199-scaled-1366x768-c.jpg",
+        "alt": "Slide 2 of 4, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/151797/Dyad-Imala-Mystic-Silver-Dolomite_immersive-1757486424-scaled-1366x769-c.jpg",
+        "alt": "Slide 3 of 4, Dyad, a marble mosaic tile collection produced in partnership with AKDO, distills centuries of design heritage into clean lines and refined symmetry.",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/151815/SOM-Hover-Goodwoof-2025-1757514947-1366x768-c.jpg",
+        "alt": "Slide 4 of 4, Hover Dog Bed.",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/165944/SOM79_7A_0924B_crop-1780675254-scaled-140x140-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/165862/SOM76_6A_0207-copy_large-1780669215-scaled-140x209-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 209
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/167570/IBM_Sofa_Card_Crop-1784641858-140x105-c.png",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 105
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/164883/EXH000_016_IKONstudio_x_Rarify_New_Icons_N9_large-1785420739-scaled-140x175-c.jpg",
+        "alt": "IKONstudio x Rarify: New Icons",
+        "naturalWidth": 140,
+        "naturalHeight": 175
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/160366/EXH000_015_Rarify_x_LUISAVIAROMA_SOM_Furniture_Masterpieces_N23_med-1770757390-140x87-c.jpg",
+        "alt": "LUISAVIAROMA X Rarify: SOM Furniture Masterpieces",
+        "naturalWidth": 140,
+        "naturalHeight": 87
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/27952/nebula_372x372_original-image_yasmin-bouharras-140x140-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/142804/Tetras-Fixtures_SOM-x-Artemide_med-1744912696-140x114-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 114
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/143731/Dyad-Imala-Mystic-Silver-Dolomite-1746637284-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/152968/Alina-Matt-black-and-Chrome-Door-Lever_large-1759263567-scaled-140x105-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 105
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/144101/1741375625165-1747315609-140x78-c.jpeg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 15,
+        "naturalHeight": 14
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 16
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 11
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 4,
+        "naturalHeight": 5
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 104954,
+    "evidenceIds": [
+      "E-012",
+      "E-013",
+      "E-014",
+      "E-015",
+      "E-016"
+    ]
+  },
+  {
+    "url": "https://www.som.com/about/news",
+    "finalUrl": "https://www.som.com/about/news/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 4435,
+    "title": "News – SOM",
+    "metaDescription": "Project updates, press highlights, events, and more—find out what we're up to in our studios.",
+    "canonicalUrl": "https://www.som.com/about/news/",
+    "h1s": [],
+    "headingTree": [
+      {
+        "tag": "h2",
+        "text": "News"
+      },
+      {
+        "tag": "h2",
+        "text": "Grimes Engineering Center Featured in Architect's Newspaper"
+      },
+      {
+        "tag": "h2",
+        "text": "Kashyap Bhimjiani Speaks at Passenger Terminal Expo Asia"
+      },
+      {
+        "tag": "h2",
+        "text": "Grimes Engineering Center Wins Fast Company’s 2026 Innovation by Design Award"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Designs New Headquarters for Dubai Holding"
+      },
+      {
+        "tag": "h2",
+        "text": "Lever House Celebrates 75th Anniversary with Isamu Noguchi Exhibition"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM London Studio Celebrates 40 Years With New Exhibition"
+      },
+      {
+        "tag": "h2",
+        "text": "Vote for Two SOM Projects in the AIA Chicago People’s Choice Awards"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Shortlisted in Three Categories at Big 5 Global Impact Awards"
+      },
+      {
+        "tag": "h2",
+        "text": "Routledge Publishes Expanded Third Edition of Mark Sarkisian’s Designing Tall Buildings"
+      },
+      {
+        "tag": "h2",
+        "text": "Architectural Record Spotlights Head-Royce School Expansion"
+      },
+      {
+        "tag": "h2",
+        "text": "The Thread Sculpture Unveiled as Memphis Airport Is Renamed"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM and Al Majdiah Formalize Collaboration on New Riyadh Project"
+      },
+      {
+        "tag": "h2",
+        "text": "New Academic Medical Center Announced for UT Austin"
+      },
+      {
+        "tag": "h2",
+        "text": "First Look: Designs Revealed for UCSB’s East Campus Student Housing"
+      },
+      {
+        "tag": "h2",
+        "text": "Dennis Ho Awarded RIBA Chartered Fellowship"
+      },
+      {
+        "tag": "h2",
+        "text": "Rivian Unveils SOM’s Design for New Manufacturing Campus in Georgia"
+      },
+      {
+        "tag": "h2",
+        "text": "Construction Update at Legend in Guadalajara"
+      },
+      {
+        "tag": "h2",
+        "text": "Colin Koop and Ryan Culligan Explore the Future of Stadium Design"
+      },
+      {
+        "tag": "h2",
+        "text": "Bill Baker on the Future of Supertall Buildings"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM and The New York Climate Exchange on Scaling New, Low-Carbon Materials"
+      },
+      {
+        "tag": "h2",
+        "text": "No results were found matching your selection"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181475170-desktop-1790181475171.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181475170-mobile-1790181476124.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/about/news/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/news/grimes-engineering-center-featured-in-architects-newspaper/",
+      "https://www.som.com/news/kashyap-bhimjiani-speaks-at-passenger-terminal-expo-asia/",
+      "https://www.som.com/news/grimes-engineering-center-wins-fast-companys-2026-innovation-by-design-award/",
+      "https://www.som.com/news/som-designs-new-headquarters-for-dubai-holding/",
+      "https://www.som.com/news/lever-house-celebrates-its-75th-anniversary-with-isamu-noguchi-exhibition/",
+      "https://www.som.com/news/london-40th-exhibition/",
+      "https://www.som.com/news/aia-chicago-peoples-choice-vote-2026/",
+      "https://www.som.com/news/som-shortlisted-in-three-categories-at-big-5-global-impact-awards/",
+      "https://www.som.com/news/routledge-publishes-expanded-3rd-edition-of-mark-sarkisians-designing-tall-buildings/",
+      "https://www.som.com/news/arch-record-head-royce/",
+      "https://www.som.com/news/the-thread-unveiling/",
+      "https://www.som.com/news/al-majdiah-riyadh/",
+      "https://www.som.com/news/ut-austin-medical-center/",
+      "https://www.som.com/news/ucsb-housing-reveal/",
+      "https://www.som.com/news/dennis-ho-awarded-riba-chartered-fellowship/",
+      "https://www.som.com/news/rivian-georgia/",
+      "https://www.som.com/news/legend-construction/",
+      "https://www.som.com/news/stadiums-dezeen/",
+      "https://www.som.com/news/bill-baker-arabian-biz/",
+      "https://www.som.com/news/climate-exchange-nyce-blog/",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/about/%e6%96%b0%e9%97%bb/",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/134980/SOM-News-1729799646-140x45-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169776/Grimes_SOM_DaveBurk_019_jpg-1790017042-1366x944-c.jpg",
+        "alt": "Grimes Engineering Center",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/162159/225430_000_Gia_Binh_Airport_Terminals_N10_med-1773662274-1366x768-c.jpg",
+        "alt": "Gia Binh Airport Terminal",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169694/Grimes_SOM_DaveBurk_102_jpg-1789662607-1366x831-c.jpg",
+        "alt": "Grimes Engineering Center",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169608/223387_000_Dubai_Holding_HQ_N110_large-1789409565-scaled-1366x767-c.jpg",
+        "alt": "Dubai Holding",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169584/Schenck-Noguchi-Lever-House-2026_09_01DSC_2465_card-1789385499-1366x1023-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168763/SOM-London-40th-Anniversary-LDF-1787158955-scaled-683x964-c.jpg",
+        "alt": "Poster in honour of SOM London's 40th anniversary exhibition, part of London Design Festival",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169328/SanyHQ_SOM_DaveBurk_011_large-1788879953-scaled-1366x847-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169190/CorsoItalia_SOM_DaveBurk_081_jpg-1788449116-1366x874-c.jpg",
+        "alt": "Hero shot",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169139/Edited_HVS_jpg-1788295201-scaled-683x910-c.jpg",
+        "alt": "Designing Tall Buildings",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169041/HeadRoyceSchool_SOM_DaveBurk_069_jpg-1787942416-scaled-1366x902-c.jpg",
+        "alt": "Head Royce",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168946/Inbound-1-1787694052-scaled-1366x768-c.jpg",
+        "alt": "The Thread at Frederick W. Smith International Airport in Memphis",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168975/OAN00664-1787752246-1366x910-c.jpg",
+        "alt": "Hero shot",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168776/06_OakCourtyard_5K-1787176313-scaled-1366x768-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168575/Science-Walk_med-1786737381-1366x910-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168412/Dennis-Ho-portrait-1786550779-1366x768-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168375/100SD-Render-EXTERIOR-1_large-1786468341-scaled-1366x910-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168325/DJI_20260420102928_0703_D_jpg-1786377613-1366x910-c.jpg",
+        "alt": "Legend Tower",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/135625/Queens_Braid_Timber_Stadium_SOM_01-1731077743-scaled-1366x1023-c.jpg",
+        "alt": "Queens Braid",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168050/Burj-Khalifa_2024_Catalin_Marin__DSC3810_large-1785186260-scaled-1366x910-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/140793/221482_002_The_New_York_Climate_Exchange_N3_large-1772806243-scaled-1366x768-c.jpg",
+        "alt": "The New York Climate Exchange",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 15,
+        "naturalHeight": 14
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 16
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 11
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 4,
+        "naturalHeight": 5
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 143117,
+    "evidenceIds": [
+      "E-017",
+      "E-018",
+      "E-019",
+      "E-020",
+      "E-021"
+    ]
+  },
+  {
+    "url": "https://www.som.com/about/impact",
+    "finalUrl": "https://www.som.com/about/impact/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 5765,
+    "title": "Impact – SOM",
+    "metaDescription": "Driven by core values—expanding equity, improving communities, and confronting the climate crisis—we’re making a difference beyond our practice.",
+    "canonicalUrl": "https://www.som.com/about/impact/",
+    "h1s": [
+      "Impact",
+      "Cultivating a culture of equity and inclusion",
+      "Advancing a zero-carbon built environment",
+      "Making a difference where we live and work",
+      "More News"
+    ],
+    "headingTree": [
+      {
+        "tag": "h1",
+        "text": "Impact"
+      },
+      {
+        "tag": "h1",
+        "text": "Cultivating a culture of equity and inclusion"
+      },
+      {
+        "tag": "h1",
+        "text": "Advancing a zero-carbon built environment"
+      },
+      {
+        "tag": "h1",
+        "text": "Making a difference where we live and work"
+      },
+      {
+        "tag": "h1",
+        "text": "More News"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Featured in 2026 Regenerative Architecture Index"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Wins at SoCal NOMA 2025 Chapter Awards"
+      },
+      {
+        "tag": "h2",
+        "text": "Metropolis Explores SOM’s “Breathing Building” Approach for WeBank Headquarters"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM and The New York Climate Exchange on Scaling New, Low-Carbon Materials"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181484299-desktop-1790181484299.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181484299-mobile-1790181485235.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/about/impact/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/projects/wild-mile/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/news/rai-2026/",
+      "https://www.som.com/news/som-wins-at-socal-noma-2025-chapter-awards/",
+      "https://www.som.com/news/metropolis-webank-headquarters/",
+      "https://www.som.com/news/climate-exchange-nyce-blog/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/about/impact/",
+      "https://indd.adobe.com/view/f81cbdca-370d-4dee-a616-7427fad3e9ac",
+      "https://www.worldgbc.org/thecommitment",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168931/IMG_2197_crop-1787685982-scaled-140x140-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168931/IMG_2197_crop-1787685982-scaled-140x140-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168994/20260527_JPMorganChase_Corp_Challenge__B4A2809_large-1787777850-scaled-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168937/WildlMile_urbanrivers_001_large-1787686878-scaled-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168934/2025_SANDCASTLE_24_large-1787686171-140x105-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 105
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/166880/WildMile_SOM_DaveBurk_010_jpg-1782479683-scaled-140x87-c.jpg",
+        "alt": "With the first phase completed in 2021, the Wild Mile has already made a dramatic impact on the people, wildlife, and plant habitats along the River.",
+        "naturalWidth": 140,
+        "naturalHeight": 87
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/159279/NOMA25-09848-2-1768411891-scaled-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/166993/WeBank-Headquarters_9-1782844855-scaled-140x112-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 112
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/140793/221482_002_The_New_York_Climate_Exchange_N3_large-1772806243-scaled-140x78-c.jpg",
+        "alt": "The New York Climate Exchange",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 15,
+        "naturalHeight": 14
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 16
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 11
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 4,
+        "naturalHeight": 5
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 96151,
+    "evidenceIds": [
+      "E-022",
+      "E-023",
+      "E-024",
+      "E-025",
+      "E-026"
+    ]
+  },
+  {
+    "url": "https://www.som.com/about/studios",
+    "finalUrl": "https://www.som.com/about/studios/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 7679,
+    "title": "Studios – SOM",
+    "metaDescription": "Working from a network of creative studios across the globe, we apply our international expertise at a local level.",
+    "canonicalUrl": "https://www.som.com/about/studios/",
+    "h1s": [
+      "Studios",
+      "Our studios spark creativity",
+      "We are worldwide"
+    ],
+    "headingTree": [
+      {
+        "tag": "h1",
+        "text": "Studios"
+      },
+      {
+        "tag": "h1",
+        "text": "Our studios spark creativity"
+      },
+      {
+        "tag": "h1",
+        "text": "We are worldwide"
+      },
+      {
+        "tag": "h4",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "No results were found matching your selection"
+      },
+      {
+        "tag": "h2",
+        "text": "Contact Us"
+      },
+      {
+        "tag": "h2",
+        "text": "Thank you for contacting us"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181495346-desktop-1790181495347.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181495346-mobile-1790181496275.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/about/studios/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/about/studios/#",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/about/%e5%8a%9e%e5%85%ac%e5%ae%a4/",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/39867/SOM_ChicagoOffice_DaveBurk_001_large-140x140-c.jpg",
+        "alt": "Chicago Studio",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/39867/SOM_ChicagoOffice_DaveBurk_001_large-140x140-c.jpg",
+        "alt": "Chicago Studio",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/103896/SOM_NYOffice_DaveBurk_011_large-1675953164-scaled-1366x749-c.jpg",
+        "alt": "Slide 1 of 1, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/142765/LondonOffice_SOM_DaveBurk_048_crop-1744834435-140x140-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/1196/04-Studios_3x4-140x85-c.png",
+        "alt": "\"\"",
+        "naturalWidth": 140,
+        "naturalHeight": 85
+      },
+      {
+        "src": "",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 15,
+        "naturalHeight": 14
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 16
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 11
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 4,
+        "naturalHeight": 5
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      },
+      {
+        "action": "",
+        "method": "GET",
+        "inputCount": 9,
+        "hasEmail": true,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 246040,
+    "evidenceIds": [
+      "E-027",
+      "E-028",
+      "E-029",
+      "E-030",
+      "E-031"
+    ]
+  },
+  {
+    "url": "https://www.som.com/about/legacy",
+    "finalUrl": "https://www.som.com/about/legacy/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 7411,
+    "title": "Our Legacy – SOM",
+    "metaDescription": "Since our founding in 1936, SOM has been designing the future.",
+    "canonicalUrl": "https://www.som.com/about/legacy/",
+    "h1s": [
+      "Our Legacy",
+      "Launching an experiment",
+      "Leading the postwar moment",
+      "Engineering for new heights",
+      "Elevating the indoors",
+      "Co-creating with artists",
+      "Igniting a digital revolution",
+      "Designing for the planet",
+      "See More"
+    ],
+    "headingTree": [
+      {
+        "tag": "h1",
+        "text": "Our Legacy"
+      },
+      {
+        "tag": "h1",
+        "text": "Launching an experiment"
+      },
+      {
+        "tag": "h1",
+        "text": "Leading the postwar moment"
+      },
+      {
+        "tag": "h1",
+        "text": "Engineering for new heights"
+      },
+      {
+        "tag": "h1",
+        "text": "Elevating the indoors"
+      },
+      {
+        "tag": "h1",
+        "text": "Co-creating with artists"
+      },
+      {
+        "tag": "h1",
+        "text": "Igniting a digital revolution"
+      },
+      {
+        "tag": "h1",
+        "text": "Designing for the planet"
+      },
+      {
+        "tag": "h1",
+        "text": "See More"
+      },
+      {
+        "tag": "h2",
+        "text": "Change: 40 Years of SOM in London"
+      },
+      {
+        "tag": "h2",
+        "text": "Energy at Scale: Designing for Security, Resilience, and Affordability in an Uneven World"
+      },
+      {
+        "tag": "h2",
+        "text": "Uncovering a Legacy of Furniture Design"
+      },
+      {
+        "tag": "h2",
+        "text": "Designed to Evolve: Adaptive Reuse and the Architecture of Endurance"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181506141-desktop-1790181506142.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181506141-mobile-1790181507025.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/about/legacy/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/projects/terrace-plaza-hotel/",
+      "https://www.som.com/projects/lever-house/",
+      "https://www.som.com/projects/inland-steel-building/",
+      "https://www.som.com/projects/one-chase-manhattan-plaza/",
+      "https://www.som.com/projects/u-s-air-force-academy-cadet-chapel/",
+      "https://www.som.com/news/exhibition-at-university-of-illinois-at-chicago-revisits-soms-visionary-1960-campus-design/",
+      "https://www.som.com/projects/weyerhaeuser-corporate-headquarters/",
+      "https://www.som.com/projects/875-north-michigan-avenue-formerly-john-hancock-center/",
+      "https://www.som.com/projects/willis-tower-formerly-sears-tower/",
+      "https://www.som.com/news/hajj-terminal-wins-prestigious-aia-twenty-five-year-award/",
+      "https://www.som.com/projects/burj-khalifa/",
+      "https://www.som.com/person/bill-baker/",
+      "https://www.som.com/projects/broadgate-exchange-house/",
+      "https://www.som.com/projects/one-world-trade-center/",
+      "https://www.som.com/projects/600-lonsdale-street-3/",
+      "https://www.som.com/projects/jpmorganchase-headquarters-trading-floors/",
+      "https://www.som.com/projects/800-fulton/",
+      "https://www.som.com/projects/brunswick-building/",
+      "https://www.som.com/projects/picasso-sculpture/",
+      "https://www.som.com/projects/yale-university-beinecke-rare-book-and-manuscript-library/",
+      "https://www.som.com/projects/manufacturers-hanover-trust-510-fifth-avenue/",
+      "https://www.som.com/projects/7-world-trade-center/",
+      "https://www.som.com/projects/greenwich-academy-upper-school/",
+      "https://www.som.com/projects/moscone-center-expansion/",
+      "https://www.som.com/projects/sunset-la-cienega-residences/",
+      "https://www.som.com/projects/the-kathleen-grimm-school-for-leadership-and-sustainability-at-sandy-ground/",
+      "https://www.som.com/news/billie-jean-king-main-library/",
+      "https://www.som.com/projects/disney-new-york-city/",
+      "https://www.som.com/projects/webank-headquarters/",
+      "https://www.som.com/projects/the-new-york-climate-exchange/",
+      "https://www.som.com/whole-life-carbon/",
+      "https://www.som.com/research/bio-concrete/",
+      "https://www.som.com/research/engineering-the-future-of-renewable-energy/",
+      "https://www.som.com/projects/brightline/",
+      "https://www.som.com/projects/denver-union-station-hub-transit-oriented-development/",
+      "https://www.som.com/projects/detroit-east-riverfront-framework-plan/",
+      "https://www.som.com/projects/great-lakes-century-vision-plan/",
+      "https://www.som.com/projects/princeton-university-stadium-neighborhood/",
+      "https://www.som.com/projects/university_of_california_merced__2020_campus_development",
+      "https://www.som.com/projects/corso-italia-23/",
+      "https://www.som.com/projects/moynihan-train-hall/",
+      "https://www.som.com/projects/waldorf-astoria/",
+      "https://www.som.com/projects/lg-corporation-headquarters/",
+      "https://www.som.com/story/change-40-years-of-som-in-london/",
+      "https://www.som.com/story/energy-at-scale-designing-for-security-resilience-and-affordability-in-an-uneven-world/",
+      "https://www.som.com/story/uncovering-a-legacy-of-furniture-design/",
+      "https://www.som.com/story/adaptive-reuse-90-years/",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/about/%e2%80%8c%e6%88%91%e4%bb%ac%e7%9a%84%e4%bc%a0%e6%89%bf/",
+      "https://www.moma.org/calendar/exhibitions/2411",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/42578/Hirshhorn_plaza-view_Esra-Stoller_large-scaled-140x140-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/42578/Hirshhorn_plaza-view_Esra-Stoller_large-scaled-140x140-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/16475/Founders_1953_large-scaled-140x112-c.jpg",
+        "alt": "SOM Founding Partners. Left to right: John Merrill, Nathaniel Owings, Louis Skidmore",
+        "naturalWidth": 140,
+        "naturalHeight": 112
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2023/06/NFN_000483_N175_large-1686244777-scaled-e1686244874294.jpg",
+        "alt": "",
+        "naturalWidth": 390,
+        "naturalHeight": 286
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/16419/Owings_Field_043_large-scaled-140x173-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 173
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/09/NFN_000963_N65_large-1630994963-scaled.jpg",
+        "alt": "",
+        "naturalWidth": 2560,
+        "naturalHeight": 1830
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/16473/Bunshaft_Yale_large-scaled-140x110-c.jpg",
+        "alt": "Bunshaft",
+        "naturalWidth": 140,
+        "naturalHeight": 110
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/16463/Natalie-deBlois-and-Myron-Goldsmith-scaled-140x175-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 175
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/16461/w_netsch_3_UICC_large-scaled-140x90-c.jpg",
+        "alt": "Walter Netsch at UICC Campus",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/16459/UICC_Behav_Sci_Cabanban_206203-12_large-scaled-1366x787-c.jpg",
+        "alt": "Slide 1 of 1, University of Illinois at Chicago – Behavioral Sciences Building",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/16453/010_OneChasebwE1_large-scaled-140x202-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 202
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/16480/Lever-House_Ezra-Stoller_esto_35M.011_large-scaled-140x175-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 175
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/44858/z_KAAIA_sunset2-copy-1630598184-140x113-c.jpg",
+        "alt": "King Abdul Aziz International Airport - Hajj Terminal",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/65303/hancock-1632441904.group_-1632441904.ks_-1632441904.crop_large-1632441904-scaled-140x85-c.jpg",
+        "alt": "Faz Kahn, Bruce Graham, William Brown, and others look at a model of the John Hancock Center",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/42082/GettyImages-1136131972_med-140x73-c.jpg",
+        "alt": "Burj Khalifa",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/44992/1WTC_SOM_JamesEwing-0501v2_large-1630684195-140x93-c.jpg",
+        "alt": "1WTC",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/19869/inlandsteelbldng_788x900_hedrichblessing_05jpg-140x159-c.jpg",
+        "alt": "Inland Steel Building",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/19855/inlandsteelbldng_1575x900_ezrastolleresto_03jpg-140x79-c.jpg",
+        "alt": "Inland Steel Building",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/07/weyerhauser_680x510_ezra_stoller_esto.jpg",
+        "alt": "Weyerhauser Corporate Headquarters",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157932/20251023_JPMC0667_people_large-1766173780-scaled-140x89-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/42093/Miro_Hedrich_45717E_large-scaled-140x206-c.jpg",
+        "alt": "Joan Miro Sculpture at Brunswick Plaza",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/42091/ChaseDubuffetE2_large-1-scaled-140x182-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/42095/KOR_Echelman_PhotoAlleywayGwanggyo_vd1_large-scaled-1366x811-c.jpg",
+        "alt": "Slide 1 of 1, Janet Echelman sculpture at Earthtime Korea",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/36207/Ambika-P3-SOM-3_large-scaled-140x93-c.jpg",
+        "alt": "Robotic Construction: The Glass Vault",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/30184/NFN_001845_N113_large-1784988668-scaled-140x105-c.jpg",
+        "alt": "Billie Jean King Library timber construction",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/40049/DenverUnionStation_MagdaBiernat_6606_large-1-scaled-140x79-c.jpg",
+        "alt": "Denver Union Station",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/145072/217640_000_WeBank_Headquarters_N127_large-1755890829-scaled-140x84-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/39033/UCM-Campus_2020_DB_058_large-scaled-140x67-c.jpg",
+        "alt": "Wide-angle aerial view of the U.C. Merced campus showing the surrounding fields of the San Joaquin Valley.",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/162589/Moynihan_002_Immersive_crop-1774453128-scaled-1366x769-c.jpg",
+        "alt": "Slide 1 of 1, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/32336/213088_000_N906_large-scaled-140x112-c.jpg",
+        "alt": "The Stratford Manhattan Loft Gardens",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168085/2025-02-18-EV_large-1785249531-scaled-140x87-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/167570/IBM_Sofa_Card_Crop-1784641858-140x105-c.png",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/163780/220419_000_N112_med-1777582454-140x88-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 207086,
+    "evidenceIds": [
+      "E-032",
+      "E-033",
+      "E-034",
+      "E-035",
+      "E-036"
+    ]
+  },
+  {
+    "url": "https://www.som.com/projects/corso-italia-23",
+    "finalUrl": "https://www.som.com/projects/corso-italia-23/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 7916,
+    "title": "Corso Italia 23 – SOM",
+    "metaDescription": "",
+    "canonicalUrl": "https://www.som.com/projects/corso-italia-23/",
+    "h1s": [
+      "Corso Italia 23",
+      "Repositioning a modernist office complex for the future",
+      "A human-centered, amenity-rich workplace",
+      "Responding to heritage and sustainability",
+      "Recycling materials to reduce carbon",
+      "Energizing a district, enhancing the public realm",
+      "More Projects"
+    ],
+    "headingTree": [
+      {
+        "tag": "h1",
+        "text": "Corso Italia 23"
+      },
+      {
+        "tag": "h1",
+        "text": "Repositioning a modernist office complex for the future"
+      },
+      {
+        "tag": "h1",
+        "text": "A human-centered, amenity-rich workplace"
+      },
+      {
+        "tag": "h1",
+        "text": "Responding to heritage and sustainability"
+      },
+      {
+        "tag": "h1",
+        "text": "Recycling materials to reduce carbon"
+      },
+      {
+        "tag": "h1",
+        "text": "Energizing a district, enhancing the public realm"
+      },
+      {
+        "tag": "h1",
+        "text": "More Projects"
+      },
+      {
+        "tag": "h2",
+        "text": "Metropolitan Tower Repositioning"
+      },
+      {
+        "tag": "h2",
+        "text": "American College of Surgeons Chicago Office Renovation"
+      },
+      {
+        "tag": "h2",
+        "text": "9 West 57th Street"
+      },
+      {
+        "tag": "h2",
+        "text": "MXD – The Digital Manufacturing Institute"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181517371-desktop-1790181517371.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181517371-mobile-1790181518441.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/projects/corso-italia-23/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/projects/corso-italia-23/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/projects/metropolitan-tower-repositioning/",
+      "https://www.som.com/projects/american-college-of-surgeons-headquarters-renovation/",
+      "https://www.som.com/projects/9-west-57th-street/",
+      "https://www.som.com/projects/mxd-the-digital-manufacturing-institute/",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/projects/corso-italia-23/",
+      "https://www.facebook.com/sharer/sharer.php?u=https://www.som.com/projects/corso-italia-23/",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https://www.som.com/projects/corso-italia-23/",
+      "https://bsky.app/intent/compose?text=https://www.som.com/projects/corso-italia-23/",
+      "https://twitter.com/intent/tweet?url=https://www.som.com/projects/corso-italia-23/",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156956/CorsoItalia_SOM_DaveBurk_059_large-1765209834-scaled-140x76-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 76
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157131/CorsoItalia_SOM_DaveBurk_058_Mobile_Crop-1765292074-scaled-140x170-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 170
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157008/CorsoItalia_SOM_DaveBurk_080_large-1765212281-scaled-140x104-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 104
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157003/CorsoItalia_SOM_DaveBurk_043_large-1765212128-scaled-140x222-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 222
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156958/CorsoItalia_SOM_DaveBurk_009_large-1765210112-scaled-140x84-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 84
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156966/CorsoItalia_SOM_DaveBurk_015_large-1765210275-scaled-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156964/CorsoItalia_SOM_DaveBurk_089_large-1765210268-scaled-140x78-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156977/CorsoItalia_SOM_DaveBurk_055_large-1765210794-scaled-140x114-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 114
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156972/CorsoItalia_SOM_DaveBurk_047_large-1765210702-scaled-140x95-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 95
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157001/CorsoItalia_SOM_DaveBurk_084_large-1765212110-scaled-140x100-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 100
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156979/CorsoItalia_SOM_DaveBurk_085_large-1765210799-scaled-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156986/Corsa-Italia-2-BW_large-1765211301-scaled-140x72-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 72
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156956/CorsoItalia_SOM_DaveBurk_059_large-1765209834-scaled-140x76-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 76
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156988/04_A_BW-1765211454-scaled-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156962/CorsoItalia_SOM_DaveBurk_082_large-1765210248-scaled-140x87-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 87
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156994/CorsoItalia_SOM_DaveBurk_062_large-1765211831-scaled-140x143-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 143
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156992/CorsoItalia_SOM_DaveBurk_067_large-1765211824-scaled-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156996/CorsoItalia_SOM_DaveBurk_071_crop-1765211924-scaled-1366x768-c.jpg",
+        "alt": "Slide 1 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157017/CorsoItalia_SOM_DaveBurk_058_large-1765212681-scaled-1366x886-c.jpg",
+        "alt": "Slide 2 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157011/CorsoItalia_SOM_DaveBurk_060_large-1765212664-scaled-1366x820-c.jpg",
+        "alt": "Slide 3 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157005/CorsoItalia_SOM_DaveBurk_076_crop-1765212134-scaled-1366x768-c.jpg",
+        "alt": "Slide 4 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157025/CorsoItalia_SOM_DaveBurk_077_large-1765212709-scaled-1366x1097-c.jpg",
+        "alt": "Slide 5 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/156998/CorsoItalia_SOM_DaveBurk_024_large-1765211930-scaled-1366x768-c.jpg",
+        "alt": "Slide 6 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157015/CorsoItalia_SOM_DaveBurk_030_large-1765212675-scaled-1366x1009-c.jpg",
+        "alt": "Slide 7 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157013/CorsoItalia_SOM_DaveBurk_088_large-1765212669-scaled-1366x945-c.jpg",
+        "alt": "Slide 8 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157027/CorsoItalia_SOM_DaveBurk_079_large-1765212993-scaled-1366x894-c.jpg",
+        "alt": "Slide 9 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/157023/CorsoItalia_SOM_DaveBurk_037_large-1765212703-scaled-1366x839-c.jpg",
+        "alt": "Slide 10 of 10, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/167877/224186_000_142_West_57th_Street_Metropolitan_Tower_Repositioning_large-1788531068-scaled-140x83-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/132017/AmericanCollegeOfSurgeons_SOM_DaveBurk_031_large-1724081163-scaled-140x89-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/119599/9-West-57th-Street_1_Anthony-Cross_large-1706210485-scaled-140x186-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/33808/213196_000_N784_large-scaled-140x94-c.jpg",
+        "alt": "MxD - Digital Manufacturing Institute",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 153234,
+    "evidenceIds": [
+      "E-037",
+      "E-038",
+      "E-039",
+      "E-040",
+      "E-041"
+    ]
+  },
+  {
+    "url": "https://www.som.com/about/climate-action",
+    "finalUrl": "https://www.som.com/about/climate-action/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 6527,
+    "title": "Climate Action – SOM",
+    "metaDescription": "Reversing the course of climate change is the goal that drives our work.",
+    "canonicalUrl": "https://www.som.com/about/climate-action/",
+    "h1s": [
+      "Climate Action",
+      "We are building on decades of environmental leadership",
+      "We are developing new design solutions",
+      "We are driving change in the building industry",
+      "More Content + News"
+    ],
+    "headingTree": [
+      {
+        "tag": "h1",
+        "text": "Climate Action"
+      },
+      {
+        "tag": "h1",
+        "text": "We are building on decades of environmental leadership"
+      },
+      {
+        "tag": "h1",
+        "text": "We are developing new design solutions"
+      },
+      {
+        "tag": "h2",
+        "text": "Sustainable Engineering"
+      },
+      {
+        "tag": "h2",
+        "text": "The New York Climate Exchange"
+      },
+      {
+        "tag": "h2",
+        "text": "Urban Sequoia ™"
+      },
+      {
+        "tag": "h2",
+        "text": "Adaptive Reuse"
+      },
+      {
+        "tag": "h1",
+        "text": "We are driving change in the building industry"
+      },
+      {
+        "tag": "h1",
+        "text": "More Content + News"
+      },
+      {
+        "tag": "h2",
+        "text": "500 County Center Achieves LEED Platinum Certification"
+      },
+      {
+        "tag": "h2",
+        "text": "Cracking the Code on Timber Construction"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM and The New York Climate Exchange on Scaling New, Low-Carbon Materials"
+      },
+      {
+        "tag": "h2",
+        "text": "Luke Leung Wins ASHRAE Decarbonization Award"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Featured in 2026 Regenerative Architecture Index"
+      },
+      {
+        "tag": "h2",
+        "text": "Bio-concrete"
+      },
+      {
+        "tag": "h2",
+        "text": "Mina Hasman Named Officer of the Order of the British Empire for Sustainable Design"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Signs AIA Materials Pledge"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181527452-desktop-1790181527452.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181527452-mobile-1790181528386.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/about/climate-action/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/story/50-years-of-environmental-activism-through-design/",
+      "https://www.som.com/ideas/research/timber_tower_research_project",
+      "https://www.som.com/news/explore_the_future_of_building_design_and_technology_with_som_at_the_2019_chicago_architecture_biennial",
+      "http://som.com/projects/amie",
+      "http://som.com/projects/the_kathleen_grimm_school_for_leadership_and_sustainability_at_sandy_ground",
+      "https://www.som.com/projects/billie_jean_king_main_library",
+      "https://www.som.com/whole-life-carbon/",
+      "https://www.som.com/projects/the-new-york-climate-exchange/",
+      "https://www.som.com/research/urban-sequoia/",
+      "https://www.som.com/news/500-county-center-leed/",
+      "https://www.som.com/story/cracking-the-code-on-timber-construction/",
+      "https://www.som.com/news/climate-exchange-nyce-blog/",
+      "https://www.som.com/news/leung-decarbonization-award/",
+      "https://www.som.com/news/rai-2026/",
+      "https://www.som.com/research/bio-concrete/",
+      "https://www.som.com/news/mina-hasman-obe/",
+      "https://www.som.com/news/som-signs-aia-materials-pledge/",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/about/%e6%b0%94%e5%80%99%e8%a1%8c%e5%8a%a8/",
+      "https://www.worldgbc.org/thecommitment",
+      "https://www.aia.org/resources/202041-the-2030-commitment",
+      "https://architecture2030.org/publications-2/china-accord/",
+      "https://se2050.org/",
+      "https://som.medium.com/a-brief-history-of-technology-at-som-4858c339d9ed",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/58811/Xiongan-New-Area-Plan-1631624480-140x140-c.jpg",
+        "alt": "Xiongan New Area Plan",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/58811/Xiongan-New-Area-Plan-1631624480-140x140-c.jpg",
+        "alt": "Xiongan New Area Plan",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/30182/NFN_001845_N112_large-1784988661-scaled-140x188-c.jpg",
+        "alt": "Billie Jean King Library",
+        "naturalWidth": 140,
+        "naturalHeight": 188
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/100699/UNOG_SOM_DaveBurk_033_med-1669734408-140x64-c.jpg",
+        "alt": "Headquarters Building on Lake Geneva",
+        "naturalWidth": 140,
+        "naturalHeight": 64
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/30182/NFN_001845_N112_large-1784988661-scaled-140x188-c.jpg",
+        "alt": "Billie Jean King Library",
+        "naturalWidth": 140,
+        "naturalHeight": 188
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/42220/ClimateActionFilm-1920x1080-200422-1-zm_large-140x78-c.jpg",
+        "alt": "Climate Action Earth",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2026/04/NFN_001132_N52_large-1775139061.jpg",
+        "alt": "Completed in 1971, the SOM-designed Weyerhaeuser Headquarters is considered a milestone of architecture integrated with the natural environment.",
+        "naturalWidth": 1659,
+        "naturalHeight": 2070
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/33938/213003_000_N125_large-scaled-140x93-c.jpg",
+        "alt": "Pertamina Energy Tower",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/141388/221482_002_The_New_York_Climate_Exchange_large-1742829272-scaled-140x78-c.jpg",
+        "alt": "n",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/99612/miysis_3d_som_urban-sequoia_view2_final_jpg-1667865617-scaled-140x78-c.jpg",
+        "alt": "Urban Sequoia",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/116665/Moynihan_083_4x3-1699392328-scaled-140x105-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/34501/211041_000_N84_large-scaled-140x204-c.jpg",
+        "alt": "PS 62",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/116667/UIUC_SOM_DaveBurk_001_Immersive-1699392544-scaled-1366x769-c.jpg",
+        "alt": "Slide 1 of 6, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/116669/BioBlock_SOM_DaveBurk_003_Immersive-1699392553-scaled-1366x769-c.jpg",
+        "alt": "Slide 2 of 6, ",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/58152/UCM-Campus_2020_DB_059_med-1631290118-1366x767-c.jpg",
+        "alt": "Slide 3 of 6, UC Merced",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/34525/211041_000_N99_large-scaled-1366x588-c.jpg",
+        "alt": "Slide 4 of 6, P.S. 62 The Kathleen Grimm School for Leadership and Sustainability at Sandy Ground",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/45151/202094_000_N545_large-1366x910-c.jpg",
+        "alt": "Slide 5 of 6, US Census",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/58167/PSACII_SOM_AlbertVecerka-Esto_2016AV55-1631300324.462_Pano-1631300324-1366x869-c.jpg",
+        "alt": "Slide 6 of 6, PSAC",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/165141/COB3_SOM_DaveBurk_013_large-1779225016-scaled-140x84-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/95011/IMG_5799_large-1660750467-scaled-140x103-c.jpg",
+        "alt": "San Mateo County Office Building 3 under construction",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/140793/221482_002_The_New_York_Climate_Exchange_N3_large-1772806243-scaled-140x78-c.jpg",
+        "alt": "The New York Climate Exchange",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/167377/9S2A0396-1784127873-scaled-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/166880/WildMile_SOM_DaveBurk_010_jpg-1782479683-scaled-140x87-c.jpg",
+        "alt": "With the first phase completed in 2021, the Wild Mile has already made a dramatic impact on the people, wildlife, and plant habitats along the River.",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/99290/2U9A2252-A_large-1667592938-scaled-140x93-c.jpg",
+        "alt": "Bio-concrete",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/166210/Grant-Donaldson_SOM-4_Preferred-1781518149-scaled-140x186-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/162488/NFN_009635_SOM_London_2024_Office_Redesign_N46_med-1774291245-scaled-140x85-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 134264,
+    "evidenceIds": [
+      "E-042",
+      "E-043",
+      "E-044",
+      "E-045",
+      "E-046"
+    ]
+  },
+  {
+    "url": "https://www.som.com/",
+    "finalUrl": "https://www.som.com/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 7395,
+    "title": "Homepage – SOM",
+    "metaDescription": "Skidmore, Owings & Merrill (SOM) is a collective of architects, designers, engineers, and planners working together to build a better future.",
+    "canonicalUrl": "https://www.som.com/",
+    "h1s": [
+      "Spotlight on Product Design",
+      "Our Culture"
+    ],
+    "headingTree": [
+      {
+        "tag": "h2",
+        "text": "Fast Company namesGrimes EngineeringCenter bestarchitectural design of2026"
+      },
+      {
+        "tag": "h2",
+        "text": "400 Lake Shore DriveTops Out on Chicago’sLakefront"
+      },
+      {
+        "tag": "h2",
+        "text": "In Milan, SOMtransforms amodernist officecomplex into a verdantand connectedcampus"
+      },
+      {
+        "tag": "h2",
+        "text": "Celebrating 90 yearsof innovation at SOM"
+      },
+      {
+        "tag": "h2",
+        "text": "Lever House Celebrates 75th Anniversary with Isamu Noguchi Exhibition"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Designs New Headquarters for Dubai Holding"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM London Studio Celebrates 40 Years With New Exhibition"
+      },
+      {
+        "tag": "h2",
+        "text": "First Look: Designs Revealed for UCSB’s East Campus Student Housing"
+      },
+      {
+        "tag": "h1",
+        "text": "Spotlight on Product Design"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Design"
+      },
+      {
+        "tag": "h2",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "SOM’s Tetras Lighting for Artemide Introduced at Milan Design Week"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM79 at NYCxDESIGN Featured in The New York Times"
+      },
+      {
+        "tag": "h2",
+        "text": "Introducing the SOM Collection for IKONstudio"
+      },
+      {
+        "tag": "h2",
+        "text": "Uncovering a Legacy of Furniture Design"
+      },
+      {
+        "tag": "h1",
+        "text": "Our Culture"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181538230-desktop-1790181538230.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181538230-mobile-1790181539076.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/news/grimes-engineering-center-wins-fast-companys-2026-innovation-by-design-award/",
+      "https://www.som.com/news/400-lake-shore-drive-tops-out/",
+      "https://www.som.com/projects/corso-italia-23/",
+      "https://www.som.com/news/lever-house-celebrates-its-75th-anniversary-with-isamu-noguchi-exhibition/",
+      "https://www.som.com/news/som-designs-new-headquarters-for-dubai-holding/",
+      "https://www.som.com/news/london-40th-exhibition/",
+      "https://www.som.com/news/ucsb-housing-reveal/",
+      "https://www.som.com/news/tetras-launched/",
+      "https://www.som.com/news/som79-nyt/",
+      "https://www.som.com/news/skidmore-owings-merrill-introduces-the-som-collection-for-ikonstudio/",
+      "https://www.som.com/story/uncovering-a-legacy-of-furniture-design/",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169584/Schenck-Noguchi-Lever-House-2026_09_01DSC_2465_card-1789385499-140x104-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 104
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169608/223387_000_Dubai_Holding_HQ_N110_large-1789409565-scaled-140x78-c.jpg",
+        "alt": "Dubai Holding",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/169642/2026_LO40TH_NEWS_RAIL-03-1789460043-scaled-140x105-c.png",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 105
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/168575/Science-Walk_med-1786737381-140x93-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/166021/IKONSOM_Product-Design_SOM79_Spotlight-1780939229-140x70-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 70
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/142804/Tetras-Fixtures_SOM-x-Artemide_med-1744912696-140x114-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 114
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/164883/EXH000_016_IKONstudio_x_Rarify_New_Icons_N9_large-1785420739-scaled-140x175-c.jpg",
+        "alt": "IKONstudio x Rarify: New Icons",
+        "naturalWidth": 140,
+        "naturalHeight": 175
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/165944/SOM79_7A_0924B_crop-1780675254-scaled-140x140-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 140
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/167570/IBM_Sofa_Card_Crop-1784641858-140x105-c.png",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 105
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/39675/SFOffice_002_large-scaled-140x203-c.jpg",
+        "alt": "SF Office",
+        "naturalWidth": 140,
+        "naturalHeight": 203
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 15,
+        "naturalHeight": 14
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 16
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 11
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 4,
+        "naturalHeight": 5
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 103948,
+    "evidenceIds": [
+      "E-047",
+      "E-048",
+      "E-049",
+      "E-050",
+      "E-051"
+    ]
+  },
+  {
+    "url": "https://www.som.com/expertise",
+    "finalUrl": "https://www.som.com/expertise/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 10945,
+    "title": "Expertise – SOM",
+    "metaDescription": "Breadth, with depth: Whatever you can imagine, our teams know how to build it. Innovation happens at the intersections of our expertise.",
+    "canonicalUrl": "https://www.som.com/expertise/",
+    "h1s": [
+      "Innovation happens at the\nintersections of our expertise."
+    ],
+    "headingTree": [
+      {
+        "tag": "h2",
+        "text": "Expertise"
+      },
+      {
+        "tag": "h1",
+        "text": "Innovation happens at the\nintersections of our expertise."
+      },
+      {
+        "tag": "h2",
+        "text": "Adaptive Reuse"
+      },
+      {
+        "tag": "h2",
+        "text": "Airports"
+      },
+      {
+        "tag": "h2",
+        "text": "Civic + Government"
+      },
+      {
+        "tag": "h2",
+        "text": "Commercial"
+      },
+      {
+        "tag": "h2",
+        "text": "Cultural"
+      },
+      {
+        "tag": "h2",
+        "text": "Facade Design"
+      },
+      {
+        "tag": "h2",
+        "text": "Graphics + Brand"
+      },
+      {
+        "tag": "h2",
+        "text": "Healthcare"
+      },
+      {
+        "tag": "h2",
+        "text": "Higher Education"
+      },
+      {
+        "tag": "h2",
+        "text": "Hospitality"
+      },
+      {
+        "tag": "h2",
+        "text": "Interiors"
+      },
+      {
+        "tag": "h2",
+        "text": "K–12 Education"
+      },
+      {
+        "tag": "h2",
+        "text": "Landscape + Ecology"
+      },
+      {
+        "tag": "h2",
+        "text": "Mixed Use"
+      },
+      {
+        "tag": "h2",
+        "text": "Product Design"
+      },
+      {
+        "tag": "h2",
+        "text": "Residential"
+      },
+      {
+        "tag": "h2",
+        "text": "Science"
+      },
+      {
+        "tag": "h2",
+        "text": "Structural + Civil Engineering"
+      },
+      {
+        "tag": "h2",
+        "text": "Sustainable Engineering"
+      },
+      {
+        "tag": "h2",
+        "text": "Transportation"
+      },
+      {
+        "tag": "h2",
+        "text": "Urban Design + Planning"
+      },
+      {
+        "tag": "h2",
+        "text": "Workplace"
+      },
+      {
+        "tag": "h2",
+        "text": "No results were found matching your selection"
+      },
+      {
+        "tag": "h4",
+        "text": ""
+      },
+      {
+        "tag": "h2",
+        "text": "No results were found matching your selection"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181552436-desktop-1790181552437.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181552436-mobile-1790181553304.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/expertise/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/expertise/#",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/%e2%80%8c%e4%b8%93%e4%b8%9a%e7%bb%8f%e9%aa%8c/",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43107/Adaptive-ReUse_Optimo-2_3x4_Tom_Rossiter_10jpg-683x910-c.jpg",
+        "alt": "Optimo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43133/Airports_CSIA_2018_SOM_Lucas-Blair_0556-edit_large-683x921-c.jpg",
+        "alt": "MIAL",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43109/Civic_Government_Court-House42720A1_large-683x910-c.jpg",
+        "alt": "LA Courthouse",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43095/Commercial_1WTC_SOM_JamesEwing-0753v2_jpg-683x910-c.jpg",
+        "alt": "1WTC",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43093/Cultural_Cathedral_of_Christ_the_Light_1_large-683x910-c.jpg",
+        "alt": "Cultural Card",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/72708/Facades_SZ_Rural_Commercial_Bank_HQ-final-large-121_large-1636992772-scaled-683x910-c.jpg",
+        "alt": "Facades",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43097/Environmental-Graphics_ACT-Strand_PhotocBruceDamonte_05_large-683x911-c.jpg",
+        "alt": "The Strand Theater",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43116/Healthcare_Christ-Hospital_concourse_surgical_waiting_large-683x911-c.jpg",
+        "alt": "Christ Hopspital",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43146/Higher-Ed_Barnard_Milstein-Center_Magda-Biernat_9174_large-1-683x910-c.jpg",
+        "alt": "Barnard College",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/149692/PendryHotel_SOM_DaveBurk_003_large-1753727655-scaled-683x950-c.jpg",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/112776/SOM_NYOffice_DaveBurk_003_large-1690928542-scaled-1366x910-c.jpg",
+        "alt": "SOM New York Office Forum",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43121/K-12_EWING-SOM-PS62-1393v2_large-683x910-c.jpg",
+        "alt": "P.S. 62",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/63996/Landscape-Ecology_TIANFU_RETAIL-1632161210-scaled-683x910-c.jpg",
+        "alt": "Landscape",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43150/Mixed-Use-GuocoTower-683x922-c.jpg",
+        "alt": "Guoco Tower",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/151789/Dyad-Pavo-Tulip-Black-Dark-Olive-Install_3x4-1757483353-scaled-683x913-c.jpg",
+        "alt": "Dyad-Pavo-Tulip-Black-Dark-Olive-Install_3x4",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43154/Residential_SOM_MLG_©HuftonCrow_047_large-683x910-c.jpg",
+        "alt": "The Stratford",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43161/Science_UConn-Innovation-Partnership_Round-2_SOM_MagdaBiernat_9966_large-copy-683x922-c.jpg",
+        "alt": "UCONN",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43124/Structural_PolyIntlPlaza_Photo_BruceDamonte_13_large-683x910-c.jpg",
+        "alt": "Poly International Plaza",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43164/Sustainable-Engineering-PS62-1124_large-683x910-c.jpg",
+        "alt": "PS 62",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43114/Ground-Transportation_Ft-Lauderdale-Brightline_SOM_FA9A1572_large-683x911-c.jpg",
+        "alt": "Brightline",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/63875/UDP_Philadelphia_30th-Street-1632159227-683x910-c.jpg",
+        "alt": "Philadelphia 30th Street",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/43167/Workplace_500Park_RafaelGamo_2102_large-683x911-c.jpg",
+        "alt": "500 Park Ave",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "",
+        "alt": "",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 15,
+        "naturalHeight": 14
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 16
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 11
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 4,
+        "naturalHeight": 5
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 143103,
+    "evidenceIds": [
+      "E-052",
+      "E-053",
+      "E-054",
+      "E-055",
+      "E-056"
+    ]
+  },
+  {
+    "url": "https://www.som.com/ideas",
+    "finalUrl": "https://www.som.com/ideas/",
+    "statusCode": 200,
+    "statusText": "",
+    "contentType": "text/html; charset=UTF-8",
+    "responseTimeMs": 6372,
+    "title": "Ideas – SOM",
+    "metaDescription": "SOM is a laboratory for new ways of practicing design, an engine for innovation. Our research, exhibitions, and publications reveal stories about the future of design.",
+    "canonicalUrl": "https://www.som.com/ideas/",
+    "h1s": [
+      "Research + Innovation",
+      "Stories",
+      "Exhibitions",
+      "Publications",
+      "SOM Thinkers Series"
+    ],
+    "headingTree": [
+      {
+        "tag": "h2",
+        "text": "Ideas"
+      },
+      {
+        "tag": "h1",
+        "text": "Research + Innovation"
+      },
+      {
+        "tag": "h1",
+        "text": "Stories"
+      },
+      {
+        "tag": "h2",
+        "text": "Transformation through Transit: The Untold History of Metro"
+      },
+      {
+        "tag": "h2",
+        "text": "Perfecting Structure: From X-Braced Steel to Concrete and Back"
+      },
+      {
+        "tag": "h2",
+        "text": "What Should We Do With All Those Empty Offices?"
+      },
+      {
+        "tag": "h1",
+        "text": "Exhibitions"
+      },
+      {
+        "tag": "h2",
+        "text": "Angelus Novus Vault – Palazzo Mora, Venice"
+      },
+      {
+        "tag": "h1",
+        "text": "Publications"
+      },
+      {
+        "tag": "h1",
+        "text": "SOM Thinkers Series"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Thinkers: The Future of Transportation"
+      },
+      {
+        "tag": "h2",
+        "text": "SOM Thinkers: The Future of the Skyscraper"
+      },
+      {
+        "tag": "h2",
+        "text": "​SOM Thinkers: The Future of Public Space"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181562082-desktop-1790181562083.png",
+    "mobileScreenshot": "/screenshots/52dd1691-c5b2-436c-9674-3e79140edea4/page-1790181562082-mobile-1790181563034.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 404 ()",
+        "location": "https://som.okta.com/api/v1/sessions/me"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://som.okta.com/api/v1/sessions/me",
+        "status": 404,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [
+      "https://www.som.com/ideas/#main-content",
+      "https://www.som.com/",
+      "https://www.som.com/expertise/",
+      "https://www.som.com/expertise/adaptive-reuse/",
+      "https://www.som.com/expertise/airports/",
+      "https://www.som.com/expertise/civic-government/",
+      "https://www.som.com/expertise/commercial/",
+      "https://www.som.com/expertise/cultural/",
+      "https://www.som.com/expertise/facade-design/",
+      "https://www.som.com/expertise/graphics-brand/",
+      "https://www.som.com/expertise/higher-education/",
+      "https://www.som.com/expertise/healthcare/",
+      "https://www.som.com/expertise/hospitality/",
+      "https://www.som.com/expertise/interiors/",
+      "https://www.som.com/expertise/k12-education/",
+      "https://www.som.com/expertise/landscape-ecology/",
+      "https://www.som.com/expertise/mixed-use/",
+      "https://www.som.com/expertise/product-design/",
+      "https://www.som.com/expertise/residential/",
+      "https://www.som.com/expertise/science/",
+      "https://www.som.com/expertise/structural-civil-engineering/",
+      "https://www.som.com/expertise/sustainable-engineering/",
+      "https://www.som.com/expertise/transportation/",
+      "https://www.som.com/expertise/urban-design-planning/",
+      "https://www.som.com/expertise/workplace/",
+      "https://www.som.com/ideas/",
+      "https://www.som.com/ideas/research-innovation/",
+      "https://www.som.com/ideas/stories/",
+      "https://www.som.com/ideas/exhibitions/",
+      "https://www.som.com/ideas/publications/",
+      "https://www.som.com/culture/people/",
+      "https://www.som.com/about/news/",
+      "https://www.som.com/about/",
+      "https://www.som.com/culture/",
+      "https://www.som.com/culture/careers/",
+      "https://www.som.com/about/impact/",
+      "https://www.som.com/about/studios/",
+      "https://www.som.com/about/legacy/",
+      "https://www.som.com/studios/#contact-us",
+      "https://www.som.com/story/transformation-through-transit-the-untold-history-of-dc-metro/",
+      "https://www.som.com/story/perfecting-structure-from-x-braced-steel-to-concrete-and-back/",
+      "https://www.som.com/story/adaptive-reuse/",
+      "https://www.som.com/story/angelus-novus-vault-palazzo-mora-venice/",
+      "https://www.som.com/publication/som-thinkers-the-future-of-transportation/",
+      "https://www.som.com/publication/som-thinkers-the-future-of-the-skyscraper/",
+      "https://www.som.com/publication/%e2%80%8bsom-thinkers-the-future-of-public-space/",
+      "https://www.som.com/culture/diversity-equity-inclusion/",
+      "https://www.som.com/about/climate-action/",
+      "https://www.som.com/employment-opportunities-and-policy/",
+      "https://www.som.com/human-rights-policy/",
+      "https://www.som.com/privacy-policy-terms/"
+    ],
+    "externalLinks": [
+      "https://www.somchina.cn/ideas/",
+      "https://somfoundation.com/",
+      "https://www.linkedin.com/company/skidmoreowingsmerrill/",
+      "https://www.instagram.com/skidmoreowingsmerrill/",
+      "https://www.youtube.com/c/SkidmoreOwingsMerrill/"
+    ],
+    "images": [
+      {
+        "src": "https://www.som.com/wp-content/uploads/2022/03/1_SOM_ReleasedLogo_BLACK-1647540635.png",
+        "alt": "SOM",
+        "naturalWidth": 2083,
+        "naturalHeight": 722
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/2021/08/SOM_Logo_White-1.png",
+        "alt": "",
+        "naturalWidth": 1500,
+        "naturalHeight": 524
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/1038/Ideas-Hero-2560x838-1-140x45-c.png",
+        "alt": "\"\"",
+        "naturalWidth": 140,
+        "naturalHeight": 45
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/39716/Jeremy38256B_large-scaled-140x191-c.jpg",
+        "alt": "Dream Catcher",
+        "naturalWidth": 140,
+        "naturalHeight": 191
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/39728/Ambika-P3-SOM-3_large-1-140x93-c.jpg",
+        "alt": "Robotic Glass Vault",
+        "naturalWidth": 140,
+        "naturalHeight": 93
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/39716/Jeremy38256B_large-scaled-140x191-c.jpg",
+        "alt": "Dream Catcher",
+        "naturalWidth": 140,
+        "naturalHeight": 191
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/1044/Ideas-LP-Thumb-140x78-c.png",
+        "alt": "\"\"",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/107890/DullesMetroStation_SOM_DaveBurk_017-copy-1681159495-scaled-140x78-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/133175/800WFulton_SOM_DaveBurk_011_jpg-1726240227-scaled-140x78-c.jpg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 78
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/65628/miysis_3d_som_63-Madison_Corner_final-1632763508-scaled-140x90-c.jpg",
+        "alt": "63 Madison",
+        "naturalWidth": 140,
+        "naturalHeight": 90
+      },
+      {
+        "src": "https://www.som.com/wp-content/uploads/fly-images/110062/2305_ANGELUS-NOVUS_01-1684848566-scaled-140x99-c.jpeg",
+        "alt": "",
+        "naturalWidth": 140,
+        "naturalHeight": 99
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/linkedin_32cb683d2392d294f4cb.svg",
+        "alt": "",
+        "naturalWidth": 15,
+        "naturalHeight": 14
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/instagram_afb682a7dc37ab1bbd02.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 16
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube_8cd706a010063f8b9fc6.svg",
+        "alt": "",
+        "naturalWidth": 16,
+        "naturalHeight": 11
+      },
+      {
+        "src": "https://www.som.com/wp-content/themes/som-com/dist/images/footer/youtube-play_67e51d28a13f89b7496f.svg",
+        "alt": "",
+        "naturalWidth": 4,
+        "naturalHeight": 5
+      },
+      {
+        "src": "",
+        "alt": "SOM Logo",
+        "naturalWidth": 0,
+        "naturalHeight": 0
+      }
+    ],
+    "forms": [
+      {
+        "action": "/",
+        "method": "GET",
+        "inputCount": 1,
+        "hasEmail": false,
+        "hasPhone": false,
+        "hasSubmit": true
+      }
+    ],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": "frame-ancestors 'self';",
+      "xFrameOptions": "SAMEORIGIN",
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 99718,
+    "evidenceIds": [
+      "E-057",
+      "E-058",
+      "E-059",
+      "E-060",
+      "E-061"
+    ]
+  }
+]

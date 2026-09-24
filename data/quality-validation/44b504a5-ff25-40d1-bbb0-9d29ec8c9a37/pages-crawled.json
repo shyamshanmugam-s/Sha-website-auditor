@@ -1,0 +1,67 @@
+[
+  {
+    "url": "http://aainteriordesignstudio.com/",
+    "finalUrl": "http://aainteriordesignstudio.com/",
+    "statusCode": 200,
+    "statusText": "OK",
+    "contentType": "text/html",
+    "responseTimeMs": 3020,
+    "title": "Access Denied",
+    "metaDescription": "",
+    "canonicalUrl": "",
+    "h1s": [
+      "Access Denied"
+    ],
+    "headingTree": [
+      {
+        "tag": "h1",
+        "text": "Access Denied"
+      }
+    ],
+    "desktopScreenshot": "/screenshots/44b504a5-ff25-40d1-bbb0-9d29ec8c9a37/homepage-desktop-1790180698363.png",
+    "consoleErrors": [
+      {
+        "text": "Failed to load resource: the server responded with a status of 403 ()",
+        "location": "https://www.dot-cafe.org/articles/minimalist-cafe-aesthetics-and-interior-design.html?psystem=PW&domain=aainteriordesignstudio.com&oref=http%3A%2F%2Faainteriordesignstudio.com%2F&trafficTarget=gd"
+      }
+    ],
+    "networkErrors": [
+      {
+        "url": "https://img1.wsimg.com/parking-lander/px.js?ch=1&abp=1&gdabp=true",
+        "status": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://img1.wsimg.com/parking-lander/px.js?ch=2&abp=2&gdabp=true",
+        "status": "net::ERR_ABORTED"
+      },
+      {
+        "url": "https://www.dot-cafe.org/articles/minimalist-cafe-aesthetics-and-interior-design.html?psystem=PW&domain=aainteriordesignstudio.com&oref=http%3A%2F%2Faainteriordesignstudio.com%2F&trafficTarget=gd",
+        "status": 403,
+        "statusText": ""
+      }
+    ],
+    "internalLinks": [],
+    "externalLinks": [],
+    "images": [],
+    "forms": [],
+    "contactSignals": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": []
+    },
+    "securityHeaders": {
+      "hsts": null,
+      "csp": null,
+      "xFrameOptions": null,
+      "xContentTypeOptions": null,
+      "referrerPolicy": null,
+      "permissionsPolicy": null
+    },
+    "htmlLengthBytes": 353,
+    "evidenceIds": [
+      "E-002",
+      "E-003",
+      "E-004"
+    ]
+  }
+]

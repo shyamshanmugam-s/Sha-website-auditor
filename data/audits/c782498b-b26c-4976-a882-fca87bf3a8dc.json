@@ -1,0 +1,18 @@
+{
+  "id": "c782498b-b26c-4976-a882-fca87bf3a8dc",
+  "config": {
+    "url": "https://example.com",
+    "maxPages": 10
+  },
+  "status": "cancelled",
+  "createdAt": "2026-09-24T11:26:24.665Z",
+  "progressPercent": 5,
+  "currentStepMessage": "Audit was cancelled by user.",
+  "crawledPagesCount": 0,
+  "totalPagesToCrawl": 10,
+  "pages": [],
+  "evidenceRegistry": [],
+  "findings": [],
+  "startedAt": "2026-09-24T11:26:24.669Z",
+  "completedAt": "2026-09-24T11:26:24.773Z"
+}

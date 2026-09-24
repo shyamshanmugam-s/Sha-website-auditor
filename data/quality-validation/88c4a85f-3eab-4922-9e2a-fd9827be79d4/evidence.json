@@ -1,0 +1,220 @@
+[
+  {
+    "id": "E-001",
+    "type": "robots_check",
+    "category": "seo",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:23.225Z",
+    "status": "OBSERVED",
+    "description": "Robots.txt parsed. Disallowed paths: 0, Sitemaps: 0",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "disallowedPaths": [],
+      "sitemaps": []
+    }
+  },
+  {
+    "id": "E-002",
+    "type": "visual_screenshot",
+    "category": "visual",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:29.759Z",
+    "status": "OBSERVED",
+    "description": "Captured desktop and mobile viewport screenshots.",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "desktopScreenshot": "/screenshots/88c4a85f-3eab-4922-9e2a-fd9827be79d4/homepage-desktop-1790181745966.png",
+      "mobileScreenshot": "/screenshots/88c4a85f-3eab-4922-9e2a-fd9827be79d4/homepage-mobile-1790181748930.png"
+    }
+  },
+  {
+    "id": "E-003",
+    "type": "http_response",
+    "category": "technical",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:29.769Z",
+    "status": "TESTED",
+    "description": "HTTP status 200 (OK) returned in 2565ms.",
+    "metricValue": 2565,
+    "rawSnippet": null,
+    "data": {
+      "statusCode": 200,
+      "statusText": "OK",
+      "finalUrl": "http://aainteriordesignstudio.com/",
+      "contentType": "text/html",
+      "responseTimeMs": 2565
+    }
+  },
+  {
+    "id": "E-004",
+    "type": "lighthouse_unavailable",
+    "category": "performance",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:32.972Z",
+    "status": "NOT VERIFIED",
+    "description": "Lighthouse execution could not complete: __name is not defined. Core Web Vitals labeled as NOT VERIFIED.",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-005",
+    "type": "https_check",
+    "category": "technical",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.003Z",
+    "status": "TESTED",
+    "description": "Website does not serve over HTTPS protocol.",
+    "metricValue": 0,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-006",
+    "type": "missing_security_headers",
+    "category": "security",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.003Z",
+    "status": "OBSERVED",
+    "description": "Missing recommended security headers: Strict-Transport-Security (HSTS), Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "missingHeaders": [
+        "Strict-Transport-Security (HSTS)",
+        "Content-Security-Policy (CSP)",
+        "X-Frame-Options",
+        "X-Content-Type-Options"
+      ]
+    }
+  },
+  {
+    "id": "E-007",
+    "type": "seo_meta_descriptions",
+    "category": "seo",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.004Z",
+    "status": "OBSERVED",
+    "description": "Missing meta descriptions on 1 out of 1 inspected pages.",
+    "metricValue": 1,
+    "rawSnippet": null,
+    "data": {
+      "missingCount": 1,
+      "samplePages": [
+        "http://aainteriordesignstudio.com/"
+      ]
+    }
+  },
+  {
+    "id": "E-008",
+    "type": "seo_h1_structure",
+    "category": "seo",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.004Z",
+    "status": "OBSERVED",
+    "description": "1 pages missing H1, 0 pages with multiple H1 tags.",
+    "metricValue": 1,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-009",
+    "type": "seo_canonical_tags",
+    "category": "seo",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.004Z",
+    "status": "OBSERVED",
+    "description": "1 pages missing <link rel=\"canonical\"> tag.",
+    "metricValue": 1,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-010",
+    "type": "mobile_viewport_audit",
+    "category": "mobile",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.004Z",
+    "status": "TESTED",
+    "description": "Captured and evaluated mobile viewport rendering at 390x844 dimensions.",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "mobileScreenshot": "/screenshots/88c4a85f-3eab-4922-9e2a-fd9827be79d4/homepage-mobile-1790181748930.png"
+    }
+  },
+  {
+    "id": "E-011",
+    "type": "visual_desktop_evidence",
+    "category": "visual",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.004Z",
+    "status": "OBSERVED",
+    "description": "Captured high-resolution desktop visual rendering (1440x900 viewport).",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "screenshot": "/screenshots/88c4a85f-3eab-4922-9e2a-fd9827be79d4/homepage-desktop-1790181745966.png"
+    }
+  },
+  {
+    "id": "E-012",
+    "type": "ux_navigation_map",
+    "category": "ux",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.004Z",
+    "status": "OBSERVED",
+    "description": "Discovered 0 internal navigation paths and 0 interactive forms across 1 pages.",
+    "metricValue": 0,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-013",
+    "type": "content_structure",
+    "category": "content",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.005Z",
+    "status": "OBSERVED",
+    "description": "Analyzed content structure across 1 pages containing 0 structured headings.",
+    "metricValue": 0,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-014",
+    "type": "conversion_contact_signals",
+    "category": "conversion",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.005Z",
+    "status": "OBSERVED",
+    "description": "Detected contact signals: 0 phone(s), 0 email(s), 0 WhatsApp link(s), 0 form(s).",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": [],
+      "formsCount": 0
+    }
+  },
+  {
+    "id": "E-015",
+    "type": "local_seo_signals",
+    "category": "local_seo",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:42:33.006Z",
+    "status": "OBSERVED",
+    "description": "Local SEO signals evaluated for business=\"AA Interior Design Studio\", location=\"Coimbatore, Tamil Nadu\".",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "businessFound": false,
+      "locationFound": false,
+      "businessName": "AA Interior Design Studio",
+      "location": "Coimbatore, Tamil Nadu"
+    }
+  }
+]

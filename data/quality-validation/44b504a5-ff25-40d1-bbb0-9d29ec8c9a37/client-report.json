@@ -1,0 +1,99 @@
+{
+  "overview": "A strategic review of AA Interior Design Studio's website to help you increase client inquiries, improve Google visibility, and create a premium first impression for potential customers.",
+  "top5Opportunities": [
+    {
+      "title": "1. Fast Inbound Contact Triggers",
+      "businessImpact": "Captures urgent buyers who prefer calling or chatting instantly on mobile rather than filling out long forms.",
+      "recommendedAction": "Add a prominent 1-click \"Call Now\" button in the header and a sticky WhatsApp chat button on mobile."
+    },
+    {
+      "title": "2. Above-The-Fold Value & Proof",
+      "businessImpact": "Immediately answers \"Why choose us?\" within the first 5 seconds of a visitor landing on the website.",
+      "recommendedAction": "Place a clear headline stating your primary specialty, accompanied by 3 core benefit badges and client review ratings."
+    },
+    {
+      "title": "3. Dedicated Solution / Service Pages",
+      "businessImpact": "Allows Google to rank each specific service individually for targeted search queries in your area.",
+      "recommendedAction": "Build dedicated sub-pages for each major offering with project photos, client benefits, and an inquiry form."
+    },
+    {
+      "title": "4. Search Engine Snippet Optimization",
+      "businessImpact": "Improves the descriptive summary that prospective clients see on Google search result pages.",
+      "recommendedAction": "Craft compelling 150-character descriptions for each page inviting searchers to click and explore."
+    },
+    {
+      "title": "5. Modern Mobile Layout & Tap Targets",
+      "businessImpact": "Eliminates pinch-to-zoom and mis-taps on smartphones, ensuring a seamless experience for on-the-go clients.",
+      "recommendedAction": "Ensure all buttons and menus are at least 48px in height with generous spacing between clickable elements."
+    }
+  ],
+  "currentStrengths": [
+    "Clean web presence accessible across modern browsers."
+  ],
+  "recommendedWebsiteStructure": [
+    {
+      "pageName": "Home",
+      "purpose": "Create immediate authority, clearly state what you do, and drive visitors to request a quote or call.",
+      "keySections": [
+        "Hero with 1-Click Quote Button",
+        "Core Offerings Grid",
+        "Photo Showcase of Recent Work",
+        "Client Testimonials",
+        "Direct Contact Box"
+      ]
+    },
+    {
+      "pageName": "Services / Offerings",
+      "purpose": "Provide a transparent overview of capabilities, deliverables, and step-by-step process.",
+      "keySections": [
+        "Overview of Capabilities",
+        "What is Included",
+        "Process & Timeline",
+        "Frequently Asked Questions"
+      ]
+    },
+    {
+      "pageName": "Portfolio / Projects",
+      "purpose": "Provide tangible visual proof of craftsmanship and completed work to eliminate buyer hesitation.",
+      "keySections": [
+        "Filterable Project Gallery",
+        "Before & After Transformations",
+        "Client Success Quotes"
+      ]
+    },
+    {
+      "pageName": "About Us",
+      "purpose": "Humanize your business, demonstrate industry experience, and showcase team credentials.",
+      "keySections": [
+        "Our Story & Mission",
+        "Experience & Standards",
+        "Why Clients Choose Us",
+        "Leadership / Team"
+      ]
+    },
+    {
+      "pageName": "Contact & Inquiry",
+      "purpose": "Provide a simple, zero-friction point for visitors to call, email, chat, or visit.",
+      "keySections": [
+        "Simple 3-Field Quote Form",
+        "Direct Phone & WhatsApp Links",
+        "Business Hours",
+        "Location Map"
+      ]
+    }
+  ],
+  "nextSteps": [
+    {
+      "step": "Quick Conversion Wins: Add header phone number and mobile WhatsApp button",
+      "timeframe": "Days 1 - 3"
+    },
+    {
+      "step": "Content & Search Polish: Update Google titles, descriptions, and hero headlines",
+      "timeframe": "Week 1"
+    },
+    {
+      "step": "Visual Modernization: Deploy refined service cards, project gallery, and trust proof",
+      "timeframe": "Weeks 2 - 3"
+    }
+  ]
+}

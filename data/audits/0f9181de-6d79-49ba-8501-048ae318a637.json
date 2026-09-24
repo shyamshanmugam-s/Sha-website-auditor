@@ -1,0 +1,74 @@
+{
+  "id": "0f9181de-6d79-49ba-8501-048ae318a637",
+  "config": {
+    "url": "https://www.mfg.com",
+    "businessName": "MFG Custom Manufacturing Marketplace",
+    "location": "USA / Global",
+    "maxPages": 2
+  },
+  "status": "failed",
+  "createdAt": "2026-09-24T15:18:44.393Z",
+  "progressPercent": 35,
+  "currentStepMessage": "Audit failed: Could not access website: page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://mfg.com/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "crawledPagesCount": 1,
+  "totalPagesToCrawl": 2,
+  "pages": [
+    {
+      "url": "https://mfg.com/",
+      "finalUrl": "https://mfg.com/",
+      "statusCode": 0,
+      "statusText": "page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://mfg.com/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+      "contentType": "",
+      "responseTimeMs": 30008,
+      "title": "",
+      "metaDescription": "",
+      "canonicalUrl": "",
+      "h1s": [],
+      "headingTree": [],
+      "desktopScreenshot": "/screenshots/0f9181de-6d79-49ba-8501-048ae318a637/homepage-desktop-1790263168542.png",
+      "mobileScreenshot": "/screenshots/0f9181de-6d79-49ba-8501-048ae318a637/homepage-mobile-1790263193294.png",
+      "consoleErrors": [
+        {
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector",
+          "location": "https://use.fontawesome.com/releases/v5.2.0/css/all.css?ver=5.2.0"
+        },
+        {
+          "text": "Failed to load resource: net::ERR_BLOCKED_BY_CLIENT.Inspector",
+          "location": "https://kit.fontawesome.com/56c3f3820a.js?ver=5.15.4"
+        }
+      ],
+      "networkErrors": [
+        {
+          "url": "https://use.fontawesome.com/releases/v5.2.0/css/all.css?ver=5.2.0",
+          "status": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        },
+        {
+          "url": "https://kit.fontawesome.com/56c3f3820a.js?ver=5.15.4",
+          "status": "net::ERR_BLOCKED_BY_CLIENT.Inspector"
+        }
+      ],
+      "internalLinks": [],
+      "externalLinks": [],
+      "images": [],
+      "forms": [],
+      "contactSignals": {
+        "phones": [],
+        "emails": [],
+        "whatsapps": []
+      },
+      "securityHeaders": {},
+      "htmlLengthBytes": 0,
+      "evidenceIds": [
+        "E-002",
+        "E-003",
+        "E-004",
+        "E-005"
+      ]
+    }
+  ],
+  "evidenceRegistry": [],
+  "findings": [],
+  "startedAt": "2026-09-24T15:18:44.394Z",
+  "error": "Could not access website: page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://mfg.com/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+  "completedAt": "2026-09-24T15:19:55.896Z"
+}

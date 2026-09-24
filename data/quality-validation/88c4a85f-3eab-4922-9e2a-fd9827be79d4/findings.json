@@ -1,0 +1,133 @@
+[
+  {
+    "id": "TECH-001",
+    "category": "technical",
+    "priority": "CRITICAL",
+    "title": "Unencrypted HTTP Connection (Missing HTTPS)",
+    "observation": "The website loads over unencrypted HTTP: http://aainteriordesignstudio.com/",
+    "evidence": "Final resolved URL is http://aainteriordesignstudio.com/. All traffic and submitted form data is unencrypted in transit.",
+    "evidenceIds": [
+      "E-005",
+      "E-002",
+      "E-003"
+    ],
+    "impact": "Exposes users to eavesdropping and data interception, triggers browser security warnings, and negatively affects trust.",
+    "recommendation": "Install an SSL/TLS certificate and configure a 301 permanent redirect from HTTP to HTTPS for all routes.",
+    "verificationStatus": "TESTED",
+    "pageUrl": "http://aainteriordesignstudio.com/"
+  },
+  {
+    "id": "SEC-001",
+    "category": "security",
+    "priority": "MEDIUM",
+    "title": "Missing Defensive HTTP Security Headers (4 missing)",
+    "observation": "The web server response does not include standard defensive headers: Strict-Transport-Security (HSTS), Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options.",
+    "evidence": "Response headers from http://aainteriordesignstudio.com/ were inspected. Found: {\"hsts\":null,\"csp\":null,\"xFrameOptions\":null,\"xContentTypeOptions\":null,\"referrerPolicy\":null,\"permissionsPolicy\":null}",
+    "evidenceIds": [
+      "E-006"
+    ],
+    "impact": "Leaves the website vulnerable to clickjacking (missing X-Frame-Options), MIME-type sniffing, and cross-site scripting risks.",
+    "recommendation": "Configure your web server (Nginx/Apache/Cloudflare) to send HSTS, X-Frame-Options: SAMEORIGIN, and X-Content-Type-Options: nosniff headers.",
+    "verificationStatus": "OBSERVED",
+    "pageUrl": "http://aainteriordesignstudio.com/"
+  },
+  {
+    "id": "SEO-001",
+    "category": "seo",
+    "priority": "HIGH",
+    "title": "Missing Meta Descriptions (1/1 pages)",
+    "observation": "1 page(s) lack a <meta name=\"description\"> tag.",
+    "evidence": "Sample affected URLs:\n- http://aainteriordesignstudio.com/",
+    "evidenceIds": [
+      "E-007"
+    ],
+    "impact": "Search engines will automatically generate snippets from random body text, resulting in lower click-through rates (CTR) from search results.",
+    "recommendation": "Add unique, compelling meta descriptions (130-160 characters) containing primary keywords and a clear call to action for every page.",
+    "verificationStatus": "OBSERVED"
+  },
+  {
+    "id": "SEO-002",
+    "category": "seo",
+    "priority": "MEDIUM",
+    "title": "Improper H1 Heading Structure (1 missing, 0 multiple H1s)",
+    "observation": "1 page(s) have no <h1> tag, and 0 page(s) have multiple <h1> tags.",
+    "evidence": "Inspected 1 pages. Heading hierarchy should feature exactly one main H1 per page followed by logical H2s and H3s.",
+    "evidenceIds": [
+      "E-008"
+    ],
+    "impact": "Impairs search engine understanding of the page topic and causes screen readers confusion for accessible navigation.",
+    "recommendation": "Ensure every page contains exactly one unique, descriptive <h1> tag at the top of the content structure.",
+    "verificationStatus": "OBSERVED"
+  },
+  {
+    "id": "SEO-004",
+    "category": "seo",
+    "priority": "MEDIUM",
+    "title": "Missing Canonical URL Tags (1/1 pages)",
+    "observation": "1 pages do not declare a self-referencing canonical URL.",
+    "evidence": "Canonical tags are missing from <head> on 1 crawled pages.",
+    "evidenceIds": [
+      "E-009"
+    ],
+    "impact": "Risk of duplicate content penalties when pages are accessed via different URL variations (HTTP vs HTTPS, trailing slash, query parameters).",
+    "recommendation": "Add self-referencing <link rel=\"canonical\" href=\"https://...\" /> tags in the <head> of every published page.",
+    "verificationStatus": "OBSERVED"
+  },
+  {
+    "id": "CONV-001",
+    "category": "conversion",
+    "priority": "HIGH",
+    "title": "Limited Direct Lead Capture & Contact Channels",
+    "observation": "No clickable phone links (tel:), direct WhatsApp buttons, or interactive enquiry forms were detected across crawled pages.",
+    "evidence": "Inspected contact signals across 1 pages. Found: 0 phone numbers, 0 forms.",
+    "evidenceIds": [
+      "E-014"
+    ],
+    "impact": "Creates significant friction for prospective clients attempting to reach out, resulting in lost conversions and enquiries.",
+    "recommendation": "Add prominent \"Call Now\" (tel:), \"Chat on WhatsApp\", and quick quote enquiry forms in the header, hero, and sticky footer.",
+    "verificationStatus": "OBSERVED"
+  },
+  {
+    "id": "LOCAL-001",
+    "category": "local_seo",
+    "priority": "HIGH",
+    "title": "Target Location (Coimbatore, Tamil Nadu) Missing from Primary SEO Elements",
+    "observation": "The specified target geography \"Coimbatore, Tamil Nadu\" was not prominently detected in page titles, meta descriptions, or main headings.",
+    "evidence": "Crawled 1 pages. Checked <title>, <meta description>, and <h1> tags against location \"Coimbatore, Tamil Nadu\".",
+    "evidenceIds": [
+      "E-015"
+    ],
+    "impact": "Reduces visibility in localized search queries, Google Maps / Local Pack results, and nearby customer discovery.",
+    "recommendation": "Incorporate \"Coimbatore, Tamil Nadu\" naturally into the homepage title tag, H1 heading, service area sections, and footer contact block.",
+    "verificationStatus": "OBSERVED"
+  },
+  {
+    "id": "AI-VIS-001",
+    "category": "visual",
+    "priority": "MEDIUM",
+    "title": "Visual Hierarchy & Focal Point Modernization",
+    "observation": "Above-the-fold layout could benefit from stronger headline typography contrast, clear primary call-to-action prominence, and elevated modern spacing tokens.",
+    "evidence": "Evaluated 1 crawled templates. Visual inspection of hero and body sections indicates opportunity for enhanced visual contrast and modern design tokens.",
+    "evidenceIds": [
+      "E-002",
+      "E-011"
+    ],
+    "impact": "Modern, high-contrast visual design builds instant visitor trust and dramatically improves engagement time on landing.",
+    "recommendation": "Implement a refined typographic hierarchy (48px+ H1 hero, 20px lead paragraph), distinct high-contrast CTA button styling, and consistent 64px+ section spacing.",
+    "verificationStatus": "INFERRED"
+  },
+  {
+    "id": "AI-CONV-001",
+    "category": "conversion",
+    "priority": "HIGH",
+    "title": "Lead Capture & Instant Engagement Opportunity",
+    "observation": "The website lacks instant real-time conversion channels such as floating WhatsApp buttons or frictionless 2-field lead capture forms.",
+    "evidence": "Inspected conversion triggers across 1 pages. Direct WhatsApp messaging links or streamlined quote forms were not detected in the primary navigation or sticky footer.",
+    "evidenceIds": [
+      "E-014"
+    ],
+    "impact": "Up to 60% of modern mobile visitors prefer instant chat or 1-click quote requests over navigating to a separate contact page.",
+    "recommendation": "Add a persistent floating WhatsApp contact widget and an above-the-fold \"Get Instant Quote\" trigger.",
+    "verificationStatus": "INFERRED"
+  }
+]

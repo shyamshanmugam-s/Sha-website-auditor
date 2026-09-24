@@ -1,0 +1,226 @@
+[
+  {
+    "id": "E-001",
+    "type": "robots_check",
+    "category": "seo",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:24:55.193Z",
+    "status": "OBSERVED",
+    "description": "Robots.txt parsed. Disallowed paths: 0, Sitemaps: 0",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "disallowedPaths": [],
+      "sitemaps": []
+    }
+  },
+  {
+    "id": "E-002",
+    "type": "http_response",
+    "category": "technical",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:05.366Z",
+    "status": "TESTED",
+    "description": "HTTP status 200 (OK) returned in 3020ms.",
+    "metricValue": 3020,
+    "rawSnippet": null,
+    "data": {
+      "statusCode": 200,
+      "statusText": "OK",
+      "finalUrl": "http://aainteriordesignstudio.com/",
+      "contentType": "text/html",
+      "responseTimeMs": 3020
+    }
+  },
+  {
+    "id": "E-003",
+    "type": "console_errors",
+    "category": "technical",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:05.366Z",
+    "status": "OBSERVED",
+    "description": "Detected 1 JavaScript console errors.",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "consoleErrors": [
+        {
+          "text": "Failed to load resource: the server responded with a status of 403 ()",
+          "location": "https://www.dot-cafe.org/articles/minimalist-cafe-aesthetics-and-interior-design.html?psystem=PW&domain=aainteriordesignstudio.com&oref=http%3A%2F%2Faainteriordesignstudio.com%2F&trafficTarget=gd"
+        }
+      ]
+    }
+  },
+  {
+    "id": "E-004",
+    "type": "network_errors",
+    "category": "technical",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:05.366Z",
+    "status": "OBSERVED",
+    "description": "Detected 3 network request failures.",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "networkErrors": [
+        {
+          "url": "https://img1.wsimg.com/parking-lander/px.js?ch=1&abp=1&gdabp=true",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://img1.wsimg.com/parking-lander/px.js?ch=2&abp=2&gdabp=true",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.dot-cafe.org/articles/minimalist-cafe-aesthetics-and-interior-design.html?psystem=PW&domain=aainteriordesignstudio.com&oref=http%3A%2F%2Faainteriordesignstudio.com%2F&trafficTarget=gd",
+          "status": 403,
+          "statusText": ""
+        }
+      ]
+    }
+  },
+  {
+    "id": "E-005",
+    "type": "lighthouse_unavailable",
+    "category": "performance",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.728Z",
+    "status": "NOT VERIFIED",
+    "description": "Lighthouse execution could not complete: __name is not defined. Core Web Vitals labeled as NOT VERIFIED.",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-006",
+    "type": "https_check",
+    "category": "technical",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.752Z",
+    "status": "TESTED",
+    "description": "Website does not serve over HTTPS protocol.",
+    "metricValue": 0,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-007",
+    "type": "missing_security_headers",
+    "category": "security",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.752Z",
+    "status": "OBSERVED",
+    "description": "Missing recommended security headers: Strict-Transport-Security (HSTS), Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "missingHeaders": [
+        "Strict-Transport-Security (HSTS)",
+        "Content-Security-Policy (CSP)",
+        "X-Frame-Options",
+        "X-Content-Type-Options"
+      ]
+    }
+  },
+  {
+    "id": "E-008",
+    "type": "seo_meta_descriptions",
+    "category": "seo",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.752Z",
+    "status": "OBSERVED",
+    "description": "Missing meta descriptions on 1 out of 1 inspected pages.",
+    "metricValue": 1,
+    "rawSnippet": null,
+    "data": {
+      "missingCount": 1,
+      "samplePages": [
+        "http://aainteriordesignstudio.com/"
+      ]
+    }
+  },
+  {
+    "id": "E-009",
+    "type": "seo_canonical_tags",
+    "category": "seo",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.752Z",
+    "status": "OBSERVED",
+    "description": "1 pages missing <link rel=\"canonical\"> tag.",
+    "metricValue": 1,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-010",
+    "type": "visual_desktop_evidence",
+    "category": "visual",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.752Z",
+    "status": "OBSERVED",
+    "description": "Captured high-resolution desktop visual rendering (1440x900 viewport).",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "screenshot": "/screenshots/44b504a5-ff25-40d1-bbb0-9d29ec8c9a37/homepage-desktop-1790180698363.png"
+    }
+  },
+  {
+    "id": "E-011",
+    "type": "ux_navigation_map",
+    "category": "ux",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.752Z",
+    "status": "OBSERVED",
+    "description": "Discovered 0 internal navigation paths and 0 interactive forms across 1 pages.",
+    "metricValue": 0,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-012",
+    "type": "content_structure",
+    "category": "content",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.752Z",
+    "status": "OBSERVED",
+    "description": "Analyzed content structure across 1 pages containing 1 structured headings.",
+    "metricValue": 1,
+    "rawSnippet": null,
+    "data": {}
+  },
+  {
+    "id": "E-013",
+    "type": "conversion_contact_signals",
+    "category": "conversion",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.752Z",
+    "status": "OBSERVED",
+    "description": "Detected contact signals: 0 phone(s), 0 email(s), 0 WhatsApp link(s), 0 form(s).",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "phones": [],
+      "emails": [],
+      "whatsapps": [],
+      "formsCount": 0
+    }
+  },
+  {
+    "id": "E-014",
+    "type": "local_seo_signals",
+    "category": "local_seo",
+    "pageUrl": "http://aainteriordesignstudio.com/",
+    "timestamp": "2026-09-23T16:25:07.753Z",
+    "status": "OBSERVED",
+    "description": "Local SEO signals evaluated for business=\"AA Interior Design Studio\", location=\"Coimbatore, Tamil Nadu\".",
+    "metricValue": null,
+    "rawSnippet": null,
+    "data": {
+      "businessFound": false,
+      "locationFound": false,
+      "businessName": "AA Interior Design Studio",
+      "location": "Coimbatore, Tamil Nadu"
+    }
+  }
+]

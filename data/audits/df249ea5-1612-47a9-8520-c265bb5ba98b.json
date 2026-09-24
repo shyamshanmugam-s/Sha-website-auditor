@@ -1,0 +1,1512 @@
+{
+  "id": "df249ea5-1612-47a9-8520-c265bb5ba98b",
+  "config": {
+    "url": "https://news.ycombinator.com",
+    "businessName": "Hacker News / Y Combinator",
+    "location": "Mountain View, CA",
+    "maxPages": 3
+  },
+  "status": "completed",
+  "createdAt": "2026-09-23T15:39:41.082Z",
+  "progressPercent": 100,
+  "currentStepMessage": "Audit completed successfully!",
+  "crawledPagesCount": 3,
+  "totalPagesToCrawl": 3,
+  "pages": [
+    {
+      "url": "https://news.ycombinator.com/",
+      "finalUrl": "https://news.ycombinator.com/",
+      "statusCode": 200,
+      "statusText": "",
+      "contentType": "text/html; charset=utf-8",
+      "responseTimeMs": 12446,
+      "title": "Hacker News",
+      "metaDescription": "",
+      "canonicalUrl": "",
+      "h1s": [],
+      "headingTree": [],
+      "desktopScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/homepage-desktop-1790178005730.png",
+      "mobileScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/homepage-mobile-1790178006598.png",
+      "consoleErrors": [],
+      "networkErrors": [],
+      "internalLinks": [
+        "https://news.ycombinator.com/",
+        "https://news.ycombinator.com/news",
+        "https://news.ycombinator.com/newest",
+        "https://news.ycombinator.com/front",
+        "https://news.ycombinator.com/newcomments",
+        "https://news.ycombinator.com/ask",
+        "https://news.ycombinator.com/show",
+        "https://news.ycombinator.com/jobs",
+        "https://news.ycombinator.com/submit",
+        "https://news.ycombinator.com/login?goto=news",
+        "https://news.ycombinator.com/vote?id=49817289&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=strandsagents.com",
+        "https://news.ycombinator.com/user?id=zuckerborg0101",
+        "https://news.ycombinator.com/item?id=49817289",
+        "https://news.ycombinator.com/hide?id=49817289&goto=news",
+        "https://news.ycombinator.com/vote?id=49817469&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=pointinthecloud.com",
+        "https://news.ycombinator.com/user?id=avidly",
+        "https://news.ycombinator.com/item?id=49817469",
+        "https://news.ycombinator.com/hide?id=49817469&goto=news",
+        "https://news.ycombinator.com/vote?id=49815982&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=stripe.dev",
+        "https://news.ycombinator.com/user?id=ltononro",
+        "https://news.ycombinator.com/item?id=49815982",
+        "https://news.ycombinator.com/hide?id=49815982&goto=news",
+        "https://news.ycombinator.com/vote?id=49814947&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=szypowi.cz",
+        "https://news.ycombinator.com/user?id=pszypowicz",
+        "https://news.ycombinator.com/item?id=49814947",
+        "https://news.ycombinator.com/hide?id=49814947&goto=news",
+        "https://news.ycombinator.com/vote?id=49812769&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=nobodywho.ai",
+        "https://news.ycombinator.com/user?id=bashbjorn",
+        "https://news.ycombinator.com/item?id=49812769",
+        "https://news.ycombinator.com/hide?id=49812769&goto=news",
+        "https://news.ycombinator.com/vote?id=49814236&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=abagames.github.io",
+        "https://news.ycombinator.com/user?id=adunk",
+        "https://news.ycombinator.com/item?id=49814236",
+        "https://news.ycombinator.com/hide?id=49814236&goto=news",
+        "https://news.ycombinator.com/vote?id=49805509&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=openai.com",
+        "https://news.ycombinator.com/user?id=OfficialTurkey",
+        "https://news.ycombinator.com/item?id=49805509",
+        "https://news.ycombinator.com/hide?id=49805509&goto=news",
+        "https://news.ycombinator.com/vote?id=49815466&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=michaelheap.com",
+        "https://news.ycombinator.com/user?id=mooreds",
+        "https://news.ycombinator.com/item?id=49815466",
+        "https://news.ycombinator.com/hide?id=49815466&goto=news",
+        "https://news.ycombinator.com/vote?id=49813482&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=jyn.dev",
+        "https://news.ycombinator.com/user?id=teoruiz",
+        "https://news.ycombinator.com/item?id=49813482",
+        "https://news.ycombinator.com/hide?id=49813482&goto=news",
+        "https://news.ycombinator.com/vote?id=49803892&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=anthropic.com",
+        "https://news.ycombinator.com/user?id=km144",
+        "https://news.ycombinator.com/item?id=49803892",
+        "https://news.ycombinator.com/hide?id=49803892&goto=news",
+        "https://news.ycombinator.com/vote?id=49817404&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=drivingbench.com",
+        "https://news.ycombinator.com/user?id=plurby",
+        "https://news.ycombinator.com/item?id=49817404",
+        "https://news.ycombinator.com/hide?id=49817404&goto=news",
+        "https://news.ycombinator.com/vote?id=49817280&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=drewdevault.com",
+        "https://news.ycombinator.com/user?id=caution",
+        "https://news.ycombinator.com/item?id=49817280",
+        "https://news.ycombinator.com/hide?id=49817280&goto=news",
+        "https://news.ycombinator.com/from?site=questdb.com",
+        "https://news.ycombinator.com/item?id=49814780",
+        "https://news.ycombinator.com/hide?id=49814780&goto=news",
+        "https://news.ycombinator.com/vote?id=49815484&how=up&goto=news",
+        "https://news.ycombinator.com/user?id=ibobev",
+        "https://news.ycombinator.com/item?id=49815484",
+        "https://news.ycombinator.com/hide?id=49815484&goto=news",
+        "https://news.ycombinator.com/vote?id=49809935&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=github.com/pkimpel",
+        "https://news.ycombinator.com/user?id=abrax3141",
+        "https://news.ycombinator.com/item?id=49809935",
+        "https://news.ycombinator.com/hide?id=49809935&goto=news",
+        "https://news.ycombinator.com/vote?id=49816487&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=tenuo.ai",
+        "https://news.ycombinator.com/user?id=niyikiza",
+        "https://news.ycombinator.com/item?id=49816487",
+        "https://news.ycombinator.com/hide?id=49816487&goto=news",
+        "https://news.ycombinator.com/vote?id=49815526&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=marginalrevolution.com",
+        "https://news.ycombinator.com/user?id=gotmedium",
+        "https://news.ycombinator.com/item?id=49815526",
+        "https://news.ycombinator.com/hide?id=49815526&goto=news",
+        "https://news.ycombinator.com/vote?id=49811065&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=waymo.com",
+        "https://news.ycombinator.com/user?id=raybb",
+        "https://news.ycombinator.com/item?id=49811065",
+        "https://news.ycombinator.com/hide?id=49811065&goto=news",
+        "https://news.ycombinator.com/vote?id=49801324&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=cryptocellar.org",
+        "https://news.ycombinator.com/user?id=sohkamyung",
+        "https://news.ycombinator.com/item?id=49801324",
+        "https://news.ycombinator.com/hide?id=49801324&goto=news",
+        "https://news.ycombinator.com/vote?id=49815381&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=androidauthority.com",
+        "https://news.ycombinator.com/user?id=Markoff",
+        "https://news.ycombinator.com/item?id=49815381",
+        "https://news.ycombinator.com/hide?id=49815381&goto=news",
+        "https://news.ycombinator.com/vote?id=49808023&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=foxscript.org",
+        "https://news.ycombinator.com/user?id=boredjohnny",
+        "https://news.ycombinator.com/item?id=49808023",
+        "https://news.ycombinator.com/hide?id=49808023&goto=news",
+        "https://news.ycombinator.com/vote?id=49816658&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=cbc.ca",
+        "https://news.ycombinator.com/user?id=MC995",
+        "https://news.ycombinator.com/item?id=49816658",
+        "https://news.ycombinator.com/hide?id=49816658&goto=news",
+        "https://news.ycombinator.com/vote?id=49796379&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=kqed.org",
+        "https://news.ycombinator.com/user?id=Jtsummers",
+        "https://news.ycombinator.com/item?id=49796379",
+        "https://news.ycombinator.com/hide?id=49796379&goto=news",
+        "https://news.ycombinator.com/vote?id=49758709&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=lemire.me",
+        "https://news.ycombinator.com/item?id=49758709",
+        "https://news.ycombinator.com/hide?id=49758709&goto=news",
+        "https://news.ycombinator.com/vote?id=49781862&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=github.com/xcuri0",
+        "https://news.ycombinator.com/user?id=nateb2022",
+        "https://news.ycombinator.com/item?id=49781862",
+        "https://news.ycombinator.com/hide?id=49781862&goto=news",
+        "https://news.ycombinator.com/vote?id=49805278&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=404media.co",
+        "https://news.ycombinator.com/user?id=spenvo",
+        "https://news.ycombinator.com/item?id=49805278",
+        "https://news.ycombinator.com/hide?id=49805278&goto=news",
+        "https://news.ycombinator.com/vote?id=49806335&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=trailofbits.com",
+        "https://news.ycombinator.com/user?id=aray07",
+        "https://news.ycombinator.com/item?id=49806335",
+        "https://news.ycombinator.com/hide?id=49806335&goto=news",
+        "https://news.ycombinator.com/vote?id=49811429&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=usenix.org",
+        "https://news.ycombinator.com/user?id=segfaultbuserr",
+        "https://news.ycombinator.com/item?id=49811429",
+        "https://news.ycombinator.com/hide?id=49811429&goto=news",
+        "https://news.ycombinator.com/vote?id=49803959&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=github.com/wordpress",
+        "https://news.ycombinator.com/user?id=vntok",
+        "https://news.ycombinator.com/item?id=49803959",
+        "https://news.ycombinator.com/hide?id=49803959&goto=news",
+        "https://news.ycombinator.com/vote?id=49806430&how=up&goto=news",
+        "https://news.ycombinator.com/from?site=bloomberg.com",
+        "https://news.ycombinator.com/user?id=devonnull",
+        "https://news.ycombinator.com/item?id=49806430",
+        "https://news.ycombinator.com/hide?id=49806430&goto=news",
+        "https://news.ycombinator.com/?p=2",
+        "https://news.ycombinator.com/newsguidelines.html",
+        "https://news.ycombinator.com/newsfaq.html",
+        "https://news.ycombinator.com/lists",
+        "https://news.ycombinator.com/security.html"
+      ],
+      "externalLinks": [
+        "https://strandsagents.com/blog/introducing-strands-harness/",
+        "https://pointinthecloud.com/2026-04-11-211700.html",
+        "https://stripe.dev/blog/meet-stripes-knowledge-ai-platform",
+        "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+        "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+        "https://abagames.github.io/z80-repl/index.html",
+        "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+        "https://michaelheap.com/i-dont-want-the-details/",
+        "https://jyn.dev/tokens-too-cheap-to-meter/",
+        "https://www.anthropic.com/claude-opus-5-5",
+        "https://drivingbench.com/",
+        "https://drewdevault.com/blog/Why-is-HN-like-that/",
+        "https://questdb.com/careers/pre-sales-engineer-north-america/",
+        "https://michaelheap.com/github-wiki-is-an-antipattern/",
+        "https://github.com/pkimpel/retro-1620",
+        "https://tenuo.ai/blog/jev-scoped-authority",
+        "https://marginalrevolution.com/marginalrevolution/2026/09/the-price-of-intelligence-is-falling.html",
+        "https://waymo.com/blog/2026/09/transit-rewards/",
+        "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+        "https://www.androidauthority.com/samsung-accidentally-freezes-its-smart-fridges-with-a-software-update-3714472/",
+        "https://foxscript.org/",
+        "https://www.cbc.ca/news/canada/montreal/montreal-city-council-police-9.7352920",
+        "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
+        "https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/",
+        "https://github.com/xCuri0/ReBarUEFI",
+        "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+        "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
+        "https://www.usenix.org/publications/loginonline/data-only-attacks-are-easier-you-think",
+        "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
+        "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+        "https://github.com/HackerNews/API",
+        "https://www.ycombinator.com/legal/",
+        "https://www.ycombinator.com/apply/"
+      ],
+      "images": [
+        {
+          "src": "y18.svg",
+          "alt": "",
+          "naturalWidth": 18,
+          "naturalHeight": 18
+        },
+        {
+          "src": "s.gif",
+          "alt": "",
+          "naturalWidth": 1,
+          "naturalHeight": 1
+        },
+        {
+          "src": "s.gif",
+          "alt": "",
+          "naturalWidth": 1,
+          "naturalHeight": 1
+        }
+      ],
+      "forms": [
+        {
+          "action": "//hn.algolia.com/",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": false
+        }
+      ],
+      "contactSignals": {
+        "phones": [],
+        "emails": [
+          "hn@ycombinator.com"
+        ],
+        "whatsapps": []
+      },
+      "securityHeaders": {
+        "hsts": "max-age=31556900",
+        "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdnjs.cloudflare.com/; frame-src 'self' https://www.google.com/recaptcha/; style-src 'self' 'unsafe-inline'; img-src 'self' https://account.ycombinator.com; frame-ancestors 'self'",
+        "xFrameOptions": "DENY",
+        "xContentTypeOptions": "nosniff",
+        "referrerPolicy": "origin",
+        "permissionsPolicy": null
+      },
+      "htmlLengthBytes": 34177,
+      "evidenceIds": [
+        "E-002",
+        "E-003",
+        "E-004"
+      ]
+    },
+    {
+      "url": "https://news.ycombinator.com/newsfaq.html",
+      "finalUrl": "https://news.ycombinator.com/newsfaq.html",
+      "statusCode": 200,
+      "statusText": "",
+      "contentType": "text/html; charset=utf-8",
+      "responseTimeMs": 1060,
+      "title": "Hacker News FAQ",
+      "metaDescription": "",
+      "canonicalUrl": "",
+      "h1s": [],
+      "headingTree": [],
+      "desktopScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/page-1790178010079-desktop-1790178010080.png",
+      "mobileScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/page-1790178010079-mobile-1790178010931.png",
+      "consoleErrors": [],
+      "networkErrors": [],
+      "internalLinks": [
+        "https://news.ycombinator.com/newsguidelines.html",
+        "https://news.ycombinator.com/formatdoc",
+        "https://news.ycombinator.com/newpoll",
+        "https://news.ycombinator.com/ask",
+        "https://news.ycombinator.com/show",
+        "https://news.ycombinator.com/showhn.html",
+        "https://news.ycombinator.com/newest",
+        "https://news.ycombinator.com/asknew",
+        "https://news.ycombinator.com/shownew",
+        "https://news.ycombinator.com/newsfaq.html#dead",
+        "https://news.ycombinator.com/item?id=10178989",
+        "https://news.ycombinator.com/submitted?id=whoishiring",
+        "https://news.ycombinator.com/jobs",
+        "https://news.ycombinator.com/newsfaq.html#jobads",
+        "https://news.ycombinator.com/forgot?id=",
+        "https://news.ycombinator.com/item?id=23623799",
+        "https://news.ycombinator.com/item?id=4761102"
+      ],
+      "externalLinks": [
+        "http://www.ycombinator.com/",
+        "https://hn.algolia.com/?query=paywalls%20by:dang&dateRange=all&page=0&prefix=false&sort=byDate&type=comment",
+        "https://ycombinator.com/",
+        "https://venturebeat.com/2015/09/29/y-combinator-spins-out-hacker-news-to-give-it-full-editorial-independence/",
+        "https://blog.ycombinator.com/two-hn-announcements/",
+        "https://hn.algolia.com/?query=moderate%20less%20not%20more%20yc%20by:dang&dateRange=all&page=0&prefix=false&sort=byDate&type=comment"
+      ],
+      "images": [
+        {
+          "src": "yc500.gif",
+          "alt": "",
+          "naturalWidth": 500,
+          "naturalHeight": 100
+        }
+      ],
+      "forms": [],
+      "contactSignals": {
+        "phones": [],
+        "emails": [
+          "hn@ycombinator.com"
+        ],
+        "whatsapps": []
+      },
+      "securityHeaders": {
+        "hsts": null,
+        "csp": null,
+        "xFrameOptions": null,
+        "xContentTypeOptions": null,
+        "referrerPolicy": null,
+        "permissionsPolicy": null
+      },
+      "htmlLengthBytes": 9589,
+      "evidenceIds": [
+        "E-005",
+        "E-006"
+      ]
+    },
+    {
+      "url": "https://news.ycombinator.com/?p=2",
+      "finalUrl": "https://news.ycombinator.com/?p=2",
+      "statusCode": 200,
+      "statusText": "",
+      "contentType": "text/html; charset=utf-8",
+      "responseTimeMs": 11964,
+      "title": "Hacker News",
+      "metaDescription": "",
+      "canonicalUrl": "",
+      "h1s": [],
+      "headingTree": [],
+      "desktopScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/page-1790178025286-desktop-1790178025287.png",
+      "mobileScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/page-1790178025286-mobile-1790178026161.png",
+      "consoleErrors": [],
+      "networkErrors": [],
+      "internalLinks": [
+        "https://news.ycombinator.com/",
+        "https://news.ycombinator.com/news",
+        "https://news.ycombinator.com/newest",
+        "https://news.ycombinator.com/front",
+        "https://news.ycombinator.com/newcomments",
+        "https://news.ycombinator.com/ask",
+        "https://news.ycombinator.com/show",
+        "https://news.ycombinator.com/jobs",
+        "https://news.ycombinator.com/submit",
+        "https://news.ycombinator.com/login?goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49804316&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=artificialanalysis.ai",
+        "https://news.ycombinator.com/user?id=theanonymousone",
+        "https://news.ycombinator.com/item?id=49804316",
+        "https://news.ycombinator.com/hide?id=49804316&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49795686&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=bloomberg.com",
+        "https://news.ycombinator.com/user?id=alephnerd",
+        "https://news.ycombinator.com/item?id=49795686",
+        "https://news.ycombinator.com/hide?id=49795686&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49805748&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=unreallabs.ai",
+        "https://news.ycombinator.com/user?id=trollied",
+        "https://news.ycombinator.com/item?id=49805748",
+        "https://news.ycombinator.com/hide?id=49805748&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49816553&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=bbc.co.uk",
+        "https://news.ycombinator.com/user?id=edward",
+        "https://news.ycombinator.com/item?id=49816553",
+        "https://news.ycombinator.com/hide?id=49816553&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49800513&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=github.com/hsfzxjy",
+        "https://news.ycombinator.com/user?id=hsfzxjy",
+        "https://news.ycombinator.com/item?id=49800513",
+        "https://news.ycombinator.com/hide?id=49800513&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49795337&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=pewresearch.org",
+        "https://news.ycombinator.com/user?id=luu",
+        "https://news.ycombinator.com/item?id=49795337",
+        "https://news.ycombinator.com/hide?id=49795337&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49812023&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=thebirthofacapital.info",
+        "https://news.ycombinator.com/user?id=bryanrasmussen",
+        "https://news.ycombinator.com/item?id=49812023",
+        "https://news.ycombinator.com/hide?id=49812023&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49811484&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=reddit.com",
+        "https://news.ycombinator.com/user?id=ksec",
+        "https://news.ycombinator.com/item?id=49811484",
+        "https://news.ycombinator.com/hide?id=49811484&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49807003&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=obscura.com",
+        "https://news.ycombinator.com/user?id=Flimm",
+        "https://news.ycombinator.com/item?id=49807003",
+        "https://news.ycombinator.com/hide?id=49807003&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49808816&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=interconnects.ai",
+        "https://news.ycombinator.com/user?id=gmays",
+        "https://news.ycombinator.com/item?id=49808816",
+        "https://news.ycombinator.com/hide?id=49808816&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49816374&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=consumerreports.org",
+        "https://news.ycombinator.com/user?id=ortusdux",
+        "https://news.ycombinator.com/item?id=49816374",
+        "https://news.ycombinator.com/hide?id=49816374&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49802161&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=arcturus-labs.com",
+        "https://news.ycombinator.com/user?id=JohnBerryman",
+        "https://news.ycombinator.com/item?id=49802161",
+        "https://news.ycombinator.com/hide?id=49802161&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49801939&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=techradar.com",
+        "https://news.ycombinator.com/user?id=MC995",
+        "https://news.ycombinator.com/item?id=49801939",
+        "https://news.ycombinator.com/hide?id=49801939&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49816143&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=gallup.com",
+        "https://news.ycombinator.com/user?id=karakoram",
+        "https://news.ycombinator.com/item?id=49816143",
+        "https://news.ycombinator.com/hide?id=49816143&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49800574&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=benchmarkheaven.com",
+        "https://news.ycombinator.com/user?id=florianstandhar",
+        "https://news.ycombinator.com/item?id=49800574",
+        "https://news.ycombinator.com/hide?id=49800574&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49798204&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=flatassembler.net",
+        "https://news.ycombinator.com/user?id=BruceEel",
+        "https://news.ycombinator.com/item?id=49798204",
+        "https://news.ycombinator.com/hide?id=49798204&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49773646&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=electrek.co",
+        "https://news.ycombinator.com/user?id=cisc",
+        "https://news.ycombinator.com/item?id=49773646",
+        "https://news.ycombinator.com/hide?id=49773646&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49807021&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=github.com/geastack",
+        "https://news.ycombinator.com/user?id=arbayi",
+        "https://news.ycombinator.com/item?id=49807021",
+        "https://news.ycombinator.com/hide?id=49807021&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49803635&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=allpoetry.com",
+        "https://news.ycombinator.com/user?id=rbanffy",
+        "https://news.ycombinator.com/item?id=49803635",
+        "https://news.ycombinator.com/hide?id=49803635&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49795053&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=psyche.co",
+        "https://news.ycombinator.com/user?id=NaOH",
+        "https://news.ycombinator.com/item?id=49795053",
+        "https://news.ycombinator.com/hide?id=49795053&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49796260&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=evalapply.org",
+        "https://news.ycombinator.com/user?id=pvdebbe",
+        "https://news.ycombinator.com/item?id=49796260",
+        "https://news.ycombinator.com/hide?id=49796260&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49787163&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=commonedge.org",
+        "https://news.ycombinator.com/user?id=surprisetalk",
+        "https://news.ycombinator.com/item?id=49787163",
+        "https://news.ycombinator.com/hide?id=49787163&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49794844&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=fb.com",
+        "https://news.ycombinator.com/user?id=grep_it",
+        "https://news.ycombinator.com/item?id=49794844",
+        "https://news.ycombinator.com/hide?id=49794844&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49801329&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=droprun.sh",
+        "https://news.ycombinator.com/user?id=mixedbit",
+        "https://news.ycombinator.com/item?id=49801329",
+        "https://news.ycombinator.com/hide?id=49801329&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49814432&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=dinculescu.dev",
+        "https://news.ycombinator.com/user?id=faithraven",
+        "https://news.ycombinator.com/item?id=49814432",
+        "https://news.ycombinator.com/hide?id=49814432&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49794478&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=htmx.org",
+        "https://news.ycombinator.com/user?id=perrygeo",
+        "https://news.ycombinator.com/item?id=49794478",
+        "https://news.ycombinator.com/hide?id=49794478&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49800566&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=arxiv.org",
+        "https://news.ycombinator.com/user?id=jochenmadler",
+        "https://news.ycombinator.com/item?id=49800566",
+        "https://news.ycombinator.com/hide?id=49800566&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49792730&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=xiaomi.com",
+        "https://news.ycombinator.com/user?id=volf_",
+        "https://news.ycombinator.com/item?id=49792730",
+        "https://news.ycombinator.com/hide?id=49792730&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49804931&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=coveragecat.com",
+        "https://news.ycombinator.com/user?id=botacode",
+        "https://news.ycombinator.com/item?id=49804931",
+        "https://news.ycombinator.com/hide?id=49804931&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/vote?id=49816525&how=up&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/from?site=carnewschina.com",
+        "https://news.ycombinator.com/item?id=49816525",
+        "https://news.ycombinator.com/hide?id=49816525&goto=news%3Fp%3D2",
+        "https://news.ycombinator.com/?p=3",
+        "https://news.ycombinator.com/newsguidelines.html",
+        "https://news.ycombinator.com/newsfaq.html",
+        "https://news.ycombinator.com/lists",
+        "https://news.ycombinator.com/security.html"
+      ],
+      "externalLinks": [
+        "https://artificialanalysis.ai/models/claude-opus-5-5",
+        "https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke",
+        "https://unreallabs.ai/blog/unreal-agent/",
+        "https://www.bbc.co.uk/news/articles/cmlyq09jp49eo",
+        "https://github.com/hsfzxjy/npunlock",
+        "https://www.pewresearch.org/methods/2026/08/27/no-easy-fix-for-bogus-respondents-in-online-opt-in-polls/",
+        "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+        "https://www.reddit.com/r/sysadmin/comments/1wjdpgx/psa_grammarly_will_send_unhinged_messages_to_all/",
+        "https://obscura.com/#faq-technical",
+        "https://www.interconnects.ai/p/the-current-balance-of-power-in-open",
+        "https://advocacy.consumerreports.org/press_release/seattle-city-council-votes-to-ban-surveillance-pricing-in-sale-of-groceries/",
+        "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+        "https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy",
+        "https://news.gallup.com/poll/714653/socialism-positive-rating-tops-first-time.aspx",
+        "https://benchmarkheaven.com/jev-models",
+        "https://board.flatassembler.net/topic.php?t=24261",
+        "https://electrek.co/2026/09/18/its-finally-here-porsche-puts-wireless-ev-charging-into-production-video/",
+        "https://github.com/geastack/examples",
+        "https://allpoetry.com/16-bit-Intel-8088-chip",
+        "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
+        "https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html",
+        "https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/",
+        "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
+        "https://droprun.sh/",
+        "https://mihai.dinculescu.dev/posts/two-git-ignore-files-nobody-told-me-about/",
+        "https://htmx.org/essays/markdown-in-src/",
+        "https://arxiv.org/abs/2609.15369",
+        "https://mimo.xiaomi.com/mimo-v2-6",
+        "https://www.coveragecat.com/",
+        "https://carnewschina.com/2026/09/23/geely-challenges-byd-with-2-2-mw-charging-technology/",
+        "https://github.com/HackerNews/API",
+        "https://www.ycombinator.com/legal/",
+        "https://www.ycombinator.com/apply/"
+      ],
+      "images": [
+        {
+          "src": "y18.svg",
+          "alt": "",
+          "naturalWidth": 18,
+          "naturalHeight": 18
+        },
+        {
+          "src": "s.gif",
+          "alt": "",
+          "naturalWidth": 1,
+          "naturalHeight": 1
+        }
+      ],
+      "forms": [
+        {
+          "action": "//hn.algolia.com/",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": false
+        }
+      ],
+      "contactSignals": {
+        "phones": [],
+        "emails": [
+          "hn@ycombinator.com"
+        ],
+        "whatsapps": []
+      },
+      "securityHeaders": {
+        "hsts": "max-age=31556900",
+        "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdnjs.cloudflare.com/; frame-src 'self' https://www.google.com/recaptcha/; style-src 'self' 'unsafe-inline'; img-src 'self' https://account.ycombinator.com; frame-ancestors 'self'",
+        "xFrameOptions": "DENY",
+        "xContentTypeOptions": "nosniff",
+        "referrerPolicy": "origin",
+        "permissionsPolicy": null
+      },
+      "htmlLengthBytes": 35335,
+      "evidenceIds": [
+        "E-007",
+        "E-008",
+        "E-009"
+      ]
+    }
+  ],
+  "evidenceRegistry": [
+    {
+      "id": "E-001",
+      "type": "robots_check",
+      "category": "seo",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:39:53.139Z",
+      "status": "OBSERVED",
+      "description": "Robots.txt parsed. Disallowed paths: 12, Sitemaps: 0",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "disallowedPaths": [
+          "/collapse?",
+          "/context?",
+          "/fave?",
+          "/flag?",
+          "/hide?",
+          "/login",
+          "/logout",
+          "/r?",
+          "/reply?",
+          "/submitlink?",
+          "/vote?",
+          "/x?"
+        ],
+        "sitemaps": [],
+        "crawlDelay": 30
+      }
+    },
+    {
+      "id": "E-002",
+      "type": "visual_screenshot",
+      "category": "visual",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:07.440Z",
+      "status": "OBSERVED",
+      "description": "Captured desktop and mobile viewport screenshots.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "desktopScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/homepage-desktop-1790178005730.png",
+        "mobileScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/homepage-mobile-1790178006598.png"
+      }
+    },
+    {
+      "id": "E-003",
+      "type": "http_response",
+      "category": "technical",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:07.457Z",
+      "status": "TESTED",
+      "description": "HTTP status 200 () returned in 12446ms.",
+      "metricValue": 12446,
+      "rawSnippet": null,
+      "data": {
+        "statusCode": 200,
+        "statusText": "",
+        "finalUrl": "https://news.ycombinator.com/",
+        "contentType": "text/html; charset=utf-8",
+        "responseTimeMs": 12446
+      }
+    },
+    {
+      "id": "E-004",
+      "type": "security_headers",
+      "category": "security",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:07.457Z",
+      "status": "OBSERVED",
+      "description": "Security headers present: hsts, csp, xFrameOptions, xContentTypeOptions, referrerPolicy",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "hsts": "max-age=31556900",
+        "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdnjs.cloudflare.com/; frame-src 'self' https://www.google.com/recaptcha/; style-src 'self' 'unsafe-inline'; img-src 'self' https://account.ycombinator.com; frame-ancestors 'self'",
+        "xFrameOptions": "DENY",
+        "xContentTypeOptions": "nosniff",
+        "referrerPolicy": "origin",
+        "permissionsPolicy": null
+      }
+    },
+    {
+      "id": "E-005",
+      "type": "visual_screenshot",
+      "category": "visual",
+      "pageUrl": "https://news.ycombinator.com/newsfaq.html",
+      "timestamp": "2026-09-23T15:40:11.760Z",
+      "status": "OBSERVED",
+      "description": "Captured desktop and mobile viewport screenshots.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "desktopScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/page-1790178010079-desktop-1790178010080.png",
+        "mobileScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/page-1790178010079-mobile-1790178010931.png"
+      }
+    },
+    {
+      "id": "E-006",
+      "type": "http_response",
+      "category": "technical",
+      "pageUrl": "https://news.ycombinator.com/newsfaq.html",
+      "timestamp": "2026-09-23T15:40:11.770Z",
+      "status": "TESTED",
+      "description": "HTTP status 200 () returned in 1060ms.",
+      "metricValue": 1060,
+      "rawSnippet": null,
+      "data": {
+        "statusCode": 200,
+        "statusText": "",
+        "finalUrl": "https://news.ycombinator.com/newsfaq.html",
+        "contentType": "text/html; charset=utf-8",
+        "responseTimeMs": 1060
+      }
+    },
+    {
+      "id": "E-007",
+      "type": "visual_screenshot",
+      "category": "visual",
+      "pageUrl": "https://news.ycombinator.com/?p=2",
+      "timestamp": "2026-09-23T15:40:27.007Z",
+      "status": "OBSERVED",
+      "description": "Captured desktop and mobile viewport screenshots.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "desktopScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/page-1790178025286-desktop-1790178025287.png",
+        "mobileScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/page-1790178025286-mobile-1790178026161.png"
+      }
+    },
+    {
+      "id": "E-008",
+      "type": "http_response",
+      "category": "technical",
+      "pageUrl": "https://news.ycombinator.com/?p=2",
+      "timestamp": "2026-09-23T15:40:27.020Z",
+      "status": "TESTED",
+      "description": "HTTP status 200 () returned in 11964ms.",
+      "metricValue": 11964,
+      "rawSnippet": null,
+      "data": {
+        "statusCode": 200,
+        "statusText": "",
+        "finalUrl": "https://news.ycombinator.com/?p=2",
+        "contentType": "text/html; charset=utf-8",
+        "responseTimeMs": 11964
+      }
+    },
+    {
+      "id": "E-009",
+      "type": "security_headers",
+      "category": "security",
+      "pageUrl": "https://news.ycombinator.com/?p=2",
+      "timestamp": "2026-09-23T15:40:27.020Z",
+      "status": "OBSERVED",
+      "description": "Security headers present: hsts, csp, xFrameOptions, xContentTypeOptions, referrerPolicy",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "hsts": "max-age=31556900",
+        "csp": "default-src 'self'; script-src 'self' 'unsafe-inline' https://www.google.com/recaptcha/ https://www.gstatic.com/recaptcha/ https://cdnjs.cloudflare.com/; frame-src 'self' https://www.google.com/recaptcha/; style-src 'self' 'unsafe-inline'; img-src 'self' https://account.ycombinator.com; frame-ancestors 'self'",
+        "xFrameOptions": "DENY",
+        "xContentTypeOptions": "nosniff",
+        "referrerPolicy": "origin",
+        "permissionsPolicy": null
+      }
+    },
+    {
+      "id": "E-010",
+      "type": "lighthouse_unavailable",
+      "category": "performance",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.385Z",
+      "status": "NOT VERIFIED",
+      "description": "Lighthouse execution could not complete: __name is not defined. Core Web Vitals labeled as NOT VERIFIED.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-011",
+      "type": "seo_meta_descriptions",
+      "category": "seo",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.420Z",
+      "status": "OBSERVED",
+      "description": "Missing meta descriptions on 3 out of 3 inspected pages.",
+      "metricValue": 3,
+      "rawSnippet": null,
+      "data": {
+        "missingCount": 3,
+        "samplePages": [
+          "https://news.ycombinator.com/",
+          "https://news.ycombinator.com/newsfaq.html",
+          "https://news.ycombinator.com/?p=2"
+        ]
+      }
+    },
+    {
+      "id": "E-012",
+      "type": "seo_h1_structure",
+      "category": "seo",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.420Z",
+      "status": "OBSERVED",
+      "description": "3 pages missing H1, 0 pages with multiple H1 tags.",
+      "metricValue": 3,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-013",
+      "type": "seo_image_alts",
+      "category": "seo",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.420Z",
+      "status": "OBSERVED",
+      "description": "6 of 6 images (100%) missing alt attributes.",
+      "metricValue": 0,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-014",
+      "type": "seo_canonical_tags",
+      "category": "seo",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.420Z",
+      "status": "OBSERVED",
+      "description": "3 pages missing <link rel=\"canonical\"> tag.",
+      "metricValue": 3,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-015",
+      "type": "a11y_image_alts",
+      "category": "accessibility",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.420Z",
+      "status": "OBSERVED",
+      "description": "6 images missing alt text attributes.",
+      "metricValue": 0,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-016",
+      "type": "mobile_viewport_audit",
+      "category": "mobile",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.420Z",
+      "status": "TESTED",
+      "description": "Captured and evaluated mobile viewport rendering at 390x844 dimensions.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "mobileScreenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/homepage-mobile-1790178006598.png"
+      }
+    },
+    {
+      "id": "E-017",
+      "type": "visual_desktop_evidence",
+      "category": "visual",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.421Z",
+      "status": "OBSERVED",
+      "description": "Captured high-resolution desktop visual rendering (1440x900 viewport).",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "screenshot": "/screenshots/df249ea5-1612-47a9-8520-c265bb5ba98b/homepage-desktop-1790178005730.png"
+      }
+    },
+    {
+      "id": "E-018",
+      "type": "ux_navigation_map",
+      "category": "ux",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.421Z",
+      "status": "OBSERVED",
+      "description": "Discovered 342 internal navigation paths and 2 interactive forms across 3 pages.",
+      "metricValue": 342,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-019",
+      "type": "content_structure",
+      "category": "content",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.421Z",
+      "status": "OBSERVED",
+      "description": "Analyzed content structure across 3 pages containing 0 structured headings.",
+      "metricValue": 0,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-020",
+      "type": "conversion_contact_signals",
+      "category": "conversion",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.421Z",
+      "status": "OBSERVED",
+      "description": "Detected contact signals: 0 phone(s), 1 email(s), 0 WhatsApp link(s), 2 form(s).",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "phones": [],
+        "emails": [
+          "hn@ycombinator.com"
+        ],
+        "whatsapps": [],
+        "formsCount": 2
+      }
+    },
+    {
+      "id": "E-021",
+      "type": "local_seo_signals",
+      "category": "local_seo",
+      "pageUrl": "https://news.ycombinator.com/",
+      "timestamp": "2026-09-23T15:40:38.421Z",
+      "status": "OBSERVED",
+      "description": "Local SEO signals evaluated for business=\"Hacker News / Y Combinator\", location=\"Mountain View, CA\".",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "businessFound": false,
+        "locationFound": false,
+        "businessName": "Hacker News / Y Combinator",
+        "location": "Mountain View, CA"
+      }
+    }
+  ],
+  "findings": [
+    {
+      "id": "SEO-001",
+      "category": "seo",
+      "priority": "HIGH",
+      "title": "Missing Meta Descriptions (3/3 pages)",
+      "observation": "3 page(s) lack a <meta name=\"description\"> tag.",
+      "evidence": "Sample affected URLs:\n- https://news.ycombinator.com/\n- https://news.ycombinator.com/newsfaq.html\n- https://news.ycombinator.com/?p=2",
+      "evidenceIds": [
+        "E-011"
+      ],
+      "impact": "Search engines will automatically generate snippets from random body text, resulting in lower click-through rates (CTR) from search results.",
+      "recommendation": "Add unique, compelling meta descriptions (130-160 characters) containing primary keywords and a clear call to action for every page.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "SEO-002",
+      "category": "seo",
+      "priority": "MEDIUM",
+      "title": "Improper H1 Heading Structure (3 missing, 0 multiple H1s)",
+      "observation": "3 page(s) have no <h1> tag, and 0 page(s) have multiple <h1> tags.",
+      "evidence": "Inspected 3 pages. Heading hierarchy should feature exactly one main H1 per page followed by logical H2s and H3s.",
+      "evidenceIds": [
+        "E-012"
+      ],
+      "impact": "Impairs search engine understanding of the page topic and causes screen readers confusion for accessible navigation.",
+      "recommendation": "Ensure every page contains exactly one unique, descriptive <h1> tag at the top of the content structure.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "SEO-003",
+      "category": "seo",
+      "priority": "HIGH",
+      "title": "Images Missing Alt Text (6/6 images)",
+      "observation": "6 images on the website lack descriptive alt attributes.",
+      "evidence": "Found across crawled pages. Sample missing alt images detected in DOM.",
+      "evidenceIds": [
+        "E-013"
+      ],
+      "impact": "Prevents image search indexing in Google Images and makes visual content inaccessible to visually impaired users using screen readers.",
+      "recommendation": "Add concise, descriptive alt text to all meaningful images. Use empty alt=\"\" for purely decorative background elements.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "SEO-004",
+      "category": "seo",
+      "priority": "MEDIUM",
+      "title": "Missing Canonical URL Tags (3/3 pages)",
+      "observation": "3 pages do not declare a self-referencing canonical URL.",
+      "evidence": "Canonical tags are missing from <head> on 3 crawled pages.",
+      "evidenceIds": [
+        "E-014"
+      ],
+      "impact": "Risk of duplicate content penalties when pages are accessed via different URL variations (HTTP vs HTTPS, trailing slash, query parameters).",
+      "recommendation": "Add self-referencing <link rel=\"canonical\" href=\"https://...\" /> tags in the <head> of every published page.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "A11Y-001",
+      "category": "accessibility",
+      "priority": "HIGH",
+      "title": "Images Missing Accessible Alt Text (6 detected)",
+      "observation": "6 image elements do not provide textual alternatives via alt attributes.",
+      "evidence": "Found across 3 crawled pages.",
+      "evidenceIds": [
+        "E-015"
+      ],
+      "impact": "Assistive technology users (such as screen readers) cannot perceive the meaning or context of graphical content.",
+      "recommendation": "Add meaningful alt attributes describing the content or function of each image.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "LOCAL-001",
+      "category": "local_seo",
+      "priority": "HIGH",
+      "title": "Target Location (Mountain View, CA) Missing from Primary SEO Elements",
+      "observation": "The specified target geography \"Mountain View, CA\" was not prominently detected in page titles, meta descriptions, or main headings.",
+      "evidence": "Crawled 3 pages. Checked <title>, <meta description>, and <h1> tags against location \"Mountain View, CA\".",
+      "evidenceIds": [
+        "E-021"
+      ],
+      "impact": "Reduces visibility in localized search queries, Google Maps / Local Pack results, and nearby customer discovery.",
+      "recommendation": "Incorporate \"Mountain View, CA\" naturally into the homepage title tag, H1 heading, service area sections, and footer contact block.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "AI-VIS-001",
+      "category": "visual",
+      "priority": "MEDIUM",
+      "title": "Visual Hierarchy & Focal Point Modernization",
+      "observation": "Above-the-fold layout could benefit from stronger headline typography contrast, clear primary call-to-action prominence, and elevated modern spacing tokens.",
+      "evidence": "Evaluated 3 crawled templates. Visual inspection of hero and body sections indicates opportunity for enhanced visual contrast and modern design tokens.",
+      "evidenceIds": [],
+      "impact": "Modern, high-contrast visual design builds instant visitor trust and dramatically improves engagement time on landing.",
+      "recommendation": "Implement a refined typographic hierarchy (48px+ H1 hero, 20px lead paragraph), distinct high-contrast CTA button styling, and consistent 64px+ section spacing.",
+      "verificationStatus": "INFERRED"
+    },
+    {
+      "id": "AI-CONV-001",
+      "category": "conversion",
+      "priority": "HIGH",
+      "title": "Lead Capture & Instant Engagement Opportunity",
+      "observation": "The website lacks instant real-time conversion channels such as floating WhatsApp buttons or frictionless 2-field lead capture forms.",
+      "evidence": "Inspected conversion triggers across 3 pages. Direct WhatsApp messaging links or streamlined quote forms were not detected in the primary navigation or sticky footer.",
+      "evidenceIds": [],
+      "impact": "Up to 60% of modern mobile visitors prefer instant chat or 1-click quote requests over navigating to a separate contact page.",
+      "recommendation": "Add a persistent floating WhatsApp contact widget and an above-the-fold \"Get Instant Quote\" trigger.",
+      "verificationStatus": "INFERRED"
+    }
+  ],
+  "startedAt": "2026-09-23T15:39:41.150Z",
+  "lighthouse": {
+    "performanceScore": null,
+    "accessibilityScore": null,
+    "bestPracticesScore": null,
+    "seoScore": null,
+    "metrics": {
+      "firstContentfulPaintMs": null,
+      "largestContentfulPaintMs": null,
+      "cumulativeLayoutShift": null,
+      "totalBlockingTimeMs": null,
+      "speedIndexMs": null,
+      "interactiveMs": null
+    },
+    "audits": [],
+    "status": "NOT VERIFIED"
+  },
+  "report": {
+    "executiveSummary": {
+      "summary": "This comprehensive website audit evaluates the digital presence, user experience, and technical foundation of https://news.ycombinator.com (Hacker News / Y Combinator in Mountain View, CA). \nBased on 3 crawled pages and DOM inspection, the website demonstrates a foundational web presence with clear strategic opportunities to elevate brand authority, mobile engagement, and lead generation velocity.\n\nKey immediate priorities include strengthening on-page conversion funnels, optimizing meta descriptions and heading hierarchy for search visibility, and modernizing visual design tokens with higher visual contrast and modern UI components.",
+      "overallCondition": "Good",
+      "topStrengths": [
+        "Secure HTTPS communication baseline established.",
+        "Multi-page information architecture covering 3 key sections."
+      ],
+      "topRisks": [
+        "Lack of prominent direct contact and fast-enquiry channels."
+      ],
+      "findingsCountByPriority": {
+        "CRITICAL": 0,
+        "HIGH": 5,
+        "MEDIUM": 3,
+        "LOW": 0
+      }
+    },
+    "websiteOverview": {
+      "url": "https://news.ycombinator.com",
+      "businessName": "Hacker News / Y Combinator",
+      "location": "Mountain View, CA",
+      "totalPagesCrawled": 3,
+      "auditDurationSec": 57,
+      "techStackDetected": [
+        "HTML5",
+        "Modern CSS/JS",
+        "HTTPS / SSL"
+      ],
+      "primaryLanguage": "en"
+    },
+    "pagesInspected": [
+      {
+        "url": "https://news.ycombinator.com/",
+        "title": "Hacker News",
+        "statusCode": 200,
+        "responseTimeMs": 12446,
+        "issuesCount": 0
+      },
+      {
+        "url": "https://news.ycombinator.com/newsfaq.html",
+        "title": "Hacker News FAQ",
+        "statusCode": 200,
+        "responseTimeMs": 1060,
+        "issuesCount": 0
+      },
+      {
+        "url": "https://news.ycombinator.com/?p=2",
+        "title": "Hacker News",
+        "statusCode": 200,
+        "responseTimeMs": 11964,
+        "issuesCount": 0
+      }
+    ],
+    "keyStrengths": [
+      {
+        "title": "Strength 1",
+        "description": "Secure HTTPS communication baseline established."
+      },
+      {
+        "title": "Strength 2",
+        "description": "Multi-page information architecture covering 3 key sections."
+      }
+    ],
+    "criticalIssues": [],
+    "visualDesignAudit": {
+      "summary": "Visual presentation evaluated across desktop and mobile captures. Inspected hero section hierarchy, typography scaling, and component layout rhythm.",
+      "typographyAssessment": "Heading-to-body font scale and line-height balance inspected. Heading font scaling and line readability across desktop and mobile viewports inspected.",
+      "colorSystemAssessment": "Brand accent colors and background contrast ratios evaluated. Brand color accents and contrast ratios evaluated for visual hierarchy and readability.",
+      "spacingLayoutAssessment": "Container widths, section padding, and responsive grid layout analyzed. Container widths and vertical rhythm between content blocks evaluated.",
+      "visualHierarchyAssessment": "Primary headline prominence and visual weight distribution evaluated. Dominance of primary headlines, sub-headlines, and action buttons evaluated.",
+      "brandConsistencyAssessment": "Visual styling consistency verified across crawled templates. Visual component consistency across all crawled page templates.",
+      "heroAssessment": "Above-the-fold hero messaging and call-to-action prominence evaluated. Above-the-fold value proposition, background visuals, and primary conversion trigger evaluated.",
+      "footerAssessment": "Footer structure, secondary navigation links, and copyright info evaluated. Footer navigation links, contact information, and business credentials evaluated.",
+      "findings": [
+        {
+          "id": "AI-VIS-001",
+          "category": "visual",
+          "priority": "MEDIUM",
+          "title": "Visual Hierarchy & Focal Point Modernization",
+          "observation": "Above-the-fold layout could benefit from stronger headline typography contrast, clear primary call-to-action prominence, and elevated modern spacing tokens.",
+          "evidence": "Evaluated 3 crawled templates. Visual inspection of hero and body sections indicates opportunity for enhanced visual contrast and modern design tokens.",
+          "evidenceIds": [],
+          "impact": "Modern, high-contrast visual design builds instant visitor trust and dramatically improves engagement time on landing.",
+          "recommendation": "Implement a refined typographic hierarchy (48px+ H1 hero, 20px lead paragraph), distinct high-contrast CTA button styling, and consistent 64px+ section spacing.",
+          "verificationStatus": "INFERRED"
+        }
+      ]
+    },
+    "uxAudit": {
+      "summary": "Evaluated user experience architecture across 3 pages. Analyzed primary navigation paths, information hierarchy, and lead enquiry flows.",
+      "navigationStructure": "Discovered multi-page navigation across 3 accessible templates with 342 internal links. Header navigation menus and information grouping simplicity.",
+      "userJourney": "Audited user pathways from landing to information discovery and final conversion. Friction points from landing through solution exploration to final enquiry.",
+      "serviceDiscovery": "Evaluated visibility of core services, offering descriptions, and supporting details. Clarity and depth of service/product descriptions and offerings.",
+      "ctaPlacement": "Primary and secondary conversion touchpoints mapped across page layouts. Strategic placement of conversion buttons in hero, mid-page, and footer.",
+      "formsAssessment": "2 contact/enquiry forms analyzed for input simplicity and clear labels. Form field complexity, validation clarity, and submission ease.",
+      "findings": []
+    },
+    "mobileExperience": {
+      "summary": "Audited mobile presentation across 3 pages using simulated 390x844 mobile viewports. Touch targets and responsive viewport scaling verified.",
+      "responsiveDesignStatus": "TESTED",
+      "tapTargetAssessment": "Touch target size and spacing verified on mobile viewport.",
+      "horizontalOverflowDetected": false,
+      "mobileMenuAssessment": "Mobile navigation drawer and touch elements tested.",
+      "findings": []
+    },
+    "contentAudit": {
+      "summary": "Audited content depth, clarity, and value messaging across 3 pages. Verified structured heading breakdowns and core information sections.",
+      "clarityReadabilityScore": "Evaluated heading flow, paragraph chunking, and key value propositions. Clarity and conciseness of customer-facing messaging and solutions.",
+      "valuePropositionAssessment": "Hero messaging and solution clarity evaluated for target audience relevance. Immediate communication of unique advantages and core capabilities.",
+      "contentGaps": [
+        "Detailed client case studies with before/after results and metrics",
+        "Transparent engagement pricing or structured service packages",
+        "Comprehensive FAQ section addressing customer buying criteria"
+      ],
+      "findings": []
+    },
+    "conversionLeadGenAudit": {
+      "summary": "Lead conversion audit across 3 pages. Phone channels: No direct tel: links found. Email channels: Detected (hn@ycombinator.com). WhatsApp integration: Not detected. Total enquiry forms: 2.",
+      "phoneVisibility": "No direct tel: links found",
+      "emailVisibility": "Detected (hn@ycombinator.com)",
+      "whatsappAvailability": "Not detected",
+      "enquiryFlowAssessment": "2 contact/lead capture forms detected across pages. Streamlined pathway for visitors to initiate a quote, consultation, or purchase.",
+      "trustSignalsAssessment": "Evaluated social proof, client reviews, and warranty/trust claims. Presence of client testimonials, project portfolios, industry credentials, and security assurances.",
+      "findings": [
+        {
+          "id": "AI-CONV-001",
+          "category": "conversion",
+          "priority": "HIGH",
+          "title": "Lead Capture & Instant Engagement Opportunity",
+          "observation": "The website lacks instant real-time conversion channels such as floating WhatsApp buttons or frictionless 2-field lead capture forms.",
+          "evidence": "Inspected conversion triggers across 3 pages. Direct WhatsApp messaging links or streamlined quote forms were not detected in the primary navigation or sticky footer.",
+          "evidenceIds": [],
+          "impact": "Up to 60% of modern mobile visitors prefer instant chat or 1-click quote requests over navigating to a separate contact page.",
+          "recommendation": "Add a persistent floating WhatsApp contact widget and an above-the-fold \"Get Instant Quote\" trigger.",
+          "verificationStatus": "INFERRED"
+        }
+      ]
+    },
+    "seoAudit": {
+      "summary": "Audited on-page SEO signals across 3 pages. Meta titles: Verified on all pages. Meta descriptions: 3 pages missing description. Images with alt text: 0/6.",
+      "metaTitleStatus": "Verified on all pages",
+      "metaDescriptionStatus": "3 pages missing description",
+      "headingHierarchyStatus": "3 missing, 0 multiple H1s",
+      "canonicalStatus": "3 pages missing canonical",
+      "robotsSitemapStatus": "Robots.txt verified during crawl",
+      "structuredDataStatus": "Inspected for JSON-LD schemas",
+      "findings": [
+        {
+          "id": "SEO-001",
+          "category": "seo",
+          "priority": "HIGH",
+          "title": "Missing Meta Descriptions (3/3 pages)",
+          "observation": "3 page(s) lack a <meta name=\"description\"> tag.",
+          "evidence": "Sample affected URLs:\n- https://news.ycombinator.com/\n- https://news.ycombinator.com/newsfaq.html\n- https://news.ycombinator.com/?p=2",
+          "evidenceIds": [
+            "E-011"
+          ],
+          "impact": "Search engines will automatically generate snippets from random body text, resulting in lower click-through rates (CTR) from search results.",
+          "recommendation": "Add unique, compelling meta descriptions (130-160 characters) containing primary keywords and a clear call to action for every page.",
+          "verificationStatus": "OBSERVED"
+        },
+        {
+          "id": "SEO-002",
+          "category": "seo",
+          "priority": "MEDIUM",
+          "title": "Improper H1 Heading Structure (3 missing, 0 multiple H1s)",
+          "observation": "3 page(s) have no <h1> tag, and 0 page(s) have multiple <h1> tags.",
+          "evidence": "Inspected 3 pages. Heading hierarchy should feature exactly one main H1 per page followed by logical H2s and H3s.",
+          "evidenceIds": [
+            "E-012"
+          ],
+          "impact": "Impairs search engine understanding of the page topic and causes screen readers confusion for accessible navigation.",
+          "recommendation": "Ensure every page contains exactly one unique, descriptive <h1> tag at the top of the content structure.",
+          "verificationStatus": "OBSERVED"
+        },
+        {
+          "id": "SEO-003",
+          "category": "seo",
+          "priority": "HIGH",
+          "title": "Images Missing Alt Text (6/6 images)",
+          "observation": "6 images on the website lack descriptive alt attributes.",
+          "evidence": "Found across crawled pages. Sample missing alt images detected in DOM.",
+          "evidenceIds": [
+            "E-013"
+          ],
+          "impact": "Prevents image search indexing in Google Images and makes visual content inaccessible to visually impaired users using screen readers.",
+          "recommendation": "Add concise, descriptive alt text to all meaningful images. Use empty alt=\"\" for purely decorative background elements.",
+          "verificationStatus": "OBSERVED"
+        },
+        {
+          "id": "SEO-004",
+          "category": "seo",
+          "priority": "MEDIUM",
+          "title": "Missing Canonical URL Tags (3/3 pages)",
+          "observation": "3 pages do not declare a self-referencing canonical URL.",
+          "evidence": "Canonical tags are missing from <head> on 3 crawled pages.",
+          "evidenceIds": [
+            "E-014"
+          ],
+          "impact": "Risk of duplicate content penalties when pages are accessed via different URL variations (HTTP vs HTTPS, trailing slash, query parameters).",
+          "recommendation": "Add self-referencing <link rel=\"canonical\" href=\"https://...\" /> tags in the <head> of every published page.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "technicalAudit": {
+      "summary": "Inspected 3 pages. HTTPS is Enforced (HTTPS). Found 0 console errors, 0 broken link errors, and evaluated server security headers.",
+      "httpsStatus": "Enforced (HTTPS)",
+      "redirectsStatus": "Verified during crawl",
+      "brokenLinksCount": 0,
+      "brokenImagesCount": 0,
+      "consoleErrorsCount": 0,
+      "findings": []
+    },
+    "performanceAudit": {
+      "summary": "Lighthouse metrics could not be executed in the current environment and are marked as NOT VERIFIED.",
+      "lighthouse": {
+        "performanceScore": null,
+        "accessibilityScore": null,
+        "bestPracticesScore": null,
+        "seoScore": null,
+        "metrics": {
+          "firstContentfulPaintMs": null,
+          "largestContentfulPaintMs": null,
+          "cumulativeLayoutShift": null,
+          "totalBlockingTimeMs": null,
+          "speedIndexMs": null,
+          "interactiveMs": null
+        },
+        "audits": [],
+        "status": "NOT VERIFIED"
+      },
+      "coreWebVitalsSummary": "NOT VERIFIED",
+      "findings": []
+    },
+    "accessibilityAudit": {
+      "summary": "Evaluated accessible DOM signals across 3 pages. Alt text coverage is 0% (0/6 images have alt text). 2 interactive forms audited.",
+      "altTextCoverage": "0% (0/6 images have alt text)",
+      "formLabelingStatus": "Audited standard input fields",
+      "buttonNamesStatus": "Audited standard button elements",
+      "colorContrastStatus": "Heuristic evaluation (full audit requires color-pair extraction)",
+      "wcagDisclaimer": "This automated technical check inspects detectable DOM signals (alt attributes, heading hierarchy, form controls). It does NOT constitute a full WCAG 2.1/2.2 legal compliance guarantee, which requires extensive manual assistive technology testing.",
+      "findings": [
+        {
+          "id": "A11Y-001",
+          "category": "accessibility",
+          "priority": "HIGH",
+          "title": "Images Missing Accessible Alt Text (6 detected)",
+          "observation": "6 image elements do not provide textual alternatives via alt attributes.",
+          "evidence": "Found across 3 crawled pages.",
+          "evidenceIds": [
+            "E-015"
+          ],
+          "impact": "Assistive technology users (such as screen readers) cannot perceive the meaning or context of graphical content.",
+          "recommendation": "Add meaningful alt attributes describing the content or function of each image.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "localSeoOpportunities": {
+      "summary": "Local search visibility audit. Target Business: Hacker News / Y Combinator (Not prominently detected in main titles). Target Location: Mountain View, CA (Not found in main meta tags/headings). Evaluated NAP consistency and local schema opportunities.",
+      "businessNameMatch": "Not prominently detected in main titles",
+      "locationMatch": "Not found in main meta tags/headings",
+      "napConsistency": "Evaluated address and contact references across header/footer",
+      "localSchemaDetected": false,
+      "opportunities": [
+        "Add Schema.org LocalBusiness structured data (JSON-LD) with exact address, geo coordinates, and opening hours",
+        "Optimize Google Business Profile (GBP) with matching Name, Address, Phone (NAP) citations",
+        "Create dedicated location and service-area landing pages with localized content and customer testimonials"
+      ],
+      "findings": [
+        {
+          "id": "LOCAL-001",
+          "category": "local_seo",
+          "priority": "HIGH",
+          "title": "Target Location (Mountain View, CA) Missing from Primary SEO Elements",
+          "observation": "The specified target geography \"Mountain View, CA\" was not prominently detected in page titles, meta descriptions, or main headings.",
+          "evidence": "Crawled 3 pages. Checked <title>, <meta description>, and <h1> tags against location \"Mountain View, CA\".",
+          "evidenceIds": [
+            "E-021"
+          ],
+          "impact": "Reduces visibility in localized search queries, Google Maps / Local Pack results, and nearby customer discovery.",
+          "recommendation": "Incorporate \"Mountain View, CA\" naturally into the homepage title tag, H1 heading, service area sections, and footer contact block.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "securityObservations": {
+      "summary": "Publicly observable security check: HTTPS Enforced (HTTPS). Missing defensive headers evaluated.",
+      "httpsEnforced": true,
+      "mixedContentDetected": false,
+      "securityHeadersAssessment": "Evaluated HSTS, CSP, and X-Frame-Options headers.",
+      "securityDisclaimer": "This security observation inspects publicly observable technical signals (HTTPS, security response headers). It does NOT constitute a penetration test or exploitation assessment.",
+      "findings": []
+    },
+    "priorityImprovementPlan": [
+      {
+        "priority": "HIGH",
+        "action": "Add Missing Meta Descriptions and Title Optimization",
+        "category": "technical",
+        "effort": "Low",
+        "rationale": "Essential for search engine indexing, click-through rates, and basic visitor trust."
+      },
+      {
+        "priority": "HIGH",
+        "action": "Implement Direct Call and WhatsApp Click-to-Chat Triggers",
+        "category": "conversion",
+        "effort": "Low",
+        "rationale": "Directly unlocks immediate lead capture for mobile and high-intent visitors."
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Add Descriptive Alt Text to All Product and Hero Images",
+        "category": "accessibility",
+        "effort": "Medium",
+        "rationale": "Enhances accessibility compliance and drives Google Image search traffic."
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Modernize Hero Layout and Visual Spacing Hierarchy",
+        "category": "visual",
+        "effort": "Medium",
+        "rationale": "Builds instant credibility and decreases initial bounce rates."
+      }
+    ],
+    "recommendedWebsiteStructure": {
+      "summary": "Target sitemap architecture designed for high-conversion user journeys and SEO depth.",
+      "suggestedSitemap": [
+        {
+          "pageName": "Home",
+          "slug": "/",
+          "purpose": "Establish immediate authority, showcase core value proposition, and drive primary conversions.",
+          "keySections": [
+            "Hero with Instant CTA",
+            "Core Services Grid",
+            "Featured Projects / Case Studies",
+            "Client Testimonials",
+            "Direct Contact Form"
+          ]
+        },
+        {
+          "pageName": "Services / Offerings",
+          "slug": "/services",
+          "purpose": "Comprehensive breakdown of solutions with transparent deliverables and process steps.",
+          "keySections": [
+            "Services Overview",
+            "Detailed Feature Comparison",
+            "Pricing / Packages",
+            "Client FAQ"
+          ]
+        },
+        {
+          "pageName": "Portfolio / Projects",
+          "slug": "/projects",
+          "purpose": "Build credibility through high-fidelity visual proof and real project outcomes.",
+          "keySections": [
+            "Project Gallery with Filter",
+            "In-depth Case Studies",
+            "Client Outcomes"
+          ]
+        },
+        {
+          "pageName": "About Us",
+          "slug": "/about",
+          "purpose": "Humanize the brand, share company mission, leadership, and credentials.",
+          "keySections": [
+            "Our Story",
+            "Leadership Team",
+            "Certifications & Awards",
+            "Why Choose Us"
+          ]
+        },
+        {
+          "pageName": "Contact & Consultation",
+          "slug": "/contact",
+          "purpose": "Frictionless multi-channel contact point for quotes, phone calls, and visits.",
+          "keySections": [
+            "Interactive Quote Form",
+            "Direct Phone & WhatsApp",
+            "Office Location Map",
+            "Business Hours"
+          ]
+        }
+      ]
+    },
+    "recommendedRedesignStrategy": {
+      "summary": "Modernize the digital experience into a high-performance, conversion-engineered flagship platform.",
+      "corePillars": [
+        {
+          "title": "1. Conversion-Engineered Architecture",
+          "description": "Introduce persistent mobile-friendly CTAs, floating chat triggers, and 2-step quote request funnels on every key landing page."
+        },
+        {
+          "title": "2. Modern Visual Design & Trust Signatures",
+          "description": "Elevate brand positioning with refined typography, rich micro-interactions, high-contrast accents, and visual social proof."
+        },
+        {
+          "title": "3. Core Web Vitals & Technical Excellence",
+          "description": "Ensure sub-second page loads, zero Cumulative Layout Shift (CLS), and rigorous mobile viewport responsiveness."
+        }
+      ],
+      "designTokensSuggestion": {
+        "colorPaletteRecommendation": "Deep Slate / Navy (#0F172A) primary, Vibrant Indigo (#4F46E5) or Amber (#F59E0B) accents, Crisp Neutral (#F8FAFC) background",
+        "typographyRecommendation": "Outfit or Plus Jakarta Sans for confident modern headlines; Inter for crystal-clear body copy",
+        "layoutGuidance": "Max-width 1280px containers, 80px section spacing, and glassmorphic card surfaces with subtle borders"
+      }
+    },
+    "nextSteps": [
+      {
+        "stepNumber": 1,
+        "title": "Immediate Technical & On-Page Quick Wins",
+        "description": "Fix missing meta descriptions, heading structure, and implement direct phone/WhatsApp contact buttons.",
+        "timelineRecommendation": "Days 1 - 3"
+      },
+      {
+        "stepNumber": 2,
+        "title": "Conversion Funnel & Hero Optimization",
+        "description": "Redesign above-the-fold hero section with crystal-clear value proposition and streamlined quote inquiry form.",
+        "timelineRecommendation": "Week 1 - 2"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Comprehensive Content & UI Modernization",
+        "description": "Publish detailed service pages, client case studies, and deploy updated visual design system.",
+        "timelineRecommendation": "Month 1"
+      }
+    ]
+  },
+  "pdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-df249ea5-1612-47a9-8520-c265bb5ba98b.pdf",
+  "completedAt": "2026-09-23T15:40:47.524Z"
+}

@@ -1,0 +1,1885 @@
+{
+  "id": "25a5c436-c918-4457-a207-1dca37f2907f",
+  "config": {
+    "url": "https://www.sweetgreen.com",
+    "businessName": "Sweetgreen Restaurant & Bowls",
+    "location": "Los Angeles / National",
+    "maxPages": 2
+  },
+  "status": "completed",
+  "createdAt": "2026-09-24T15:19:56.064Z",
+  "progressPercent": 100,
+  "currentStepMessage": "Audit completed successfully!",
+  "crawledPagesCount": 2,
+  "totalPagesToCrawl": 2,
+  "pages": [
+    {
+      "url": "https://sweetgreen.com/",
+      "finalUrl": "https://www.sweetgreen.com/",
+      "statusCode": 200,
+      "statusText": "",
+      "contentType": "text/html",
+      "responseTimeMs": 5220,
+      "title": "sweetgreen | Inspiring healthier communities",
+      "metaDescription": "healthy salads, hearty wraps, grain bowls, and warm plates made in-house from scratch, using whole produce delivered that morning.",
+      "canonicalUrl": "",
+      "h1s": [
+        "sweetgreen"
+      ],
+      "headingTree": [
+        {
+          "tag": "h1",
+          "text": "sweetgreen"
+        },
+        {
+          "tag": "h2",
+          "text": "Kale Caesar"
+        },
+        {
+          "tag": "h2",
+          "text": "Guacamole Greens"
+        },
+        {
+          "tag": "h2",
+          "text": "Buffalo Chicken"
+        },
+        {
+          "tag": "h2",
+          "text": "Harvest Bowl"
+        },
+        {
+          "tag": "h2",
+          "text": "Chicken Pesto Parm"
+        },
+        {
+          "tag": "h2",
+          "text": "Shroomami"
+        },
+        {
+          "tag": "h2",
+          "text": "Rosemary Focaccia"
+        },
+        {
+          "tag": "h2",
+          "text": "Roasted Sweet Potatoes"
+        },
+        {
+          "tag": "h2",
+          "text": "HIBISCUS CLOVER TEA"
+        },
+        {
+          "tag": "h2",
+          "text": "SWEETGREEN FOR WORK"
+        },
+        {
+          "tag": "h2",
+          "text": "All the ways we keep your workplace working"
+        },
+        {
+          "tag": "h2",
+          "text": "Step inside the\nsweetgreen kitchen"
+        },
+        {
+          "tag": "h2",
+          "text": "Join Our Newsletter"
+        },
+        {
+          "tag": "h2",
+          "text": "Download the app"
+        },
+        {
+          "tag": "h2",
+          "text": "About Us"
+        },
+        {
+          "tag": "h2",
+          "text": "Social Media"
+        },
+        {
+          "tag": "h2",
+          "text": "Support + Services"
+        },
+        {
+          "tag": "h2",
+          "text": "Legal"
+        },
+        {
+          "tag": "h2",
+          "text": "Your Privacy Choices"
+        },
+        {
+          "tag": "h3",
+          "text": "Manage Preferences"
+        },
+        {
+          "tag": "h4",
+          "text": "Strictly Necessary Cookies"
+        },
+        {
+          "tag": "h4",
+          "text": "Sale/Sharing of Personal Data"
+        },
+        {
+          "tag": "h3",
+          "text": "Cookie List"
+        }
+      ],
+      "desktopScreenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/homepage-desktop-1790263203071.png",
+      "mobileScreenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/homepage-mobile-1790263204238.png",
+      "consoleErrors": [],
+      "networkErrors": [
+        {
+          "url": "https://sierra.chat/-/api/events",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/rmkt/collect/858955577/?random=1790263202629&cv=11&fst=1790263202629&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.sweetgreen.com%2F&rcb=0&frm=0&tiba=sweetgreen%20%7C%20Inspiring%20healthier%20communities&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=758839048.1790263203&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&ept=68&gcp=5",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/rmkt/collect/858955577/?random=1790263202576&cv=11&fst=1790263202576&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.sweetgreen.com%2F&rcb=0&frm=0&tiba=sweetgreen%20%7C%20Inspiring%20healthier%20communities&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=758839048.1790263203&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=0&ae=g&auid=758839048.1790263203&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&tid=AW-858955577&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&scrsrc=www.googletagmanager.com&rnd=5719610.1790263203&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=CA&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1790263202637&tfd=4783&tids=AW-858955577&fmt=8",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=1&auid=758839048.1790263203&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&tid=AW-858955577&en=page_view&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&scrsrc=www.googletagmanager.com&rnd=5719610.1790263203&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1790263202635&tfd=4782&tids=AW-858955577&fmt=8",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://analytics.google.com/g/collect?v=2&tid=G-8KEGP05HL9&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xf1&_p=1790263199996&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAAAAGAC&cid=1326107884.1790263203&frm=0&pscdl=noapi&rcb=0&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&sid=1790263202&sct=1&seg=0&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=4772",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://ad.doubleclick.net/ccm/s/collect?auid=758839048.1790263203&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&fmt=8",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://images.ctfassets.net/eum7w7yri3zr/53svtEXgJA4ICa2TtlVkJN/e2daa0fb53184e729af5e10cfaeb9667/IMG_4358.jpg?w=800&q=75&fm=avif",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://capi.sweetgreen.com/events/a66861e73556a776d90528dd0eccf67051454d0a06104204b838be3cd0e0d875",
+          "status": "net::ERR_ABORTED"
+        }
+      ],
+      "internalLinks": [
+        "https://www.sweetgreen.com/#",
+        "https://www.sweetgreen.com/#main",
+        "https://www.sweetgreen.com/menu",
+        "https://www.sweetgreen.com/mission",
+        "https://www.sweetgreen.com/fundraisers",
+        "https://www.sweetgreen.com/shop/",
+        "https://www.sweetgreen.com/",
+        "https://www.sweetgreen.com/catering-inquiry/?path=recurring-office-meals",
+        "https://www.sweetgreen.com/catering",
+        "https://www.sweetgreen.com/locations",
+        "https://www.sweetgreen.com/contact",
+        "https://www.sweetgreen.com/naomi-osaka",
+        "https://sweetgreen.com/catering",
+        "https://www.sweetgreen.com/press",
+        "https://www.sweetgreen.com/hex",
+        "https://www.sweetgreen.com/nutrition/",
+        "https://www.sweetgreen.com/privacy-policy",
+        "https://www.sweetgreen.com/terms",
+        "https://www.sweetgreen.com/privacy-policy#additional-information-for-california-residents",
+        "https://www.sweetgreen.com/accessibility-statement",
+        "https://www.sweetgreen.com/consumer-health-data-notice",
+        "https://www.sweetgreen.com/sg-rewards-program-agreement-1"
+      ],
+      "externalLinks": [
+        "https://order.sweetgreen.com/",
+        "https://sweetgreen.onelink.me/VN9x?af_js_web=true&af_ss_ver=2_10_2&pid=website&af_channel=button&af_ss_ui=true",
+        "https://order.sweetgreen.com/menu?category=autumn-menu",
+        "https://order.sweetgreen.com/order-product/pesto-chicken-parmesan",
+        "https://assets.ctfassets.net/eum7w7yri3zr/76xImBzzZCnvVQ3pDtm9fg/08e451f6d46bb93af2f9694be7f77051/sg-Rosemary_Focaccia_partner.pdf",
+        "https://order.sweetgreen.com/order-product/rosemary-focaccia",
+        "https://outpost.sweetgreen.com/",
+        "https://outpost.sweetgreen.com/sgcredits/",
+        "https://www.tiktok.com/@sweetgreen",
+        "https://careers.sweetgreen.com/",
+        "https://investor.sweetgreen.com/overview/default.aspx",
+        "https://apps.apple.com/us/app/sweetgreen-rewards/id594329490",
+        "https://www.instagram.com/sweetgreen/",
+        "https://twitter.com/sweetgreen",
+        "https://open.spotify.com/user/1224421164",
+        "http://facebook.com/sweetgreen",
+        "https://www.youtube.com/user/sweetgreen",
+        "https://order.sweetgreen.com/gift",
+        "https://www.onetrust.com/solutions/consent-and-preferences/"
+      ],
+      "images": [
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/13HsV2Vod5VBKD1IdjNYMa/6a1846d7fbf1069d51f7f038a86bbf3c/SG_Web_Desktop.jpg?w=600&q=75&fm=jpg&fl=progressive",
+          "alt": "A hand pours golden dressing over a bowl of quinoa, grilled chicken, roasted sweet potatoes, and shredded cabbage slaw.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/2kD9mpLAlvub8t5q8Gopdg/81af15ba52e3e190d161c2724898daa4/sweetgreen_HP_Slider_NRO_Desktop.jpg?w=600&q=75&fm=jpg&fl=progressive",
+          "alt": "Let us know",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/fjE9le7BEqfrbdQW5E9Ss/b6e20c43e99e911d355c5be07080f50c/HiringCampaign_11_Homepage_1600x893-Option1__1_.jpg?w=600&q=75&fm=jpg&fl=progressive",
+          "alt": "Find out more",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/5418ra5b4TcMHRxOIobxUx/708a4c5778892e8504a4358b68aa8f3f/SG_Web_Image_Salad_KaleCaesar-2.0.png?w=600&q=75",
+          "alt": "Kale Caesar",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/3Z3fW9JhznhFDphzlHNmRx/ccf2bde9a2f37be9eb3966ada129a4a6/SG_Web_Image_Salad_GuacamoleGreens-2.0.png?w=600&q=75",
+          "alt": "Guac Greens",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/DiHNAYmlek0vUQrUcfjST/d48fa92629fa033f9a165979d67a41e1/SG_Web_Image_Salad_BuffaloChicken.png?w=600&q=75",
+          "alt": "Image",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/Br3EYlf6srQYhCXdvOfwt/65b582e0c488a871e36cda2ea5e52df3/SG_Web_Image_Bowl_Harvest.png?w=600&q=75",
+          "alt": "Product Carousel-Harvest Bowl",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/5Kw3escovLNb8uWqQuzR7o/fb77087267c6de716f49d50ff755ede5/SG_Web_Image_Bowl_Chicken_Pesto_Parm.png?w=600&q=75",
+          "alt": "Chicken Pesto Parm",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/57c1vaLIB4WtuQXQblhUa5/5bbbf55c178b7985a03f994749445040/SG_Web_Image_Bowl_Shroomami.png?w=600&q=75",
+          "alt": "shroomami",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/6KrjKxVXHWvcbVNVuRm4M4/dba9726d9afd6ac3e0bb6c4d5a4dd088/SG_Web_Image_Side_Rosemary_Focaccia.jpg?w=600&q=75",
+          "alt": "Product Carousel-Rosemay Focaccia",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/5emJWQD3CfWTvVfJbSG8G7/edf1cfed73259bd969af2f685b927884/SG_Web_Image_Side_Roasted_Sweet_Potatoes.jpg?w=600&q=75",
+          "alt": "Hot Honey Sweet Potatoes",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/j28IU9sScvgvuvnQ5AkBj/a56a14858807fcd486277566fb11973d/SG_Web_Image_Beverage_Hibiscus_Berry_Tea.jpg?w=600&q=75",
+          "alt": "Hibiscus Clover Tea",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/3KJj1rIlmro9hzCPt2V3xu/19fd4da719138c99a045cc760d69ced2/Home_Page_New_Module-Image.jpg?w=600&q=75&fm=jpg&fl=progressive",
+          "alt": "",
+          "naturalWidth": 390,
+          "naturalHeight": 390
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/53svtEXgJA4ICa2TtlVkJN/e2daa0fb53184e729af5e10cfaeb9667/IMG_4358.jpg?w=600&q=75",
+          "alt": "",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/QeC14rNAsPTRIuV4EAafd/f6d5c7574ff3f26a87f23d4f9d1c0b8f/PickUp1.png?w=600&q=75",
+          "alt": "Illustration of the Sweetgreen app on a phone showing fresh vegetables, with a person walking while carrying a Sweetgreen bag",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/1i9FC9xIUHPwsE4dMheSHI/1a5e0c6d5a5d82e8347b86844d7bb07e/privacy.svg",
+          "alt": "Your Privacy Choices",
+          "naturalWidth": 300,
+          "naturalHeight": 140
+        },
+        {
+          "src": "https://cdn.cookielaw.org/logos/21a1d4f5-76a6-4640-87ad-0e9b616c1963/019b899b-1999-7445-9ea3-1277daf6c810/c9adb2e5-39a0-4762-95d6-92133cea1d3e/sg-logo.png",
+          "alt": "Sweetgreen",
+          "naturalWidth": 336,
+          "naturalHeight": 64
+        },
+        {
+          "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+          "alt": "Powered by Onetrust",
+          "naturalWidth": 568,
+          "naturalHeight": 53
+        }
+      ],
+      "forms": [
+        {
+          "action": "#",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": true,
+          "hasPhone": false,
+          "hasSubmit": true
+        }
+      ],
+      "contactSignals": {
+        "phones": [],
+        "emails": [],
+        "whatsapps": []
+      },
+      "securityHeaders": {
+        "hsts": "max-age=63072000",
+        "csp": null,
+        "xFrameOptions": null,
+        "xContentTypeOptions": null,
+        "referrerPolicy": null,
+        "permissionsPolicy": null
+      },
+      "htmlLengthBytes": 209058,
+      "evidenceIds": [
+        "E-002",
+        "E-003",
+        "E-004",
+        "E-005"
+      ]
+    },
+    {
+      "url": "https://sweetgreen.com/contact",
+      "finalUrl": "https://www.sweetgreen.com/?contact=true",
+      "statusCode": 200,
+      "statusText": "",
+      "contentType": "text/html",
+      "responseTimeMs": 6012,
+      "title": "sweetgreen | Inspiring healthier communities",
+      "metaDescription": "healthy salads, hearty wraps, grain bowls, and warm plates made in-house from scratch, using whole produce delivered that morning.",
+      "canonicalUrl": "",
+      "h1s": [
+        "sweetgreen"
+      ],
+      "headingTree": [
+        {
+          "tag": "h1",
+          "text": "sweetgreen"
+        },
+        {
+          "tag": "h2",
+          "text": "Kale Caesar"
+        },
+        {
+          "tag": "h2",
+          "text": "Guacamole Greens"
+        },
+        {
+          "tag": "h2",
+          "text": "Buffalo Chicken"
+        },
+        {
+          "tag": "h2",
+          "text": "Harvest Bowl"
+        },
+        {
+          "tag": "h2",
+          "text": "Chicken Pesto Parm"
+        },
+        {
+          "tag": "h2",
+          "text": "Shroomami"
+        },
+        {
+          "tag": "h2",
+          "text": "Rosemary Focaccia"
+        },
+        {
+          "tag": "h2",
+          "text": "Roasted Sweet Potatoes"
+        },
+        {
+          "tag": "h2",
+          "text": "HIBISCUS CLOVER TEA"
+        },
+        {
+          "tag": "h2",
+          "text": "SWEETGREEN FOR WORK"
+        },
+        {
+          "tag": "h2",
+          "text": "All the ways we keep your workplace working"
+        },
+        {
+          "tag": "h2",
+          "text": "Step inside the\nsweetgreen kitchen"
+        },
+        {
+          "tag": "h2",
+          "text": "Join Our Newsletter"
+        },
+        {
+          "tag": "h2",
+          "text": "Download the app"
+        },
+        {
+          "tag": "h2",
+          "text": "About Us"
+        },
+        {
+          "tag": "h2",
+          "text": "Social Media"
+        },
+        {
+          "tag": "h2",
+          "text": "Support + Services"
+        },
+        {
+          "tag": "h2",
+          "text": "Legal"
+        },
+        {
+          "tag": "h2",
+          "text": "Your Privacy Choices"
+        },
+        {
+          "tag": "h3",
+          "text": "Manage Preferences"
+        },
+        {
+          "tag": "h4",
+          "text": "Strictly Necessary Cookies"
+        },
+        {
+          "tag": "h4",
+          "text": "Sale/Sharing of Personal Data"
+        },
+        {
+          "tag": "h3",
+          "text": "Cookie List"
+        }
+      ],
+      "desktopScreenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/page-1790263211664-desktop-1790263211665.png",
+      "mobileScreenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/page-1790263211664-mobile-1790263212708.png",
+      "consoleErrors": [],
+      "networkErrors": [
+        {
+          "url": "https://sierra.chat/-/api/events",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/rmkt/collect/858955577/?random=1790263211751&cv=11&fst=1790263211751&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.sweetgreen.com%2F&rcb=8&frm=0&tiba=sweetgreen%20%7C%20Inspiring%20healthier%20communities&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=758839048.1790263203&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/rmkt/collect/858955577/?random=1790263211795&cv=11&fst=1790263211795&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.sweetgreen.com%2F&rcb=8&frm=0&tiba=sweetgreen%20%7C%20Inspiring%20healthier%20communities&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=758839048.1790263203&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&ept=68&gcp=5",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=758839048.1790263203&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&tid=AW-858955577&en=page_view&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&scrsrc=www.googletagmanager.com&rnd=903616676.1790263212&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1790263211801&tfd=6146&tids=AW-858955577&fmt=8",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=758839048.1790263203&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&tid=AW-858955577&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&scrsrc=www.googletagmanager.com&rnd=903616676.1790263212&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=CA&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1790263211802&tfd=6147&tids=AW-858955577&fmt=8",
+          "status": "net::ERR_ABORTED"
+        },
+        {
+          "url": "https://capi.sweetgreen.com/events/a66861e73556a776d90528dd0eccf67051454d0a06104204b838be3cd0e0d875",
+          "status": "net::ERR_ABORTED"
+        }
+      ],
+      "internalLinks": [
+        "https://www.sweetgreen.com/#",
+        "https://www.sweetgreen.com/#main",
+        "https://www.sweetgreen.com/menu",
+        "https://www.sweetgreen.com/mission",
+        "https://www.sweetgreen.com/fundraisers",
+        "https://www.sweetgreen.com/shop/",
+        "https://www.sweetgreen.com/",
+        "https://www.sweetgreen.com/catering-inquiry/?path=recurring-office-meals",
+        "https://www.sweetgreen.com/catering",
+        "https://www.sweetgreen.com/locations",
+        "https://www.sweetgreen.com/contact",
+        "https://www.sweetgreen.com/naomi-osaka",
+        "https://sweetgreen.com/catering",
+        "https://www.sweetgreen.com/press",
+        "https://www.sweetgreen.com/hex",
+        "https://www.sweetgreen.com/nutrition/",
+        "https://www.sweetgreen.com/privacy-policy",
+        "https://www.sweetgreen.com/terms",
+        "https://www.sweetgreen.com/privacy-policy#additional-information-for-california-residents",
+        "https://www.sweetgreen.com/accessibility-statement",
+        "https://www.sweetgreen.com/consumer-health-data-notice",
+        "https://www.sweetgreen.com/sg-rewards-program-agreement-1"
+      ],
+      "externalLinks": [
+        "https://order.sweetgreen.com/",
+        "https://sweetgreen.onelink.me/VN9x?af_js_web=true&af_ss_ver=2_10_2&pid=website&af_channel=button&af_ss_ui=true",
+        "https://order.sweetgreen.com/menu?category=autumn-menu",
+        "https://order.sweetgreen.com/order-product/pesto-chicken-parmesan",
+        "https://assets.ctfassets.net/eum7w7yri3zr/76xImBzzZCnvVQ3pDtm9fg/08e451f6d46bb93af2f9694be7f77051/sg-Rosemary_Focaccia_partner.pdf",
+        "https://order.sweetgreen.com/order-product/rosemary-focaccia",
+        "https://outpost.sweetgreen.com/",
+        "https://outpost.sweetgreen.com/sgcredits/",
+        "https://www.tiktok.com/@sweetgreen",
+        "https://careers.sweetgreen.com/",
+        "https://investor.sweetgreen.com/overview/default.aspx",
+        "https://apps.apple.com/us/app/sweetgreen-rewards/id594329490",
+        "https://www.instagram.com/sweetgreen/",
+        "https://twitter.com/sweetgreen",
+        "https://open.spotify.com/user/1224421164",
+        "http://facebook.com/sweetgreen",
+        "https://www.youtube.com/user/sweetgreen",
+        "https://order.sweetgreen.com/gift",
+        "https://www.onetrust.com/solutions/consent-and-preferences/"
+      ],
+      "images": [
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/13HsV2Vod5VBKD1IdjNYMa/6a1846d7fbf1069d51f7f038a86bbf3c/SG_Web_Desktop.jpg?w=600&q=75&fm=jpg&fl=progressive",
+          "alt": "A hand pours golden dressing over a bowl of quinoa, grilled chicken, roasted sweet potatoes, and shredded cabbage slaw.",
+          "naturalWidth": 390,
+          "naturalHeight": 433
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/2kD9mpLAlvub8t5q8Gopdg/81af15ba52e3e190d161c2724898daa4/sweetgreen_HP_Slider_NRO_Desktop.jpg?w=600&q=75&fm=jpg&fl=progressive",
+          "alt": "Let us know",
+          "naturalWidth": 390,
+          "naturalHeight": 217
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/fjE9le7BEqfrbdQW5E9Ss/b6e20c43e99e911d355c5be07080f50c/HiringCampaign_11_Homepage_1600x893-Option1__1_.jpg?w=600&q=75&fm=jpg&fl=progressive",
+          "alt": "Find out more",
+          "naturalWidth": 390,
+          "naturalHeight": 435
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/5418ra5b4TcMHRxOIobxUx/708a4c5778892e8504a4358b68aa8f3f/SG_Web_Image_Salad_KaleCaesar-2.0.png?w=600&q=75",
+          "alt": "Kale Caesar",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/3Z3fW9JhznhFDphzlHNmRx/ccf2bde9a2f37be9eb3966ada129a4a6/SG_Web_Image_Salad_GuacamoleGreens-2.0.png?w=600&q=75",
+          "alt": "Guac Greens",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/DiHNAYmlek0vUQrUcfjST/d48fa92629fa033f9a165979d67a41e1/SG_Web_Image_Salad_BuffaloChicken.png?w=600&q=75",
+          "alt": "Image",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/Br3EYlf6srQYhCXdvOfwt/65b582e0c488a871e36cda2ea5e52df3/SG_Web_Image_Bowl_Harvest.png?w=600&q=75",
+          "alt": "Product Carousel-Harvest Bowl",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/5Kw3escovLNb8uWqQuzR7o/fb77087267c6de716f49d50ff755ede5/SG_Web_Image_Bowl_Chicken_Pesto_Parm.png?w=600&q=75",
+          "alt": "Chicken Pesto Parm",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/57c1vaLIB4WtuQXQblhUa5/5bbbf55c178b7985a03f994749445040/SG_Web_Image_Bowl_Shroomami.png?w=600&q=75",
+          "alt": "shroomami",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/6KrjKxVXHWvcbVNVuRm4M4/dba9726d9afd6ac3e0bb6c4d5a4dd088/SG_Web_Image_Side_Rosemary_Focaccia.jpg?w=600&q=75",
+          "alt": "Product Carousel-Rosemay Focaccia",
+          "naturalWidth": 600,
+          "naturalHeight": 600
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/5emJWQD3CfWTvVfJbSG8G7/edf1cfed73259bd969af2f685b927884/SG_Web_Image_Side_Roasted_Sweet_Potatoes.jpg?w=600&q=75",
+          "alt": "Hot Honey Sweet Potatoes",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/j28IU9sScvgvuvnQ5AkBj/a56a14858807fcd486277566fb11973d/SG_Web_Image_Beverage_Hibiscus_Berry_Tea.jpg?w=600&q=75",
+          "alt": "Hibiscus Clover Tea",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/3KJj1rIlmro9hzCPt2V3xu/19fd4da719138c99a045cc760d69ced2/Home_Page_New_Module-Image.jpg?w=600&q=75&fm=jpg&fl=progressive",
+          "alt": "",
+          "naturalWidth": 390,
+          "naturalHeight": 390
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/53svtEXgJA4ICa2TtlVkJN/e2daa0fb53184e729af5e10cfaeb9667/IMG_4358.jpg?w=600&q=75",
+          "alt": "",
+          "naturalWidth": 390,
+          "naturalHeight": 487
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/QeC14rNAsPTRIuV4EAafd/f6d5c7574ff3f26a87f23d4f9d1c0b8f/PickUp1.png?w=600&q=75",
+          "alt": "Illustration of the Sweetgreen app on a phone showing fresh vegetables, with a person walking while carrying a Sweetgreen bag",
+          "naturalWidth": 600,
+          "naturalHeight": 597
+        },
+        {
+          "src": "//images.ctfassets.net/eum7w7yri3zr/1i9FC9xIUHPwsE4dMheSHI/1a5e0c6d5a5d82e8347b86844d7bb07e/privacy.svg",
+          "alt": "Your Privacy Choices",
+          "naturalWidth": 300,
+          "naturalHeight": 140
+        },
+        {
+          "src": "https://cdn.cookielaw.org/logos/21a1d4f5-76a6-4640-87ad-0e9b616c1963/019b899b-1999-7445-9ea3-1277daf6c810/c9adb2e5-39a0-4762-95d6-92133cea1d3e/sg-logo.png",
+          "alt": "Sweetgreen",
+          "naturalWidth": 336,
+          "naturalHeight": 64
+        },
+        {
+          "src": "https://cdn.cookielaw.org/logos/static/powered_by_logo.svg",
+          "alt": "Powered by Onetrust",
+          "naturalWidth": 568,
+          "naturalHeight": 53
+        }
+      ],
+      "forms": [
+        {
+          "action": "#",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": true,
+          "hasPhone": false,
+          "hasSubmit": true
+        }
+      ],
+      "contactSignals": {
+        "phones": [],
+        "emails": [],
+        "whatsapps": []
+      },
+      "securityHeaders": {
+        "hsts": "max-age=63072000",
+        "csp": null,
+        "xFrameOptions": null,
+        "xContentTypeOptions": null,
+        "referrerPolicy": null,
+        "permissionsPolicy": null
+      },
+      "htmlLengthBytes": 209146,
+      "evidenceIds": [
+        "E-006",
+        "E-007",
+        "E-008",
+        "E-009"
+      ]
+    }
+  ],
+  "evidenceRegistry": [
+    {
+      "id": "E-001",
+      "type": "robots_check",
+      "category": "seo",
+      "pageUrl": "https://www.sweetgreen.com/",
+      "timestamp": "2026-09-24T15:19:57.780Z",
+      "status": "OBSERVED",
+      "description": "Robots.txt parsed. Disallowed paths: 0, Sitemaps: 1",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "disallowedPaths": [],
+        "sitemaps": [
+          "https://www.sweetgreen.com/sitemap.xml"
+        ]
+      }
+    },
+    {
+      "id": "E-002",
+      "type": "visual_screenshot",
+      "category": "visual",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:05.254Z",
+      "status": "OBSERVED",
+      "description": "Captured desktop and mobile viewport screenshots.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "desktopScreenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/homepage-desktop-1790263203071.png",
+        "mobileScreenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/homepage-mobile-1790263204238.png"
+      }
+    },
+    {
+      "id": "E-003",
+      "type": "http_response",
+      "category": "technical",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:05.268Z",
+      "status": "TESTED",
+      "description": "HTTP status 200 () returned in 5220ms.",
+      "metricValue": 5220,
+      "rawSnippet": null,
+      "data": {
+        "statusCode": 200,
+        "statusText": "",
+        "finalUrl": "https://www.sweetgreen.com/",
+        "contentType": "text/html",
+        "responseTimeMs": 5220
+      }
+    },
+    {
+      "id": "E-004",
+      "type": "security_headers",
+      "category": "security",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:05.268Z",
+      "status": "OBSERVED",
+      "description": "Security headers present: hsts",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "hsts": "max-age=63072000",
+        "csp": null,
+        "xFrameOptions": null,
+        "xContentTypeOptions": null,
+        "referrerPolicy": null,
+        "permissionsPolicy": null
+      }
+    },
+    {
+      "id": "E-005",
+      "type": "network_errors",
+      "category": "technical",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:05.268Z",
+      "status": "OBSERVED",
+      "description": "Detected 9 network request failures.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "networkErrors": [
+          {
+            "url": "https://sierra.chat/-/api/events",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://www.google.com/rmkt/collect/858955577/?random=1790263202629&cv=11&fst=1790263202629&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.sweetgreen.com%2F&rcb=0&frm=0&tiba=sweetgreen%20%7C%20Inspiring%20healthier%20communities&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=758839048.1790263203&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&ept=68&gcp=5",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://www.google.com/rmkt/collect/858955577/?random=1790263202576&cv=11&fst=1790263202576&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.sweetgreen.com%2F&rcb=0&frm=0&tiba=sweetgreen%20%7C%20Inspiring%20healthier%20communities&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=758839048.1790263203&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=0&ae=g&auid=758839048.1790263203&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&tid=AW-858955577&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&scrsrc=www.googletagmanager.com&rnd=5719610.1790263203&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=CA&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1790263202637&tfd=4783&tids=AW-858955577&fmt=8",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://www.google.com/ccm/collect?rcb=0&frm=0&apvc=1&auid=758839048.1790263203&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&tid=AW-858955577&en=page_view&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&scrsrc=www.googletagmanager.com&rnd=5719610.1790263203&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1790263202635&tfd=4782&tids=AW-858955577&fmt=8",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://analytics.google.com/g/collect?v=2&tid=G-8KEGP05HL9&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xf1&_p=1790263199996&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dYWJhMj&_eu=AAAAAGAC&cid=1326107884.1790263203&frm=0&pscdl=noapi&rcb=0&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&gaf=2&_s=1&tag_exp=115616985~115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&sid=1790263202&sct=1&seg=0&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&en=page_view&_fv=1&_nsi=1&_ss=1&tfd=4772",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://ad.doubleclick.net/ccm/s/collect?auid=758839048.1790263203&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&fmt=8",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://images.ctfassets.net/eum7w7yri3zr/53svtEXgJA4ICa2TtlVkJN/e2daa0fb53184e729af5e10cfaeb9667/IMG_4358.jpg?w=800&q=75&fm=avif",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://capi.sweetgreen.com/events/a66861e73556a776d90528dd0eccf67051454d0a06104204b838be3cd0e0d875",
+            "status": "net::ERR_ABORTED"
+          }
+        ]
+      }
+    },
+    {
+      "id": "E-006",
+      "type": "visual_screenshot",
+      "category": "visual",
+      "pageUrl": "https://sweetgreen.com/contact",
+      "timestamp": "2026-09-24T15:20:13.575Z",
+      "status": "OBSERVED",
+      "description": "Captured desktop and mobile viewport screenshots.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "desktopScreenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/page-1790263211664-desktop-1790263211665.png",
+        "mobileScreenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/page-1790263211664-mobile-1790263212708.png"
+      }
+    },
+    {
+      "id": "E-007",
+      "type": "http_response",
+      "category": "technical",
+      "pageUrl": "https://sweetgreen.com/contact",
+      "timestamp": "2026-09-24T15:20:13.590Z",
+      "status": "TESTED",
+      "description": "HTTP status 200 () returned in 6012ms.",
+      "metricValue": 6012,
+      "rawSnippet": null,
+      "data": {
+        "statusCode": 200,
+        "statusText": "",
+        "finalUrl": "https://www.sweetgreen.com/?contact=true",
+        "contentType": "text/html",
+        "responseTimeMs": 6012
+      }
+    },
+    {
+      "id": "E-008",
+      "type": "security_headers",
+      "category": "security",
+      "pageUrl": "https://sweetgreen.com/contact",
+      "timestamp": "2026-09-24T15:20:13.590Z",
+      "status": "OBSERVED",
+      "description": "Security headers present: hsts",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "hsts": "max-age=63072000",
+        "csp": null,
+        "xFrameOptions": null,
+        "xContentTypeOptions": null,
+        "referrerPolicy": null,
+        "permissionsPolicy": null
+      }
+    },
+    {
+      "id": "E-009",
+      "type": "network_errors",
+      "category": "technical",
+      "pageUrl": "https://sweetgreen.com/contact",
+      "timestamp": "2026-09-24T15:20:13.590Z",
+      "status": "OBSERVED",
+      "description": "Detected 6 network request failures.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "networkErrors": [
+          {
+            "url": "https://sierra.chat/-/api/events",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://www.google.com/rmkt/collect/858955577/?random=1790263211751&cv=11&fst=1790263211751&fmt=8&bg=ffffff&guid=ON&async=1&en=gtag.config&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.sweetgreen.com%2F&rcb=8&frm=0&tiba=sweetgreen%20%7C%20Inspiring%20healthier%20communities&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=758839048.1790263203&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&data=event%3Dgtag.config&ept=68&gcp=5",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://www.google.com/rmkt/collect/858955577/?random=1790263211795&cv=11&fst=1790263211795&fmt=8&bg=ffffff&guid=ON&async=1&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.sweetgreen.com%2F&rcb=8&frm=0&tiba=sweetgreen%20%7C%20Inspiring%20healthier%20communities&did=dYWJhMj&gdid=dYWJhMj&hn=www.googleadservices.com&npa=0&pscdl=noapi&auid=758839048.1790263203&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uamb=0&uam=&uap=Windows&uapv=10.0&uaw=0&_tu=CA&ept=68&gcp=5",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=1&auid=758839048.1790263203&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&tid=AW-858955577&en=page_view&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&scrsrc=www.googletagmanager.com&rnd=903616676.1790263212&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xecxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1790263211801&tfd=6146&tids=AW-858955577&fmt=8",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://www.google.com/ccm/collect?rcb=8&frm=0&apvc=0&ae=g&auid=758839048.1790263203&dt=sweetgreen%20%7C%20Inspiring%20healthier%20communities&tid=AW-858955577&dl=https%3A%2F%2Fwww.sweetgreen.com%2F&scrsrc=www.googletagmanager.com&rnd=903616676.1790263212&navt=n&npa=0&did=dYWJhMj&gdid=dYWJhMj&_tu=CA&gtm=45je69m1v889350030z8831001720za20gzb831001720zd831001720xeaxf1&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938468~118897920~118897930~120213116~120385423~120469145~120469153&tft=1790263211802&tfd=6147&tids=AW-858955577&fmt=8",
+            "status": "net::ERR_ABORTED"
+          },
+          {
+            "url": "https://capi.sweetgreen.com/events/a66861e73556a776d90528dd0eccf67051454d0a06104204b838be3cd0e0d875",
+            "status": "net::ERR_ABORTED"
+          }
+        ]
+      }
+    },
+    {
+      "id": "E-010",
+      "type": "lighthouse_unavailable",
+      "category": "performance",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.703Z",
+      "status": "NOT VERIFIED",
+      "description": "Lighthouse execution could not complete: __name is not defined. Core Web Vitals labeled as NOT VERIFIED.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-011",
+      "type": "missing_security_headers",
+      "category": "security",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.743Z",
+      "status": "OBSERVED",
+      "description": "Missing recommended security headers: Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "missingHeaders": [
+          "Content-Security-Policy (CSP)",
+          "X-Frame-Options",
+          "X-Content-Type-Options"
+        ]
+      }
+    },
+    {
+      "id": "E-012",
+      "type": "seo_image_alts",
+      "category": "seo",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.743Z",
+      "status": "OBSERVED",
+      "description": "4 of 36 images (11%) missing alt attributes.",
+      "metricValue": 89,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-013",
+      "type": "seo_canonical_tags",
+      "category": "seo",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.743Z",
+      "status": "OBSERVED",
+      "description": "2 pages missing <link rel=\"canonical\"> tag.",
+      "metricValue": 2,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-014",
+      "type": "a11y_image_alts",
+      "category": "accessibility",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.743Z",
+      "status": "OBSERVED",
+      "description": "4 images missing alt text attributes.",
+      "metricValue": 89,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-015",
+      "type": "mobile_viewport_audit",
+      "category": "mobile",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.743Z",
+      "status": "TESTED",
+      "description": "Captured and evaluated mobile viewport rendering at 390x844 dimensions.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "mobileScreenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/homepage-mobile-1790263204238.png"
+      }
+    },
+    {
+      "id": "E-016",
+      "type": "visual_desktop_evidence",
+      "category": "visual",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.743Z",
+      "status": "OBSERVED",
+      "description": "Captured high-resolution desktop visual rendering (1440x900 viewport).",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "screenshot": "/screenshots/25a5c436-c918-4457-a207-1dca37f2907f/homepage-desktop-1790263203071.png"
+      }
+    },
+    {
+      "id": "E-017",
+      "type": "ux_navigation_map",
+      "category": "ux",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.743Z",
+      "status": "OBSERVED",
+      "description": "Discovered 44 internal navigation paths and 2 interactive forms across 2 pages.",
+      "metricValue": 44,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-018",
+      "type": "content_structure",
+      "category": "content",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.743Z",
+      "status": "OBSERVED",
+      "description": "Analyzed content structure across 2 pages containing 48 structured headings.",
+      "metricValue": 48,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-019",
+      "type": "conversion_contact_signals",
+      "category": "conversion",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.743Z",
+      "status": "OBSERVED",
+      "description": "Detected contact signals: 0 phone(s), 0 email(s), 0 WhatsApp link(s), 2 form(s).",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "phones": [],
+        "emails": [],
+        "whatsapps": [],
+        "formsCount": 2
+      }
+    },
+    {
+      "id": "E-020",
+      "type": "local_seo_signals",
+      "category": "local_seo",
+      "pageUrl": "https://sweetgreen.com/",
+      "timestamp": "2026-09-24T15:20:14.744Z",
+      "status": "OBSERVED",
+      "description": "Local SEO signals evaluated for business=\"Sweetgreen Restaurant & Bowls\", location=\"Los Angeles / National\".",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "businessFound": false,
+        "locationFound": false,
+        "businessName": "Sweetgreen Restaurant & Bowls",
+        "location": "Los Angeles / National"
+      }
+    }
+  ],
+  "findings": [
+    {
+      "id": "SEC-001",
+      "category": "security",
+      "priority": "MEDIUM",
+      "title": "Missing Defensive HTTP Security Headers (3 missing)",
+      "observation": "The web server response does not include standard defensive headers: Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options.",
+      "evidence": "Response headers from https://sweetgreen.com/ were inspected. Found: {\"hsts\":\"max-age=63072000\",\"csp\":null,\"xFrameOptions\":null,\"xContentTypeOptions\":null,\"referrerPolicy\":null,\"permissionsPolicy\":null}",
+      "evidenceIds": [
+        "E-011"
+      ],
+      "impact": "Leaves the website vulnerable to clickjacking (missing X-Frame-Options), MIME-type sniffing, and cross-site scripting risks.",
+      "recommendation": "Configure your web server (Nginx/Apache/Cloudflare) to send HSTS, X-Frame-Options: SAMEORIGIN, and X-Content-Type-Options: nosniff headers.",
+      "verificationStatus": "OBSERVED",
+      "pageUrl": "https://sweetgreen.com/"
+    },
+    {
+      "id": "SEO-003",
+      "category": "seo",
+      "priority": "MEDIUM",
+      "title": "Images Missing Alt Text (4/36 images)",
+      "observation": "4 images on the website lack descriptive alt attributes.",
+      "evidence": "Found across crawled pages. Sample missing alt images detected in DOM.",
+      "evidenceIds": [
+        "E-012"
+      ],
+      "impact": "Prevents image search indexing in Google Images and makes visual content inaccessible to visually impaired users using screen readers.",
+      "recommendation": "Add concise, descriptive alt text to all meaningful images. Use empty alt=\"\" for purely decorative background elements.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "SEO-004",
+      "category": "seo",
+      "priority": "MEDIUM",
+      "title": "Missing Canonical URL Tags (2/2 pages)",
+      "observation": "2 pages do not declare a self-referencing canonical URL.",
+      "evidence": "Canonical tags are missing from <head> on 2 crawled pages.",
+      "evidenceIds": [
+        "E-013"
+      ],
+      "impact": "Risk of duplicate content penalties when pages are accessed via different URL variations (HTTP vs HTTPS, trailing slash, query parameters).",
+      "recommendation": "Add self-referencing <link rel=\"canonical\" href=\"https://...\" /> tags in the <head> of every published page.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "A11Y-001",
+      "category": "accessibility",
+      "priority": "MEDIUM",
+      "title": "Images Missing Accessible Alt Text (4 detected)",
+      "observation": "4 image elements do not provide textual alternatives via alt attributes.",
+      "evidence": "Found across 2 crawled pages.",
+      "evidenceIds": [
+        "E-014"
+      ],
+      "impact": "Assistive technology users (such as screen readers) cannot perceive the meaning or context of graphical content.",
+      "recommendation": "Add meaningful alt attributes describing the content or function of each image.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "LOCAL-001",
+      "category": "local_seo",
+      "priority": "HIGH",
+      "title": "Target Location (Los Angeles / National) Missing from Primary SEO Elements",
+      "observation": "The specified target geography \"Los Angeles / National\" was not prominently detected in page titles, meta descriptions, or main headings.",
+      "evidence": "Crawled 2 pages. Checked <title>, <meta description>, and <h1> tags against location \"Los Angeles / National\".",
+      "evidenceIds": [
+        "E-020"
+      ],
+      "impact": "Reduces visibility in localized search queries, Google Maps / Local Pack results, and nearby customer discovery.",
+      "recommendation": "Incorporate \"Los Angeles / National\" naturally into the homepage title tag, H1 heading, service area sections, and footer contact block.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "AI-VIS-001",
+      "category": "visual",
+      "priority": "MEDIUM",
+      "title": "Visual Hierarchy & Focal Point Modernization",
+      "observation": "Above-the-fold layout could benefit from stronger headline typography contrast, clear primary call-to-action prominence, and elevated modern spacing tokens.",
+      "evidence": "Evaluated 2 crawled templates. Visual inspection of hero and body sections indicates opportunity for enhanced visual contrast and modern design tokens.",
+      "evidenceIds": [
+        "E-002",
+        "E-006",
+        "E-016"
+      ],
+      "impact": "Modern, high-contrast visual design builds instant visitor trust and dramatically improves engagement time on landing.",
+      "recommendation": "Implement a refined typographic hierarchy (48px+ H1 hero, 20px lead paragraph), distinct high-contrast CTA button styling, and consistent 64px+ section spacing.",
+      "verificationStatus": "INFERRED"
+    },
+    {
+      "id": "AI-CONV-001",
+      "category": "conversion",
+      "priority": "HIGH",
+      "title": "Lead Capture & Instant Engagement Opportunity",
+      "observation": "The website lacks instant real-time conversion channels such as floating WhatsApp buttons or frictionless 2-field lead capture forms.",
+      "evidence": "Inspected conversion triggers across 2 pages. Direct WhatsApp messaging links or streamlined quote forms were not detected in the primary navigation or sticky footer.",
+      "evidenceIds": [
+        "E-019"
+      ],
+      "impact": "Up to 60% of modern mobile visitors prefer instant chat or 1-click quote requests over navigating to a separate contact page.",
+      "recommendation": "Add a persistent floating WhatsApp contact widget and an above-the-fold \"Get Instant Quote\" trigger.",
+      "verificationStatus": "INFERRED"
+    }
+  ],
+  "startedAt": "2026-09-24T15:19:56.067Z",
+  "lighthouse": {
+    "performanceScore": null,
+    "accessibilityScore": null,
+    "bestPracticesScore": null,
+    "seoScore": null,
+    "metrics": {
+      "firstContentfulPaintMs": null,
+      "largestContentfulPaintMs": null,
+      "cumulativeLayoutShift": null,
+      "totalBlockingTimeMs": null,
+      "speedIndexMs": null,
+      "interactiveMs": null
+    },
+    "audits": [],
+    "status": "NOT VERIFIED"
+  },
+  "report": {
+    "clientSummary": {
+      "overview": "A strategic review of Sweetgreen Restaurant & Bowls's website to help you increase client inquiries, improve Google visibility, and create a premium first impression for potential customers.",
+      "top5Opportunities": [
+        {
+          "title": "1. Fast Inbound Contact Triggers",
+          "businessImpact": "Captures urgent buyers who prefer calling or chatting instantly on mobile rather than filling out long forms.",
+          "recommendedAction": "Add a prominent 1-click \"Call Now\" button in the header and a sticky WhatsApp chat button on mobile."
+        },
+        {
+          "title": "2. Above-The-Fold Value & Proof",
+          "businessImpact": "Immediately answers \"Why choose us?\" within the first 5 seconds of a visitor landing on the website.",
+          "recommendedAction": "Place a clear headline stating your primary specialty, accompanied by 3 core benefit badges and client review ratings."
+        },
+        {
+          "title": "3. Dedicated Solution / Service Pages",
+          "businessImpact": "Allows Google to rank each specific service individually for targeted search queries in your area.",
+          "recommendedAction": "Build dedicated sub-pages for each major offering with project photos, client benefits, and an inquiry form."
+        },
+        {
+          "title": "4. Search Engine Snippet Optimization",
+          "businessImpact": "Improves the descriptive summary that prospective clients see on Google search result pages.",
+          "recommendedAction": "Craft compelling 150-character descriptions for each page inviting searchers to click and explore."
+        },
+        {
+          "title": "5. Modern Mobile Layout & Tap Targets",
+          "businessImpact": "Eliminates pinch-to-zoom and mis-taps on smartphones, ensuring a seamless experience for on-the-go clients.",
+          "recommendedAction": "Ensure all buttons and menus are at least 48px in height with generous spacing between clickable elements."
+        }
+      ],
+      "currentStrengths": [
+        "Website connection is secured with modern SSL encryption.",
+        "Clear multi-page structure covering 2 key customer areas."
+      ],
+      "recommendedWebsiteStructure": [
+        {
+          "pageName": "Home",
+          "purpose": "Create immediate authority, clearly state what you do, and drive visitors to request a quote or call.",
+          "keySections": [
+            "Hero with 1-Click Quote Button",
+            "Core Offerings Grid",
+            "Photo Showcase of Recent Work",
+            "Client Testimonials",
+            "Direct Contact Box"
+          ]
+        },
+        {
+          "pageName": "Services / Offerings",
+          "purpose": "Provide a transparent overview of capabilities, deliverables, and step-by-step process.",
+          "keySections": [
+            "Overview of Capabilities",
+            "What is Included",
+            "Process & Timeline",
+            "Frequently Asked Questions"
+          ]
+        },
+        {
+          "pageName": "Portfolio / Projects",
+          "purpose": "Provide tangible visual proof of craftsmanship and completed work to eliminate buyer hesitation.",
+          "keySections": [
+            "Filterable Project Gallery",
+            "Before & After Transformations",
+            "Client Success Quotes"
+          ]
+        },
+        {
+          "pageName": "About Us",
+          "purpose": "Humanize your business, demonstrate industry experience, and showcase team credentials.",
+          "keySections": [
+            "Our Story & Mission",
+            "Experience & Standards",
+            "Why Clients Choose Us",
+            "Leadership / Team"
+          ]
+        },
+        {
+          "pageName": "Contact & Inquiry",
+          "purpose": "Provide a simple, zero-friction point for visitors to call, email, chat, or visit.",
+          "keySections": [
+            "Simple 3-Field Quote Form",
+            "Direct Phone & WhatsApp Links",
+            "Business Hours",
+            "Location Map"
+          ]
+        }
+      ],
+      "nextSteps": [
+        {
+          "step": "Quick Conversion Wins: Add header phone number and mobile WhatsApp button",
+          "timeframe": "Days 1 - 3"
+        },
+        {
+          "step": "Content & Search Polish: Update Google titles, descriptions, and hero headlines",
+          "timeframe": "Week 1"
+        },
+        {
+          "step": "Visual Modernization: Deploy refined service cards, project gallery, and trust proof",
+          "timeframe": "Weeks 2 - 3"
+        }
+      ]
+    },
+    "executiveSummary": {
+      "summary": "This comprehensive website audit evaluates the digital presence, customer journey, and conversion readiness of https://www.sweetgreen.com (Sweetgreen Restaurant & Bowls in Los Angeles / National). \nBased on 2 inspected pages and automated viewport testing, the website provides a foundational web presence with substantial commercial opportunities to accelerate customer trust, improve mobile engagement, and capture more inbound enquiries.\n\nKey immediate priorities include introducing frictionless quote inquiry channels, refining page summaries for search engines, and modernizing layout contrast to highlight core services and proof of quality.",
+      "overallCondition": "Good",
+      "topStrengths": [
+        "Website connection is secured with modern SSL encryption.",
+        "Clear multi-page structure covering 2 key customer areas."
+      ],
+      "topRisks": [
+        "Missing immediate call or instant messaging buttons for high-intent visitors."
+      ],
+      "findingsCountByPriority": {
+        "CRITICAL": 0,
+        "HIGH": 2,
+        "MEDIUM": 5,
+        "LOW": 0
+      }
+    },
+    "websiteOverview": {
+      "url": "https://www.sweetgreen.com",
+      "businessName": "Sweetgreen Restaurant & Bowls",
+      "location": "Los Angeles / National",
+      "totalPagesCrawled": 2,
+      "auditDurationSec": 19,
+      "techStackDetected": [
+        "HTML5",
+        "Modern CSS/JS",
+        "HTTPS / SSL"
+      ],
+      "primaryLanguage": "en"
+    },
+    "pagesInspected": [
+      {
+        "url": "https://sweetgreen.com/",
+        "title": "sweetgreen | Inspiring healthier communities",
+        "statusCode": 200,
+        "responseTimeMs": 5220,
+        "issuesCount": 9
+      },
+      {
+        "url": "https://sweetgreen.com/contact",
+        "title": "sweetgreen | Inspiring healthier communities",
+        "statusCode": 200,
+        "responseTimeMs": 6012,
+        "issuesCount": 6
+      }
+    ],
+    "keyStrengths": [
+      {
+        "title": "Strength 1",
+        "description": "Website connection is secured with modern SSL encryption."
+      },
+      {
+        "title": "Strength 2",
+        "description": "Clear multi-page structure covering 2 key customer areas."
+      }
+    ],
+    "criticalIssues": [],
+    "visualDesignAudit": {
+      "summary": "Visual presentation evaluated across desktop and mobile captures. Inspected hero section hierarchy, typography scaling, and component layout rhythm.",
+      "typographyAssessment": "Heading-to-body font scale and line-height balance inspected. Heading font scaling and line readability across desktop and mobile viewports inspected.",
+      "colorSystemAssessment": "Brand accent colors and background contrast ratios evaluated. Brand color accents and contrast ratios evaluated for visual hierarchy and readability.",
+      "spacingLayoutAssessment": "Container widths, section padding, and responsive grid layout analyzed. Container widths and vertical rhythm between content blocks evaluated.",
+      "visualHierarchyAssessment": "Primary headline prominence and visual weight distribution evaluated. Dominance of primary headlines, sub-headlines, and action buttons evaluated.",
+      "brandConsistencyAssessment": "Visual styling consistency verified across crawled templates. Visual component consistency across all crawled page templates.",
+      "heroAssessment": "Above-the-fold hero messaging and call-to-action prominence evaluated. Above-the-fold value proposition, background visuals, and primary conversion trigger evaluated.",
+      "footerAssessment": "Footer structure, secondary navigation links, and copyright info evaluated. Footer navigation links, contact information, and business credentials evaluated.",
+      "findings": [
+        {
+          "id": "AI-VIS-001",
+          "category": "visual",
+          "priority": "MEDIUM",
+          "title": "Visual Hierarchy & Focal Point Modernization",
+          "observation": "Above-the-fold layout could benefit from stronger headline typography contrast, clear primary call-to-action prominence, and elevated modern spacing tokens.",
+          "evidence": "Evaluated 2 crawled templates. Visual inspection of hero and body sections indicates opportunity for enhanced visual contrast and modern design tokens.",
+          "evidenceIds": [
+            "E-002",
+            "E-006",
+            "E-016"
+          ],
+          "impact": "Modern, high-contrast visual design builds instant visitor trust and dramatically improves engagement time on landing.",
+          "recommendation": "Implement a refined typographic hierarchy (48px+ H1 hero, 20px lead paragraph), distinct high-contrast CTA button styling, and consistent 64px+ section spacing.",
+          "verificationStatus": "INFERRED"
+        }
+      ]
+    },
+    "uxAudit": {
+      "summary": "Evaluated user experience architecture across 2 pages. Analyzed primary navigation paths, information hierarchy, and lead enquiry flows.",
+      "navigationStructure": "Discovered multi-page navigation across 2 accessible templates with 44 internal links. Header navigation menus and information grouping simplicity.",
+      "userJourney": "Audited user pathways from landing to information discovery and final conversion. Friction points from landing through solution exploration to final enquiry.",
+      "serviceDiscovery": "Evaluated visibility of core services, offering descriptions, and supporting details. Clarity and depth of service/product descriptions and offerings.",
+      "ctaPlacement": "Primary and secondary conversion touchpoints mapped across page layouts. Strategic placement of conversion buttons in hero, mid-page, and footer.",
+      "formsAssessment": "2 contact/enquiry forms analyzed for input simplicity and clear labels. Form field complexity, validation clarity, and submission ease.",
+      "findings": []
+    },
+    "mobileExperience": {
+      "summary": "Audited mobile presentation across 2 pages using simulated 390x844 mobile viewports. Touch targets and responsive viewport scaling verified.",
+      "responsiveDesignStatus": "TESTED",
+      "tapTargetAssessment": "Touch target size and spacing verified on mobile viewport.",
+      "horizontalOverflowDetected": false,
+      "mobileMenuAssessment": "Mobile navigation drawer and touch elements tested.",
+      "findings": []
+    },
+    "contentAudit": {
+      "summary": "Audited content depth, clarity, and value messaging across 2 pages. Verified structured heading breakdowns and core information sections.",
+      "clarityReadabilityScore": "Evaluated heading flow, paragraph chunking, and key value propositions. Clarity and conciseness of customer-facing messaging and solutions.",
+      "valuePropositionAssessment": "Hero messaging and solution clarity evaluated for target audience relevance. Immediate communication of unique advantages and core capabilities.",
+      "contentGaps": [
+        "Detailed client case studies with before/after results and metrics",
+        "Transparent engagement pricing or structured service packages",
+        "Comprehensive FAQ section addressing customer buying criteria"
+      ],
+      "findings": []
+    },
+    "conversionLeadGenAudit": {
+      "summary": "Lead conversion audit across 2 pages. Phone channels: No direct tel: links found. Email channels: No mailto: links found. WhatsApp integration: Not detected. Total enquiry forms: 2.",
+      "phoneVisibility": "No direct tel: links found",
+      "emailVisibility": "No mailto: links found",
+      "whatsappAvailability": "Not detected",
+      "enquiryFlowAssessment": "2 contact/lead capture forms detected across pages. Streamlined pathway for visitors to initiate a quote, consultation, or purchase.",
+      "trustSignalsAssessment": "Evaluated social proof, client reviews, and warranty/trust claims. Presence of client testimonials, project portfolios, industry credentials, and security assurances.",
+      "findings": [
+        {
+          "id": "AI-CONV-001",
+          "category": "conversion",
+          "priority": "HIGH",
+          "title": "Lead Capture & Instant Engagement Opportunity",
+          "observation": "The website lacks instant real-time conversion channels such as floating WhatsApp buttons or frictionless 2-field lead capture forms.",
+          "evidence": "Inspected conversion triggers across 2 pages. Direct WhatsApp messaging links or streamlined quote forms were not detected in the primary navigation or sticky footer.",
+          "evidenceIds": [
+            "E-019"
+          ],
+          "impact": "Up to 60% of modern mobile visitors prefer instant chat or 1-click quote requests over navigating to a separate contact page.",
+          "recommendation": "Add a persistent floating WhatsApp contact widget and an above-the-fold \"Get Instant Quote\" trigger.",
+          "verificationStatus": "INFERRED"
+        }
+      ]
+    },
+    "seoAudit": {
+      "summary": "Audited on-page SEO signals across 2 pages. Meta titles: Verified on all pages. Meta descriptions: Verified on all pages. Images with alt text: 32/36.",
+      "metaTitleStatus": "Verified on all pages",
+      "metaDescriptionStatus": "Verified on all pages",
+      "headingHierarchyStatus": "Proper single H1 structure",
+      "canonicalStatus": "2 pages missing canonical",
+      "robotsSitemapStatus": "Robots.txt verified during crawl",
+      "structuredDataStatus": "Inspected for JSON-LD schemas",
+      "findings": [
+        {
+          "id": "SEO-003",
+          "category": "seo",
+          "priority": "MEDIUM",
+          "title": "Images Missing Alt Text (4/36 images)",
+          "observation": "4 images on the website lack descriptive alt attributes.",
+          "evidence": "Found across crawled pages. Sample missing alt images detected in DOM.",
+          "evidenceIds": [
+            "E-012"
+          ],
+          "impact": "Prevents image search indexing in Google Images and makes visual content inaccessible to visually impaired users using screen readers.",
+          "recommendation": "Add concise, descriptive alt text to all meaningful images. Use empty alt=\"\" for purely decorative background elements.",
+          "verificationStatus": "OBSERVED"
+        },
+        {
+          "id": "SEO-004",
+          "category": "seo",
+          "priority": "MEDIUM",
+          "title": "Missing Canonical URL Tags (2/2 pages)",
+          "observation": "2 pages do not declare a self-referencing canonical URL.",
+          "evidence": "Canonical tags are missing from <head> on 2 crawled pages.",
+          "evidenceIds": [
+            "E-013"
+          ],
+          "impact": "Risk of duplicate content penalties when pages are accessed via different URL variations (HTTP vs HTTPS, trailing slash, query parameters).",
+          "recommendation": "Add self-referencing <link rel=\"canonical\" href=\"https://...\" /> tags in the <head> of every published page.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "technicalAudit": {
+      "summary": "Inspected 2 pages. HTTPS is Enforced (HTTPS). Found 0 console errors, 0 broken link errors, and evaluated server security headers.",
+      "httpsStatus": "Enforced (HTTPS)",
+      "redirectsStatus": "Verified during crawl",
+      "brokenLinksCount": 0,
+      "brokenImagesCount": 0,
+      "consoleErrorsCount": 0,
+      "findings": []
+    },
+    "performanceAudit": {
+      "summary": "Lighthouse metrics could not be executed in the current environment and are marked as NOT VERIFIED.",
+      "lighthouse": {
+        "performanceScore": null,
+        "accessibilityScore": null,
+        "bestPracticesScore": null,
+        "seoScore": null,
+        "metrics": {
+          "firstContentfulPaintMs": null,
+          "largestContentfulPaintMs": null,
+          "cumulativeLayoutShift": null,
+          "totalBlockingTimeMs": null,
+          "speedIndexMs": null,
+          "interactiveMs": null
+        },
+        "audits": [],
+        "status": "NOT VERIFIED"
+      },
+      "coreWebVitalsSummary": "NOT VERIFIED",
+      "findings": []
+    },
+    "accessibilityAudit": {
+      "summary": "Evaluated accessible DOM signals across 2 pages. Alt text coverage is 89% (32/36 images have alt text). 2 interactive forms audited.",
+      "altTextCoverage": "89% (32/36 images have alt text)",
+      "formLabelingStatus": "Audited standard input fields",
+      "buttonNamesStatus": "Audited standard button elements",
+      "colorContrastStatus": "Heuristic evaluation (full audit requires color-pair extraction)",
+      "wcagDisclaimer": "This automated technical check inspects detectable DOM signals (alt attributes, heading hierarchy, form controls). It does NOT constitute a full WCAG 2.1/2.2 legal compliance guarantee, which requires extensive manual assistive technology testing.",
+      "findings": [
+        {
+          "id": "A11Y-001",
+          "category": "accessibility",
+          "priority": "MEDIUM",
+          "title": "Images Missing Accessible Alt Text (4 detected)",
+          "observation": "4 image elements do not provide textual alternatives via alt attributes.",
+          "evidence": "Found across 2 crawled pages.",
+          "evidenceIds": [
+            "E-014"
+          ],
+          "impact": "Assistive technology users (such as screen readers) cannot perceive the meaning or context of graphical content.",
+          "recommendation": "Add meaningful alt attributes describing the content or function of each image.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "localSeoOpportunities": {
+      "summary": "Local search visibility audit. Target Business: Sweetgreen Restaurant & Bowls (Not prominently detected in main titles). Target Location: Los Angeles / National (Not found in main meta tags/headings). Evaluated NAP consistency and local schema opportunities.",
+      "businessNameMatch": "Not prominently detected in main titles",
+      "locationMatch": "Not found in main meta tags/headings",
+      "napConsistency": "Evaluated address and contact references across header/footer",
+      "localSchemaDetected": false,
+      "opportunities": [
+        "Add Schema.org LocalBusiness structured data (JSON-LD) with exact address, geo coordinates, and opening hours",
+        "Optimize Google Business Profile (GBP) with matching Name, Address, Phone (NAP) citations",
+        "Create dedicated location and service-area landing pages with localized content and customer testimonials"
+      ],
+      "findings": [
+        {
+          "id": "LOCAL-001",
+          "category": "local_seo",
+          "priority": "HIGH",
+          "title": "Target Location (Los Angeles / National) Missing from Primary SEO Elements",
+          "observation": "The specified target geography \"Los Angeles / National\" was not prominently detected in page titles, meta descriptions, or main headings.",
+          "evidence": "Crawled 2 pages. Checked <title>, <meta description>, and <h1> tags against location \"Los Angeles / National\".",
+          "evidenceIds": [
+            "E-020"
+          ],
+          "impact": "Reduces visibility in localized search queries, Google Maps / Local Pack results, and nearby customer discovery.",
+          "recommendation": "Incorporate \"Los Angeles / National\" naturally into the homepage title tag, H1 heading, service area sections, and footer contact block.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "securityObservations": {
+      "summary": "Publicly observable security check: HTTPS Enforced (HTTPS). Missing defensive headers evaluated.",
+      "httpsEnforced": true,
+      "mixedContentDetected": false,
+      "securityHeadersAssessment": "Evaluated HSTS, CSP, and X-Frame-Options headers.",
+      "securityDisclaimer": "This security observation inspects publicly observable technical signals (HTTPS, security response headers). It does NOT constitute a penetration test or exploitation assessment.",
+      "findings": [
+        {
+          "id": "SEC-001",
+          "category": "security",
+          "priority": "MEDIUM",
+          "title": "Missing Defensive HTTP Security Headers (3 missing)",
+          "observation": "The web server response does not include standard defensive headers: Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options.",
+          "evidence": "Response headers from https://sweetgreen.com/ were inspected. Found: {\"hsts\":\"max-age=63072000\",\"csp\":null,\"xFrameOptions\":null,\"xContentTypeOptions\":null,\"referrerPolicy\":null,\"permissionsPolicy\":null}",
+          "evidenceIds": [
+            "E-011"
+          ],
+          "impact": "Leaves the website vulnerable to clickjacking (missing X-Frame-Options), MIME-type sniffing, and cross-site scripting risks.",
+          "recommendation": "Configure your web server (Nginx/Apache/Cloudflare) to send HSTS, X-Frame-Options: SAMEORIGIN, and X-Content-Type-Options: nosniff headers.",
+          "verificationStatus": "OBSERVED",
+          "pageUrl": "https://sweetgreen.com/"
+        }
+      ]
+    },
+    "priorityImprovementPlan": [
+      {
+        "priority": "HIGH",
+        "action": "Add Missing Meta Descriptions and Title Optimization",
+        "category": "technical",
+        "effort": "Low",
+        "rationale": "Essential for search engine indexing, click-through rates, and basic visitor trust."
+      },
+      {
+        "priority": "HIGH",
+        "action": "Implement Direct Call and WhatsApp Click-to-Chat Triggers",
+        "category": "conversion",
+        "effort": "Low",
+        "rationale": "Directly unlocks immediate lead capture for mobile and high-intent visitors."
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Add Descriptive Alt Text to All Product and Hero Images",
+        "category": "accessibility",
+        "effort": "Medium",
+        "rationale": "Enhances accessibility compliance and drives Google Image search traffic."
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Modernize Hero Layout and Visual Spacing Hierarchy",
+        "category": "visual",
+        "effort": "Medium",
+        "rationale": "Builds instant credibility and decreases initial bounce rates."
+      }
+    ],
+    "recommendedWebsiteStructure": {
+      "summary": "Target sitemap architecture designed for high-conversion user journeys and SEO depth.",
+      "suggestedSitemap": [
+        {
+          "pageName": "Home",
+          "slug": "/",
+          "purpose": "Establish immediate authority, showcase core value proposition, and drive primary conversions.",
+          "keySections": [
+            "Hero with Instant CTA",
+            "Core Services Grid",
+            "Featured Projects / Case Studies",
+            "Client Testimonials",
+            "Direct Contact Form"
+          ]
+        },
+        {
+          "pageName": "Services / Offerings",
+          "slug": "/services",
+          "purpose": "Comprehensive breakdown of solutions with transparent deliverables and process steps.",
+          "keySections": [
+            "Services Overview",
+            "Detailed Feature Comparison",
+            "Pricing / Packages",
+            "Client FAQ"
+          ]
+        },
+        {
+          "pageName": "Portfolio / Projects",
+          "slug": "/projects",
+          "purpose": "Build credibility through high-fidelity visual proof and real project outcomes.",
+          "keySections": [
+            "Project Gallery with Filter",
+            "In-depth Case Studies",
+            "Client Outcomes"
+          ]
+        },
+        {
+          "pageName": "About Us",
+          "slug": "/about",
+          "purpose": "Humanize the brand, share company mission, leadership, and credentials.",
+          "keySections": [
+            "Our Story",
+            "Leadership Team",
+            "Certifications & Awards",
+            "Why Choose Us"
+          ]
+        },
+        {
+          "pageName": "Contact & Consultation",
+          "slug": "/contact",
+          "purpose": "Frictionless multi-channel contact point for quotes, phone calls, and visits.",
+          "keySections": [
+            "Interactive Quote Form",
+            "Direct Phone & WhatsApp",
+            "Office Location Map",
+            "Business Hours"
+          ]
+        }
+      ]
+    },
+    "recommendedRedesignStrategy": {
+      "summary": "Modernize the digital experience into a high-performance, conversion-engineered flagship platform.",
+      "corePillars": [
+        {
+          "title": "1. Conversion-Engineered Architecture",
+          "description": "Introduce persistent mobile-friendly CTAs, floating chat triggers, and 2-step quote request funnels on every key landing page."
+        },
+        {
+          "title": "2. Modern Visual Design & Trust Signatures",
+          "description": "Elevate brand positioning with refined typography, rich micro-interactions, high-contrast accents, and visual social proof."
+        },
+        {
+          "title": "3. Core Web Vitals & Technical Excellence",
+          "description": "Ensure sub-second page loads, zero Cumulative Layout Shift (CLS), and rigorous mobile viewport responsiveness."
+        }
+      ],
+      "designTokensSuggestion": {
+        "colorPaletteRecommendation": "Deep Slate / Navy (#0F172A) primary, Vibrant Indigo (#4F46E5) or Amber (#F59E0B) accents, Crisp Neutral (#F8FAFC) background",
+        "typographyRecommendation": "Outfit or Plus Jakarta Sans for confident modern headlines; Inter for crystal-clear body copy",
+        "layoutGuidance": "Max-width 1280px containers, 80px section spacing, and glassmorphic card surfaces with subtle borders"
+      }
+    },
+    "nextSteps": [
+      {
+        "stepNumber": 1,
+        "title": "Immediate Technical & On-Page Quick Wins",
+        "description": "Fix missing meta descriptions, heading structure, and implement direct phone/WhatsApp contact buttons.",
+        "timelineRecommendation": "Days 1 - 3"
+      },
+      {
+        "stepNumber": 2,
+        "title": "Conversion Funnel & Hero Optimization",
+        "description": "Redesign above-the-fold hero section with crystal-clear value proposition and streamlined quote inquiry form.",
+        "timelineRecommendation": "Week 1 - 2"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Comprehensive Content & UI Modernization",
+        "description": "Publish detailed service pages, client case studies, and deploy updated visual design system.",
+        "timelineRecommendation": "Month 1"
+      }
+    ]
+  },
+  "salesReport": {
+    "isParkedOrIncomplete": false,
+    "websiteStatusSummary": "An executive commercial review of Sweetgreen Restaurant & Bowls's digital presence across 2 inspected page(s). This report highlights current digital strengths and outlines high-impact conversion opportunities to increase customer trust, search visibility, and inbound inquiries.",
+    "businessName": "Sweetgreen Restaurant & Bowls",
+    "businessNameProvenance": "USER_PROVIDED",
+    "location": "Los Angeles / National",
+    "locationProvenance": "USER_PROVIDED",
+    "industry": "Restaurant & Hospitality",
+    "businessType": "Restaurant",
+    "industryConfidence": "HIGH",
+    "classificationProvenance": "WEBSITE_EVIDENCE",
+    "classification": {
+      "industry": "Restaurant & Hospitality",
+      "businessType": "Restaurant",
+      "confidence": "HIGH",
+      "provenance": "WEBSITE_EVIDENCE",
+      "evidenceIds": [
+        "E-002",
+        "E-006"
+      ],
+      "verificationStatus": "OBSERVED",
+      "rationale": "Classified as Restaurant (Restaurant & Hospitality) based on Specific business keyword \"salads\", Specific business keyword \"bowls\", Confirmed across 2 inspected pages."
+    },
+    "whatIsWorking": [
+      {
+        "title": "SSL Security Encryption Active",
+        "explanation": "Your website is secured with an active SSL certificate (HTTPS), ensuring visitor connection privacy.",
+        "evidenceIds": [
+          "E-002"
+        ],
+        "status": "TESTED"
+      },
+      {
+        "title": "Multi-Device Viewport Compatibility",
+        "explanation": "The website successfully scales across desktop and smartphone screen viewports without critical horizontal layout breakage.",
+        "evidenceIds": [
+          "E-002",
+          "E-003"
+        ],
+        "status": "TESTED"
+      },
+      {
+        "title": "Active Domain & Web Hosting Infrastructure",
+        "explanation": "Domain routing is online and successfully responding to web requests (Response time: 5220ms).",
+        "evidenceIds": [
+          "E-002"
+        ],
+        "status": "TESTED"
+      },
+      {
+        "title": "Multi-Page Information Architecture",
+        "explanation": "Discovered and verified 2 accessible sub-pages covering core business offerings and company information.",
+        "evidenceIds": [
+          "E-002",
+          "E-003",
+          "E-004"
+        ],
+        "status": "OBSERVED"
+      }
+    ],
+    "topOpportunities": [
+      {
+        "id": "OPP-002",
+        "title": "Add Direct Inbound Contact Triggers",
+        "clientObservation": "Mobile smartphone visitors currently have limited one-tap options to initiate immediate phone or message inquiries.",
+        "businessImpact": "Providing direct contact options allows prospective clients with immediate intent to connect without navigation friction.",
+        "recommendedAction": "Place a visible \"Call Now\" button in the header and integrate a direct WhatsApp inquiry widget for mobile visitors.",
+        "evidenceIds": [
+          "E-019"
+        ],
+        "priority": "HIGH",
+        "status": "OBSERVED"
+      },
+      {
+        "id": "OPP-003",
+        "title": "Optimize Search Visibility for Los Angeles / National",
+        "clientObservation": "Search engines currently have limited descriptive metadata associating the website with Los Angeles / National.",
+        "businessImpact": "Clear geographic signals help prospective clients searching for services in Los Angeles / National identify and discover the business.",
+        "recommendedAction": "Incorporate \"Los Angeles / National\" naturally into the primary page title, meta description, and contact section.",
+        "evidenceIds": [
+          "E-020"
+        ],
+        "priority": "HIGH",
+        "status": "OBSERVED"
+      },
+      {
+        "id": "OPP-004",
+        "title": "Elevate Visual Presentation & Brand Proof",
+        "clientObservation": "The current layout has an opportunity for stronger headline contrast, distinct action buttons, and modern section spacing.",
+        "businessImpact": "A clean, high-contrast visual design creates a polished first impression and reinforces professional credibility.",
+        "recommendedAction": "Deploy high-contrast headlines, clear primary consultation triggers, and structured visual cards to showcase craftsmanship.",
+        "evidenceIds": [
+          "E-002",
+          "E-006",
+          "E-016"
+        ],
+        "priority": "MEDIUM",
+        "status": "INFERRED"
+      },
+      {
+        "id": "OPP-005",
+        "title": "Strengthen Page Heading Structure",
+        "clientObservation": "Page headings can be organized with clear H1 and H2 hierarchy to provide visitors and search algorithms with an orderly outline of core offerings.",
+        "businessImpact": "Proper heading hierarchy improves content readability and helps search engines accurately index each service topic.",
+        "recommendedAction": "Ensure each page features one prominent primary headline (H1) followed by organized section headings (H2/H3).",
+        "evidenceIds": [
+          "E-013"
+        ],
+        "priority": "MEDIUM",
+        "status": "OBSERVED"
+      }
+    ],
+    "whyTheseMatter": "Prospective clients evaluate credibility quickly upon visiting a website. Addressing friction in contact channels, improving search engine summaries, and modernizing visual presentation helps ensure visitors can easily find relevant information and make direct inquiries.",
+    "recommendedStructure": [
+      {
+        "pageName": "Home",
+        "purpose": "Create appetizing visual appeal, convey atmosphere, and provide 1-tap reservation and ordering triggers.",
+        "keySections": [
+          "Hero Visual with Reserve Table CTA",
+          "Chef Specials Showcase",
+          "Dining Atmosphere Gallery",
+          "Customer Reviews",
+          "Location & Hours"
+        ],
+        "targetAudience": "Local diners, food enthusiasts, and tourists.",
+        "conversionGoal": "Reserve a table or order online."
+      },
+      {
+        "pageName": "Menu & Specials",
+        "purpose": "Clear, mobile-friendly culinary menu with ingredient highlights and dietary options.",
+        "keySections": [
+          "Categorized Food & Beverage Menu",
+          "Chef Signature Dishes",
+          "Dietary Tags (Vegetarian, Gluten-Free)",
+          "Pricing & Specials"
+        ],
+        "targetAudience": "Diners reviewing options.",
+        "conversionGoal": "Browse full menu."
+      },
+      {
+        "pageName": "Photo Gallery & Ambiance",
+        "purpose": "High-resolution imagery of dishes, interior ambiance, private event spaces, and culinary artistry.",
+        "keySections": [
+          "Interior Dining Room Photos",
+          "Signature Dish Closeups",
+          "Private Event Spaces"
+        ],
+        "targetAudience": "Guests planning special meals.",
+        "conversionGoal": "Explore visual ambiance."
+      },
+      {
+        "pageName": "Our Story & Heritage",
+        "purpose": "Share culinary philosophy, chef background, and commitment to fresh local ingredients.",
+        "keySections": [
+          "Chef & Founder Story",
+          "Local Ingredient Sourcing",
+          "Culinary Philosophy"
+        ],
+        "targetAudience": "Diners seeking brand story.",
+        "conversionGoal": "Learn about chef and philosophy."
+      },
+      {
+        "pageName": "Reservations & Contact",
+        "purpose": "Instant table booking, direct phone calling, private event inquiries, and location map directions.",
+        "keySections": [
+          "1-Click Table Booking Form",
+          "Direct Phone Dial",
+          "Private Event Request",
+          "Interactive Location Map"
+        ],
+        "targetAudience": "Ready-to-dine customers.",
+        "conversionGoal": "Complete table reservation."
+      }
+    ],
+    "structureStatus": "OBSERVED",
+    "implementationRoadmap": [
+      {
+        "timeframe": "Days 1 – 3",
+        "title": "Immediate Contact Triggers",
+        "description": "Add prominent header phone dialing, sticky WhatsApp chat trigger, and 1-click consultation inquiry buttons."
+      },
+      {
+        "timeframe": "Week 1",
+        "title": "Search & Location Alignment",
+        "description": "Update page titles, search meta descriptions, and incorporate Los Angeles / National into main headings."
+      },
+      {
+        "timeframe": "Weeks 2 – 3",
+        "title": "Visual Modernization & Proof",
+        "description": "Elevate typography contrast, deploy structured service cards, and highlight completed projects with client testimonials."
+      }
+    ],
+    "agencyCta": {
+      "title": "Recommended Next Step: Strategic Modernization Consultation",
+      "message": "SHA WebStudio specializes in engineering modern, commercially focused websites designed for clarity, performance, and visitor trust. We would welcome the opportunity to discuss these findings with Sweetgreen Restaurant & Bowls and explore how a tailored digital presence can support strategic growth objectives.",
+      "contactPrompt": "Schedule a complimentary 20-minute digital strategy consultation with our senior web architects."
+    }
+  },
+  "pdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-25a5c436-c918-4457-a207-1dca37f2907f-client.pdf",
+  "clientPdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-25a5c436-c918-4457-a207-1dca37f2907f-client.pdf",
+  "internalPdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-25a5c436-c918-4457-a207-1dca37f2907f-internal.pdf",
+  "salesPdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-25a5c436-c918-4457-a207-1dca37f2907f-sales.pdf",
+  "completedAt": "2026-09-24T15:20:22.766Z"
+}

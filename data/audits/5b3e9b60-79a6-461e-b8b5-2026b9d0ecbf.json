@@ -1,0 +1,1008 @@
+{
+  "id": "5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf",
+  "config": {
+    "url": "https://example.com",
+    "maxPages": 1
+  },
+  "status": "completed",
+  "createdAt": "2026-09-24T11:09:29.331Z",
+  "progressPercent": 100,
+  "currentStepMessage": "Audit completed successfully!",
+  "crawledPagesCount": 1,
+  "totalPagesToCrawl": 1,
+  "pages": [
+    {
+      "url": "https://example.com/",
+      "finalUrl": "https://example.com/",
+      "statusCode": 200,
+      "statusText": "",
+      "contentType": "text/html",
+      "responseTimeMs": 802,
+      "title": "Example Domain",
+      "metaDescription": "",
+      "canonicalUrl": "",
+      "h1s": [
+        "Example Domain"
+      ],
+      "headingTree": [
+        {
+          "tag": "h1",
+          "text": "Example Domain"
+        }
+      ],
+      "desktopScreenshot": "/screenshots/5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf/homepage-desktop-1790248170406.png",
+      "mobileScreenshot": "/screenshots/5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf/homepage-mobile-1790248171255.png",
+      "consoleErrors": [],
+      "networkErrors": [],
+      "internalLinks": [],
+      "externalLinks": [
+        "https://iana.org/domains/example"
+      ],
+      "images": [],
+      "forms": [],
+      "contactSignals": {
+        "phones": [],
+        "emails": [],
+        "whatsapps": []
+      },
+      "securityHeaders": {
+        "hsts": null,
+        "csp": null,
+        "xFrameOptions": null,
+        "xContentTypeOptions": null,
+        "referrerPolicy": null,
+        "permissionsPolicy": null
+      },
+      "htmlLengthBytes": 544,
+      "evidenceIds": [
+        "E-002",
+        "E-003"
+      ]
+    }
+  ],
+  "evidenceRegistry": [
+    {
+      "id": "E-001",
+      "type": "robots_check",
+      "category": "seo",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:29.527Z",
+      "status": "OBSERVED",
+      "description": "Robots.txt parsed. Disallowed paths: 0, Sitemaps: 0",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "disallowedPaths": [],
+        "sitemaps": []
+      }
+    },
+    {
+      "id": "E-002",
+      "type": "visual_screenshot",
+      "category": "visual",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:32.087Z",
+      "status": "OBSERVED",
+      "description": "Captured desktop and mobile viewport screenshots.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "desktopScreenshot": "/screenshots/5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf/homepage-desktop-1790248170406.png",
+        "mobileScreenshot": "/screenshots/5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf/homepage-mobile-1790248171255.png"
+      }
+    },
+    {
+      "id": "E-003",
+      "type": "http_response",
+      "category": "technical",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:32.094Z",
+      "status": "TESTED",
+      "description": "HTTP status 200 () returned in 802ms.",
+      "metricValue": 802,
+      "rawSnippet": null,
+      "data": {
+        "statusCode": 200,
+        "statusText": "",
+        "finalUrl": "https://example.com/",
+        "contentType": "text/html",
+        "responseTimeMs": 802
+      }
+    },
+    {
+      "id": "E-004",
+      "type": "lighthouse_unavailable",
+      "category": "performance",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.280Z",
+      "status": "NOT VERIFIED",
+      "description": "Lighthouse execution could not complete: __name is not defined. Core Web Vitals labeled as NOT VERIFIED.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-005",
+      "type": "missing_security_headers",
+      "category": "security",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.314Z",
+      "status": "OBSERVED",
+      "description": "Missing recommended security headers: Strict-Transport-Security (HSTS), Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "missingHeaders": [
+          "Strict-Transport-Security (HSTS)",
+          "Content-Security-Policy (CSP)",
+          "X-Frame-Options",
+          "X-Content-Type-Options"
+        ]
+      }
+    },
+    {
+      "id": "E-006",
+      "type": "seo_meta_descriptions",
+      "category": "seo",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.314Z",
+      "status": "OBSERVED",
+      "description": "Missing meta descriptions on 1 out of 1 inspected pages.",
+      "metricValue": 1,
+      "rawSnippet": null,
+      "data": {
+        "missingCount": 1,
+        "samplePages": [
+          "https://example.com/"
+        ]
+      }
+    },
+    {
+      "id": "E-007",
+      "type": "seo_canonical_tags",
+      "category": "seo",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.314Z",
+      "status": "OBSERVED",
+      "description": "1 pages missing <link rel=\"canonical\"> tag.",
+      "metricValue": 1,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-008",
+      "type": "mobile_viewport_audit",
+      "category": "mobile",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.314Z",
+      "status": "TESTED",
+      "description": "Captured and evaluated mobile viewport rendering at 390x844 dimensions.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "mobileScreenshot": "/screenshots/5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf/homepage-mobile-1790248171255.png"
+      }
+    },
+    {
+      "id": "E-009",
+      "type": "visual_desktop_evidence",
+      "category": "visual",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.314Z",
+      "status": "OBSERVED",
+      "description": "Captured high-resolution desktop visual rendering (1440x900 viewport).",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "screenshot": "/screenshots/5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf/homepage-desktop-1790248170406.png"
+      }
+    },
+    {
+      "id": "E-010",
+      "type": "ux_navigation_map",
+      "category": "ux",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.314Z",
+      "status": "OBSERVED",
+      "description": "Discovered 0 internal navigation paths and 0 interactive forms across 1 pages.",
+      "metricValue": 0,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-011",
+      "type": "content_structure",
+      "category": "content",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.314Z",
+      "status": "OBSERVED",
+      "description": "Analyzed content structure across 1 pages containing 1 structured headings.",
+      "metricValue": 1,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-012",
+      "type": "conversion_contact_signals",
+      "category": "conversion",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.315Z",
+      "status": "OBSERVED",
+      "description": "Detected contact signals: 0 phone(s), 0 email(s), 0 WhatsApp link(s), 0 form(s).",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "phones": [],
+        "emails": [],
+        "whatsapps": [],
+        "formsCount": 0
+      }
+    },
+    {
+      "id": "E-013",
+      "type": "local_seo_signals",
+      "category": "local_seo",
+      "pageUrl": "https://example.com/",
+      "timestamp": "2026-09-24T11:09:33.315Z",
+      "status": "NOT APPLICABLE",
+      "description": "Local SEO signals evaluated for business=\"N/A\", location=\"N/A\".",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "businessFound": false,
+        "locationFound": false
+      }
+    }
+  ],
+  "findings": [
+    {
+      "id": "SEC-001",
+      "category": "security",
+      "priority": "MEDIUM",
+      "title": "Missing Defensive HTTP Security Headers (4 missing)",
+      "observation": "The web server response does not include standard defensive headers: Strict-Transport-Security (HSTS), Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options.",
+      "evidence": "Response headers from https://example.com/ were inspected. Found: {\"hsts\":null,\"csp\":null,\"xFrameOptions\":null,\"xContentTypeOptions\":null,\"referrerPolicy\":null,\"permissionsPolicy\":null}",
+      "evidenceIds": [
+        "E-005"
+      ],
+      "impact": "Leaves the website vulnerable to clickjacking (missing X-Frame-Options), MIME-type sniffing, and cross-site scripting risks.",
+      "recommendation": "Configure your web server (Nginx/Apache/Cloudflare) to send HSTS, X-Frame-Options: SAMEORIGIN, and X-Content-Type-Options: nosniff headers.",
+      "verificationStatus": "OBSERVED",
+      "pageUrl": "https://example.com/"
+    },
+    {
+      "id": "SEO-001",
+      "category": "seo",
+      "priority": "HIGH",
+      "title": "Missing Meta Descriptions (1/1 pages)",
+      "observation": "1 page(s) lack a <meta name=\"description\"> tag.",
+      "evidence": "Sample affected URLs:\n- https://example.com/",
+      "evidenceIds": [
+        "E-006"
+      ],
+      "impact": "Search engines will automatically generate snippets from random body text, resulting in lower click-through rates (CTR) from search results.",
+      "recommendation": "Add unique, compelling meta descriptions (130-160 characters) containing primary keywords and a clear call to action for every page.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "SEO-004",
+      "category": "seo",
+      "priority": "MEDIUM",
+      "title": "Missing Canonical URL Tags (1/1 pages)",
+      "observation": "1 pages do not declare a self-referencing canonical URL.",
+      "evidence": "Canonical tags are missing from <head> on 1 crawled pages.",
+      "evidenceIds": [
+        "E-007"
+      ],
+      "impact": "Risk of duplicate content penalties when pages are accessed via different URL variations (HTTP vs HTTPS, trailing slash, query parameters).",
+      "recommendation": "Add self-referencing <link rel=\"canonical\" href=\"https://...\" /> tags in the <head> of every published page.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "CONV-001",
+      "category": "conversion",
+      "priority": "HIGH",
+      "title": "Limited Direct Lead Capture & Contact Channels",
+      "observation": "No clickable phone links (tel:), direct WhatsApp buttons, or interactive enquiry forms were detected across crawled pages.",
+      "evidence": "Inspected contact signals across 1 pages. Found: 0 phone numbers, 0 forms.",
+      "evidenceIds": [
+        "E-012"
+      ],
+      "impact": "Creates significant friction for prospective clients attempting to reach out, resulting in lost conversions and enquiries.",
+      "recommendation": "Add prominent \"Call Now\" (tel:), \"Chat on WhatsApp\", and quick quote enquiry forms in the header, hero, and sticky footer.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "AI-VIS-001",
+      "category": "visual",
+      "priority": "MEDIUM",
+      "title": "Visual Hierarchy & Focal Point Modernization",
+      "observation": "Above-the-fold layout could benefit from stronger headline typography contrast, clear primary call-to-action prominence, and elevated modern spacing tokens.",
+      "evidence": "Evaluated 1 crawled templates. Visual inspection of hero and body sections indicates opportunity for enhanced visual contrast and modern design tokens.",
+      "evidenceIds": [
+        "E-002",
+        "E-009"
+      ],
+      "impact": "Modern, high-contrast visual design builds instant visitor trust and dramatically improves engagement time on landing.",
+      "recommendation": "Implement a refined typographic hierarchy (48px+ H1 hero, 20px lead paragraph), distinct high-contrast CTA button styling, and consistent 64px+ section spacing.",
+      "verificationStatus": "INFERRED"
+    },
+    {
+      "id": "AI-CONV-001",
+      "category": "conversion",
+      "priority": "HIGH",
+      "title": "Lead Capture & Instant Engagement Opportunity",
+      "observation": "The website lacks instant real-time conversion channels such as floating WhatsApp buttons or frictionless 2-field lead capture forms.",
+      "evidence": "Inspected conversion triggers across 1 pages. Direct WhatsApp messaging links or streamlined quote forms were not detected in the primary navigation or sticky footer.",
+      "evidenceIds": [
+        "E-012"
+      ],
+      "impact": "Up to 60% of modern mobile visitors prefer instant chat or 1-click quote requests over navigating to a separate contact page.",
+      "recommendation": "Add a persistent floating WhatsApp contact widget and an above-the-fold \"Get Instant Quote\" trigger.",
+      "verificationStatus": "INFERRED"
+    }
+  ],
+  "startedAt": "2026-09-24T11:09:29.340Z",
+  "lighthouse": {
+    "performanceScore": null,
+    "accessibilityScore": null,
+    "bestPracticesScore": null,
+    "seoScore": null,
+    "metrics": {
+      "firstContentfulPaintMs": null,
+      "largestContentfulPaintMs": null,
+      "cumulativeLayoutShift": null,
+      "totalBlockingTimeMs": null,
+      "speedIndexMs": null,
+      "interactiveMs": null
+    },
+    "audits": [],
+    "status": "NOT VERIFIED"
+  },
+  "report": {
+    "clientSummary": {
+      "overview": "A strategic review of the business's website to help you increase client inquiries, improve Google visibility, and create a premium first impression for potential customers.",
+      "top5Opportunities": [
+        {
+          "title": "1. Fast Inbound Contact Triggers",
+          "businessImpact": "Captures urgent buyers who prefer calling or chatting instantly on mobile rather than filling out long forms.",
+          "recommendedAction": "Add a prominent 1-click \"Call Now\" button in the header and a sticky WhatsApp chat button on mobile."
+        },
+        {
+          "title": "2. Above-The-Fold Value & Proof",
+          "businessImpact": "Immediately answers \"Why choose us?\" within the first 5 seconds of a visitor landing on the website.",
+          "recommendedAction": "Place a clear headline stating your primary specialty, accompanied by 3 core benefit badges and client review ratings."
+        },
+        {
+          "title": "3. Dedicated Solution / Service Pages",
+          "businessImpact": "Allows Google to rank each specific service individually for targeted search queries in your area.",
+          "recommendedAction": "Build dedicated sub-pages for each major offering with project photos, client benefits, and an inquiry form."
+        },
+        {
+          "title": "4. Search Engine Snippet Optimization",
+          "businessImpact": "Improves the descriptive summary that prospective clients see on Google search result pages.",
+          "recommendedAction": "Craft compelling 150-character descriptions for each page inviting searchers to click and explore."
+        },
+        {
+          "title": "5. Modern Mobile Layout & Tap Targets",
+          "businessImpact": "Eliminates pinch-to-zoom and mis-taps on smartphones, ensuring a seamless experience for on-the-go clients.",
+          "recommendedAction": "Ensure all buttons and menus are at least 48px in height with generous spacing between clickable elements."
+        }
+      ],
+      "currentStrengths": [
+        "Website connection is secured with modern SSL encryption."
+      ],
+      "recommendedWebsiteStructure": [
+        {
+          "pageName": "Home",
+          "purpose": "Create immediate authority, clearly state what you do, and drive visitors to request a quote or call.",
+          "keySections": [
+            "Hero with 1-Click Quote Button",
+            "Core Offerings Grid",
+            "Photo Showcase of Recent Work",
+            "Client Testimonials",
+            "Direct Contact Box"
+          ]
+        },
+        {
+          "pageName": "Services / Offerings",
+          "purpose": "Provide a transparent overview of capabilities, deliverables, and step-by-step process.",
+          "keySections": [
+            "Overview of Capabilities",
+            "What is Included",
+            "Process & Timeline",
+            "Frequently Asked Questions"
+          ]
+        },
+        {
+          "pageName": "Portfolio / Projects",
+          "purpose": "Provide tangible visual proof of craftsmanship and completed work to eliminate buyer hesitation.",
+          "keySections": [
+            "Filterable Project Gallery",
+            "Before & After Transformations",
+            "Client Success Quotes"
+          ]
+        },
+        {
+          "pageName": "About Us",
+          "purpose": "Humanize your business, demonstrate industry experience, and showcase team credentials.",
+          "keySections": [
+            "Our Story & Mission",
+            "Experience & Standards",
+            "Why Clients Choose Us",
+            "Leadership / Team"
+          ]
+        },
+        {
+          "pageName": "Contact & Inquiry",
+          "purpose": "Provide a simple, zero-friction point for visitors to call, email, chat, or visit.",
+          "keySections": [
+            "Simple 3-Field Quote Form",
+            "Direct Phone & WhatsApp Links",
+            "Business Hours",
+            "Location Map"
+          ]
+        }
+      ],
+      "nextSteps": [
+        {
+          "step": "Quick Conversion Wins: Add header phone number and mobile WhatsApp button",
+          "timeframe": "Days 1 - 3"
+        },
+        {
+          "step": "Content & Search Polish: Update Google titles, descriptions, and hero headlines",
+          "timeframe": "Week 1"
+        },
+        {
+          "step": "Visual Modernization: Deploy refined service cards, project gallery, and trust proof",
+          "timeframe": "Weeks 2 - 3"
+        }
+      ]
+    },
+    "executiveSummary": {
+      "summary": "This comprehensive website audit evaluates the digital presence, customer journey, and conversion readiness of https://example.com (the business). \nBased on 1 inspected pages and automated viewport testing, the website provides a foundational web presence with substantial commercial opportunities to accelerate customer trust, improve mobile engagement, and capture more inbound enquiries.\n\nKey immediate priorities include introducing frictionless quote inquiry channels, refining page summaries for search engines, and modernizing layout contrast to highlight core services and proof of quality.",
+      "overallCondition": "Good",
+      "topStrengths": [
+        "Website connection is secured with modern SSL encryption."
+      ],
+      "topRisks": [
+        "Missing immediate call or instant messaging buttons for high-intent visitors."
+      ],
+      "findingsCountByPriority": {
+        "CRITICAL": 0,
+        "HIGH": 3,
+        "MEDIUM": 3,
+        "LOW": 0
+      }
+    },
+    "websiteOverview": {
+      "url": "https://example.com",
+      "totalPagesCrawled": 1,
+      "auditDurationSec": 4,
+      "techStackDetected": [
+        "HTML5",
+        "Modern CSS/JS",
+        "HTTPS / SSL"
+      ],
+      "primaryLanguage": "en"
+    },
+    "pagesInspected": [
+      {
+        "url": "https://example.com/",
+        "title": "Example Domain",
+        "statusCode": 200,
+        "responseTimeMs": 802,
+        "issuesCount": 0
+      }
+    ],
+    "keyStrengths": [
+      {
+        "title": "Strength 1",
+        "description": "Website connection is secured with modern SSL encryption."
+      }
+    ],
+    "criticalIssues": [],
+    "visualDesignAudit": {
+      "summary": "Visual presentation evaluated across desktop and mobile captures. Inspected hero section hierarchy, typography scaling, and component layout rhythm.",
+      "typographyAssessment": "Heading-to-body font scale and line-height balance inspected. Heading font scaling and line readability across desktop and mobile viewports inspected.",
+      "colorSystemAssessment": "Brand accent colors and background contrast ratios evaluated. Brand color accents and contrast ratios evaluated for visual hierarchy and readability.",
+      "spacingLayoutAssessment": "Container widths, section padding, and responsive grid layout analyzed. Container widths and vertical rhythm between content blocks evaluated.",
+      "visualHierarchyAssessment": "Primary headline prominence and visual weight distribution evaluated. Dominance of primary headlines, sub-headlines, and action buttons evaluated.",
+      "brandConsistencyAssessment": "Visual styling consistency verified across crawled templates. Visual component consistency across all crawled page templates.",
+      "heroAssessment": "Above-the-fold hero messaging and call-to-action prominence evaluated. Above-the-fold value proposition, background visuals, and primary conversion trigger evaluated.",
+      "footerAssessment": "Footer structure, secondary navigation links, and copyright info evaluated. Footer navigation links, contact information, and business credentials evaluated.",
+      "findings": [
+        {
+          "id": "AI-VIS-001",
+          "category": "visual",
+          "priority": "MEDIUM",
+          "title": "Visual Hierarchy & Focal Point Modernization",
+          "observation": "Above-the-fold layout could benefit from stronger headline typography contrast, clear primary call-to-action prominence, and elevated modern spacing tokens.",
+          "evidence": "Evaluated 1 crawled templates. Visual inspection of hero and body sections indicates opportunity for enhanced visual contrast and modern design tokens.",
+          "evidenceIds": [
+            "E-002",
+            "E-009"
+          ],
+          "impact": "Modern, high-contrast visual design builds instant visitor trust and dramatically improves engagement time on landing.",
+          "recommendation": "Implement a refined typographic hierarchy (48px+ H1 hero, 20px lead paragraph), distinct high-contrast CTA button styling, and consistent 64px+ section spacing.",
+          "verificationStatus": "INFERRED"
+        }
+      ]
+    },
+    "uxAudit": {
+      "summary": "Evaluated user experience architecture across 1 pages. Analyzed primary navigation paths, information hierarchy, and lead enquiry flows.",
+      "navigationStructure": "Discovered multi-page navigation across 1 accessible templates with 0 internal links. Header navigation menus and information grouping simplicity.",
+      "userJourney": "Audited user pathways from landing to information discovery and final conversion. Friction points from landing through solution exploration to final enquiry.",
+      "serviceDiscovery": "Evaluated visibility of core services, offering descriptions, and supporting details. Clarity and depth of service/product descriptions and offerings.",
+      "ctaPlacement": "Primary and secondary conversion touchpoints mapped across page layouts. Strategic placement of conversion buttons in hero, mid-page, and footer.",
+      "formsAssessment": "0 contact/enquiry forms analyzed for input simplicity and clear labels. Form field complexity, validation clarity, and submission ease.",
+      "findings": []
+    },
+    "mobileExperience": {
+      "summary": "Audited mobile presentation across 1 pages using simulated 390x844 mobile viewports. Touch targets and responsive viewport scaling verified.",
+      "responsiveDesignStatus": "TESTED",
+      "tapTargetAssessment": "Touch target size and spacing verified on mobile viewport.",
+      "horizontalOverflowDetected": false,
+      "mobileMenuAssessment": "Mobile navigation drawer and touch elements tested.",
+      "findings": []
+    },
+    "contentAudit": {
+      "summary": "Audited content depth, clarity, and value messaging across 1 pages. Verified structured heading breakdowns and core information sections.",
+      "clarityReadabilityScore": "Evaluated heading flow, paragraph chunking, and key value propositions. Clarity and conciseness of customer-facing messaging and solutions.",
+      "valuePropositionAssessment": "Hero messaging and solution clarity evaluated for target audience relevance. Immediate communication of unique advantages and core capabilities.",
+      "contentGaps": [
+        "Detailed client case studies with before/after results and metrics",
+        "Transparent engagement pricing or structured service packages",
+        "Comprehensive FAQ section addressing customer buying criteria"
+      ],
+      "findings": []
+    },
+    "conversionLeadGenAudit": {
+      "summary": "Lead conversion audit across 1 pages. Phone channels: No direct tel: links found. Email channels: No mailto: links found. WhatsApp integration: Not detected. Total enquiry forms: 0.",
+      "phoneVisibility": "No direct tel: links found",
+      "emailVisibility": "No mailto: links found",
+      "whatsappAvailability": "Not detected",
+      "enquiryFlowAssessment": "0 contact/lead capture forms detected across pages. Streamlined pathway for visitors to initiate a quote, consultation, or purchase.",
+      "trustSignalsAssessment": "Evaluated social proof, client reviews, and warranty/trust claims. Presence of client testimonials, project portfolios, industry credentials, and security assurances.",
+      "findings": [
+        {
+          "id": "CONV-001",
+          "category": "conversion",
+          "priority": "HIGH",
+          "title": "Limited Direct Lead Capture & Contact Channels",
+          "observation": "No clickable phone links (tel:), direct WhatsApp buttons, or interactive enquiry forms were detected across crawled pages.",
+          "evidence": "Inspected contact signals across 1 pages. Found: 0 phone numbers, 0 forms.",
+          "evidenceIds": [
+            "E-012"
+          ],
+          "impact": "Creates significant friction for prospective clients attempting to reach out, resulting in lost conversions and enquiries.",
+          "recommendation": "Add prominent \"Call Now\" (tel:), \"Chat on WhatsApp\", and quick quote enquiry forms in the header, hero, and sticky footer.",
+          "verificationStatus": "OBSERVED"
+        },
+        {
+          "id": "AI-CONV-001",
+          "category": "conversion",
+          "priority": "HIGH",
+          "title": "Lead Capture & Instant Engagement Opportunity",
+          "observation": "The website lacks instant real-time conversion channels such as floating WhatsApp buttons or frictionless 2-field lead capture forms.",
+          "evidence": "Inspected conversion triggers across 1 pages. Direct WhatsApp messaging links or streamlined quote forms were not detected in the primary navigation or sticky footer.",
+          "evidenceIds": [
+            "E-012"
+          ],
+          "impact": "Up to 60% of modern mobile visitors prefer instant chat or 1-click quote requests over navigating to a separate contact page.",
+          "recommendation": "Add a persistent floating WhatsApp contact widget and an above-the-fold \"Get Instant Quote\" trigger.",
+          "verificationStatus": "INFERRED"
+        }
+      ]
+    },
+    "seoAudit": {
+      "summary": "Audited on-page SEO signals across 1 pages. Meta titles: Verified on all pages. Meta descriptions: 1 pages missing description. Images with alt text: 0/0.",
+      "metaTitleStatus": "Verified on all pages",
+      "metaDescriptionStatus": "1 pages missing description",
+      "headingHierarchyStatus": "Proper single H1 structure",
+      "canonicalStatus": "1 pages missing canonical",
+      "robotsSitemapStatus": "Robots.txt verified during crawl",
+      "structuredDataStatus": "Inspected for JSON-LD schemas",
+      "findings": [
+        {
+          "id": "SEO-001",
+          "category": "seo",
+          "priority": "HIGH",
+          "title": "Missing Meta Descriptions (1/1 pages)",
+          "observation": "1 page(s) lack a <meta name=\"description\"> tag.",
+          "evidence": "Sample affected URLs:\n- https://example.com/",
+          "evidenceIds": [
+            "E-006"
+          ],
+          "impact": "Search engines will automatically generate snippets from random body text, resulting in lower click-through rates (CTR) from search results.",
+          "recommendation": "Add unique, compelling meta descriptions (130-160 characters) containing primary keywords and a clear call to action for every page.",
+          "verificationStatus": "OBSERVED"
+        },
+        {
+          "id": "SEO-004",
+          "category": "seo",
+          "priority": "MEDIUM",
+          "title": "Missing Canonical URL Tags (1/1 pages)",
+          "observation": "1 pages do not declare a self-referencing canonical URL.",
+          "evidence": "Canonical tags are missing from <head> on 1 crawled pages.",
+          "evidenceIds": [
+            "E-007"
+          ],
+          "impact": "Risk of duplicate content penalties when pages are accessed via different URL variations (HTTP vs HTTPS, trailing slash, query parameters).",
+          "recommendation": "Add self-referencing <link rel=\"canonical\" href=\"https://...\" /> tags in the <head> of every published page.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "technicalAudit": {
+      "summary": "Inspected 1 pages. HTTPS is Enforced (HTTPS). Found 0 console errors, 0 broken link errors, and evaluated server security headers.",
+      "httpsStatus": "Enforced (HTTPS)",
+      "redirectsStatus": "Verified during crawl",
+      "brokenLinksCount": 0,
+      "brokenImagesCount": 0,
+      "consoleErrorsCount": 0,
+      "findings": []
+    },
+    "performanceAudit": {
+      "summary": "Lighthouse metrics could not be executed in the current environment and are marked as NOT VERIFIED.",
+      "lighthouse": {
+        "performanceScore": null,
+        "accessibilityScore": null,
+        "bestPracticesScore": null,
+        "seoScore": null,
+        "metrics": {
+          "firstContentfulPaintMs": null,
+          "largestContentfulPaintMs": null,
+          "cumulativeLayoutShift": null,
+          "totalBlockingTimeMs": null,
+          "speedIndexMs": null,
+          "interactiveMs": null
+        },
+        "audits": [],
+        "status": "NOT VERIFIED"
+      },
+      "coreWebVitalsSummary": "NOT VERIFIED",
+      "findings": []
+    },
+    "accessibilityAudit": {
+      "summary": "Evaluated accessible DOM signals across 1 pages. Alt text coverage is 100% (0/0 images have alt text). 0 interactive forms audited.",
+      "altTextCoverage": "100% (0/0 images have alt text)",
+      "formLabelingStatus": "Audited standard input fields",
+      "buttonNamesStatus": "Audited standard button elements",
+      "colorContrastStatus": "Heuristic evaluation (full audit requires color-pair extraction)",
+      "wcagDisclaimer": "This automated technical check inspects detectable DOM signals (alt attributes, heading hierarchy, form controls). It does NOT constitute a full WCAG 2.1/2.2 legal compliance guarantee, which requires extensive manual assistive technology testing.",
+      "findings": []
+    },
+    "localSeoOpportunities": {
+      "summary": "Local search visibility audit. Target Business: N/A (Not specified). Target Location: N/A (Not specified). Evaluated NAP consistency and local schema opportunities.",
+      "businessNameMatch": "Not specified",
+      "locationMatch": "Not specified",
+      "napConsistency": "Evaluated address and contact references across header/footer",
+      "localSchemaDetected": false,
+      "opportunities": [
+        "Add Schema.org LocalBusiness structured data (JSON-LD) with exact address, geo coordinates, and opening hours",
+        "Optimize Google Business Profile (GBP) with matching Name, Address, Phone (NAP) citations",
+        "Create dedicated location and service-area landing pages with localized content and customer testimonials"
+      ],
+      "findings": []
+    },
+    "securityObservations": {
+      "summary": "Publicly observable security check: HTTPS Enforced (HTTPS). Missing defensive headers evaluated.",
+      "httpsEnforced": true,
+      "mixedContentDetected": false,
+      "securityHeadersAssessment": "Evaluated HSTS, CSP, and X-Frame-Options headers.",
+      "securityDisclaimer": "This security observation inspects publicly observable technical signals (HTTPS, security response headers). It does NOT constitute a penetration test or exploitation assessment.",
+      "findings": [
+        {
+          "id": "SEC-001",
+          "category": "security",
+          "priority": "MEDIUM",
+          "title": "Missing Defensive HTTP Security Headers (4 missing)",
+          "observation": "The web server response does not include standard defensive headers: Strict-Transport-Security (HSTS), Content-Security-Policy (CSP), X-Frame-Options, X-Content-Type-Options.",
+          "evidence": "Response headers from https://example.com/ were inspected. Found: {\"hsts\":null,\"csp\":null,\"xFrameOptions\":null,\"xContentTypeOptions\":null,\"referrerPolicy\":null,\"permissionsPolicy\":null}",
+          "evidenceIds": [
+            "E-005"
+          ],
+          "impact": "Leaves the website vulnerable to clickjacking (missing X-Frame-Options), MIME-type sniffing, and cross-site scripting risks.",
+          "recommendation": "Configure your web server (Nginx/Apache/Cloudflare) to send HSTS, X-Frame-Options: SAMEORIGIN, and X-Content-Type-Options: nosniff headers.",
+          "verificationStatus": "OBSERVED",
+          "pageUrl": "https://example.com/"
+        }
+      ]
+    },
+    "priorityImprovementPlan": [
+      {
+        "priority": "HIGH",
+        "action": "Add Missing Meta Descriptions and Title Optimization",
+        "category": "technical",
+        "effort": "Low",
+        "rationale": "Essential for search engine indexing, click-through rates, and basic visitor trust."
+      },
+      {
+        "priority": "HIGH",
+        "action": "Implement Direct Call and WhatsApp Click-to-Chat Triggers",
+        "category": "conversion",
+        "effort": "Low",
+        "rationale": "Directly unlocks immediate lead capture for mobile and high-intent visitors."
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Add Descriptive Alt Text to All Product and Hero Images",
+        "category": "accessibility",
+        "effort": "Medium",
+        "rationale": "Enhances accessibility compliance and drives Google Image search traffic."
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Modernize Hero Layout and Visual Spacing Hierarchy",
+        "category": "visual",
+        "effort": "Medium",
+        "rationale": "Builds instant credibility and decreases initial bounce rates."
+      }
+    ],
+    "recommendedWebsiteStructure": {
+      "summary": "Target sitemap architecture designed for high-conversion user journeys and SEO depth.",
+      "suggestedSitemap": [
+        {
+          "pageName": "Home",
+          "slug": "/",
+          "purpose": "Establish immediate authority, showcase core value proposition, and drive primary conversions.",
+          "keySections": [
+            "Hero with Instant CTA",
+            "Core Services Grid",
+            "Featured Projects / Case Studies",
+            "Client Testimonials",
+            "Direct Contact Form"
+          ]
+        },
+        {
+          "pageName": "Services / Offerings",
+          "slug": "/services",
+          "purpose": "Comprehensive breakdown of solutions with transparent deliverables and process steps.",
+          "keySections": [
+            "Services Overview",
+            "Detailed Feature Comparison",
+            "Pricing / Packages",
+            "Client FAQ"
+          ]
+        },
+        {
+          "pageName": "Portfolio / Projects",
+          "slug": "/projects",
+          "purpose": "Build credibility through high-fidelity visual proof and real project outcomes.",
+          "keySections": [
+            "Project Gallery with Filter",
+            "In-depth Case Studies",
+            "Client Outcomes"
+          ]
+        },
+        {
+          "pageName": "About Us",
+          "slug": "/about",
+          "purpose": "Humanize the brand, share company mission, leadership, and credentials.",
+          "keySections": [
+            "Our Story",
+            "Leadership Team",
+            "Certifications & Awards",
+            "Why Choose Us"
+          ]
+        },
+        {
+          "pageName": "Contact & Consultation",
+          "slug": "/contact",
+          "purpose": "Frictionless multi-channel contact point for quotes, phone calls, and visits.",
+          "keySections": [
+            "Interactive Quote Form",
+            "Direct Phone & WhatsApp",
+            "Office Location Map",
+            "Business Hours"
+          ]
+        }
+      ]
+    },
+    "recommendedRedesignStrategy": {
+      "summary": "Modernize the digital experience into a high-performance, conversion-engineered flagship platform.",
+      "corePillars": [
+        {
+          "title": "1. Conversion-Engineered Architecture",
+          "description": "Introduce persistent mobile-friendly CTAs, floating chat triggers, and 2-step quote request funnels on every key landing page."
+        },
+        {
+          "title": "2. Modern Visual Design & Trust Signatures",
+          "description": "Elevate brand positioning with refined typography, rich micro-interactions, high-contrast accents, and visual social proof."
+        },
+        {
+          "title": "3. Core Web Vitals & Technical Excellence",
+          "description": "Ensure sub-second page loads, zero Cumulative Layout Shift (CLS), and rigorous mobile viewport responsiveness."
+        }
+      ],
+      "designTokensSuggestion": {
+        "colorPaletteRecommendation": "Deep Slate / Navy (#0F172A) primary, Vibrant Indigo (#4F46E5) or Amber (#F59E0B) accents, Crisp Neutral (#F8FAFC) background",
+        "typographyRecommendation": "Outfit or Plus Jakarta Sans for confident modern headlines; Inter for crystal-clear body copy",
+        "layoutGuidance": "Max-width 1280px containers, 80px section spacing, and glassmorphic card surfaces with subtle borders"
+      }
+    },
+    "nextSteps": [
+      {
+        "stepNumber": 1,
+        "title": "Immediate Technical & On-Page Quick Wins",
+        "description": "Fix missing meta descriptions, heading structure, and implement direct phone/WhatsApp contact buttons.",
+        "timelineRecommendation": "Days 1 - 3"
+      },
+      {
+        "stepNumber": 2,
+        "title": "Conversion Funnel & Hero Optimization",
+        "description": "Redesign above-the-fold hero section with crystal-clear value proposition and streamlined quote inquiry form.",
+        "timelineRecommendation": "Week 1 - 2"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Comprehensive Content & UI Modernization",
+        "description": "Publish detailed service pages, client case studies, and deploy updated visual design system.",
+        "timelineRecommendation": "Month 1"
+      }
+    ]
+  },
+  "salesReport": {
+    "isParkedOrIncomplete": true,
+    "websiteStatusSummary": "The domain https://example.com is currently in a preliminary, holding, or under-construction state with limited public business content. This audit provides an executive assessment of foundational digital readiness and presents a tailored blueprint to launch an effective online customer acquisition channel.",
+    "industry": "Professional & Commercial Services",
+    "industryConfidence": "INFERRED",
+    "whatIsWorking": [
+      {
+        "title": "SSL Security Encryption Active",
+        "explanation": "Your website is secured with an active SSL certificate (HTTPS), ensuring visitor connection privacy.",
+        "evidenceIds": [
+          "E-002"
+        ],
+        "status": "TESTED"
+      },
+      {
+        "title": "Multi-Device Viewport Compatibility",
+        "explanation": "The website successfully scales across desktop and smartphone screen viewports without critical horizontal layout breakage.",
+        "evidenceIds": [
+          "E-002",
+          "E-003"
+        ],
+        "status": "TESTED"
+      },
+      {
+        "title": "Active Domain & Web Hosting Infrastructure",
+        "explanation": "Domain routing is online and successfully responding to web requests (Response time: 802ms).",
+        "evidenceIds": [
+          "E-002"
+        ],
+        "status": "TESTED"
+      }
+    ],
+    "topOpportunities": [
+      {
+        "id": "OPP-002",
+        "title": "Add Instant Inbound Contact Channels",
+        "clientObservation": "The website does not currently provide immediate ways for visitors to call, message, or request quotes.",
+        "businessImpact": "Adding direct call and instant WhatsApp triggers allows urgent buyers to connect immediately, preventing lost inquiries.",
+        "recommendedAction": "Place a visible \"Call Now\" button in the header and integrate a floating WhatsApp inquiry widget for mobile visitors.",
+        "evidenceIds": [
+          "E-012"
+        ],
+        "priority": "HIGH",
+        "status": "OBSERVED"
+      },
+      {
+        "id": "OPP-003",
+        "title": "Optimize Search Visibility for your area",
+        "clientObservation": "Search engines currently have limited descriptive information linking your website to your primary service area (your area).",
+        "businessImpact": "Ensures prospective clients searching for services in your area can easily discover and click on your website from Google search results.",
+        "recommendedAction": "Incorporate \"your area\" naturally into your main page title, search description, and footer service area block.",
+        "evidenceIds": [
+          "E-006"
+        ],
+        "priority": "HIGH",
+        "status": "OBSERVED"
+      },
+      {
+        "id": "OPP-004",
+        "title": "Elevate Visual Presentation & Brand Proof",
+        "clientObservation": "A complete visual showcase of your completed projects, service capabilities, and client testimonials is needed.",
+        "businessImpact": "A modern, high-contrast visual design creates a memorable first impression and positions your business as a market leader.",
+        "recommendedAction": "Deploy high-contrast headlines, clear primary call-to-action buttons, and structured visual cards to showcase your best work.",
+        "evidenceIds": [
+          "E-002",
+          "E-009"
+        ],
+        "priority": "MEDIUM",
+        "status": "INFERRED"
+      },
+      {
+        "id": "OPP-005",
+        "title": "Standardize Google Heading Structure",
+        "clientObservation": "Page headings and structure tags can be enhanced to give search engines a clear understanding of your core offerings.",
+        "businessImpact": "Clear heading hierarchy helps search algorithms properly categorize and rank each of your service offerings.",
+        "recommendedAction": "Ensure each page features one prominent primary headline (H1) followed by organized section headings.",
+        "evidenceIds": [
+          "E-007"
+        ],
+        "priority": "MEDIUM",
+        "status": "OBSERVED"
+      }
+    ],
+    "whyTheseMatter": "Establishing a credible, professional web presence with clear contact triggers and structured service offerings is essential for building immediate market trust. Launching a purpose-built website allows prospective clients in your market to discover your business, explore your capabilities, and reach out directly.",
+    "recommendedStructure": [
+      {
+        "pageName": "Home",
+        "purpose": "Clearly communicate your unique value proposition, establish credibility, and drive inquiries.",
+        "keySections": [
+          "Hero with 1-Click Consultation Button",
+          "Core Services Grid",
+          "Proof of Results / Client Logos",
+          "Testimonials",
+          "Direct Contact Box"
+        ]
+      },
+      {
+        "pageName": "Services & Solutions",
+        "purpose": "Provide a structured overview of capabilities, deliverables, and client onboarding process.",
+        "keySections": [
+          "Detailed Service Cards",
+          "How We Work Process Timeline",
+          "Frequently Asked Questions"
+        ]
+      },
+      {
+        "pageName": "Case Studies & Results",
+        "purpose": "Showcase measurable client outcomes and past projects to remove buyer hesitation.",
+        "keySections": [
+          "Featured Client Stories",
+          "Before & After Outcomes",
+          "Client Testimonial Quotes"
+        ]
+      },
+      {
+        "pageName": "About Us",
+        "purpose": "Humanize your business, share company values, and introduce leadership.",
+        "keySections": [
+          "Our Mission & Standards",
+          "Leadership Bios",
+          "Why Clients Choose Us"
+        ]
+      },
+      {
+        "pageName": "Contact & Inquiry",
+        "purpose": "Provide a simple, zero-friction point for visitors to call, message, or request consultations.",
+        "keySections": [
+          "Simple 3-Field Inquiry Form",
+          "Direct Phone & WhatsApp Links",
+          "Business Hours & Location"
+        ]
+      }
+    ],
+    "structureStatus": "INFERRED",
+    "implementationRoadmap": [
+      {
+        "timeframe": "Days 1 – 3",
+        "title": "Foundation & Security",
+        "description": "Configure SSL certificate (HTTPS), connect domain to primary web hosting, and establish direct phone & WhatsApp contact links."
+      },
+      {
+        "timeframe": "Week 1",
+        "title": "Content & Brand Blueprint",
+        "description": "Draft core service descriptions, project showcases, and local search metadata tailored for Your Business."
+      },
+      {
+        "timeframe": "Weeks 2 – 3",
+        "title": "Design & Deployment",
+        "description": "Deploy responsive 5-page industry sitemap, configure fast quote request forms, and launch live website."
+      }
+    ],
+    "agencyCta": {
+      "title": "Recommended Next Step: Strategic Modernization Consultation",
+      "message": "SHA WebStudio specializes in engineering high-performing, commercially focused websites that turn traffic into paying clients. We would welcome the opportunity to discuss these findings with Your Business and explore how a tailored digital presence can accelerate your business growth.",
+      "contactPrompt": "Schedule a complimentary 20-minute digital strategy consultation with our senior web architects."
+    }
+  },
+  "pdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf-client.pdf",
+  "clientPdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf-client.pdf",
+  "internalPdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf-internal.pdf",
+  "salesPdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-5b3e9b60-79a6-461e-b8b5-2026b9d0ecbf-sales.pdf",
+  "completedAt": "2026-09-24T11:09:40.821Z"
+}

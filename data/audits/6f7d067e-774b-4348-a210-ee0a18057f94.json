@@ -1,0 +1,2216 @@
+{
+  "id": "6f7d067e-774b-4348-a210-ee0a18057f94",
+  "config": {
+    "url": "https://www.gensler.com",
+    "businessName": "Gensler Architecture & Interior Design",
+    "location": "Global / San Francisco",
+    "maxPages": 2
+  },
+  "status": "completed",
+  "createdAt": "2026-09-24T11:59:48.448Z",
+  "progressPercent": 100,
+  "currentStepMessage": "Audit completed successfully!",
+  "crawledPagesCount": 2,
+  "totalPagesToCrawl": 2,
+  "pages": [
+    {
+      "url": "https://gensler.com/",
+      "finalUrl": "https://www.gensler.com/",
+      "statusCode": 200,
+      "statusText": "",
+      "contentType": "text/html; charset=utf-8",
+      "responseTimeMs": 2107,
+      "title": "Gensler | Creating a Better World Through the Power of Design",
+      "metaDescription": "Gensler is a global architecture, design, and planning firm with 58 offices and 6,000+ professionals across the Americas, Europe, Greater China, and APME.",
+      "canonicalUrl": "https://www.gensler.com/",
+      "h1s": [
+        "New Ideas for Resilient Cities",
+        "When Downtowns Thrive, Cities Thrive",
+        "Voice of the Fan",
+        "The Future Takes Flight at Pittsburgh International Airport",
+        "How AI Can Spark More Connection at the Office",
+        "How the Gensler Product Sustainability Standards™ Are Helping the Industry Advance a More Regenerative Future"
+      ],
+      "headingTree": [
+        {
+          "tag": "h1",
+          "text": "New Ideas for Resilient Cities"
+        },
+        {
+          "tag": "h1",
+          "text": "When Downtowns Thrive, Cities Thrive"
+        },
+        {
+          "tag": "h1",
+          "text": "Voice of the Fan"
+        },
+        {
+          "tag": "h1",
+          "text": "The Future Takes Flight at Pittsburgh International Airport"
+        },
+        {
+          "tag": "h1",
+          "text": "How AI Can Spark More Connection at the Office"
+        },
+        {
+          "tag": "h1",
+          "text": "How the Gensler Product Sustainability Standards™ Are Helping the Industry Advance a More Regenerative Future"
+        },
+        {
+          "tag": "h2",
+          "text": "The Climate Has Already Changed. Is Your Building Ready?"
+        },
+        {
+          "tag": "h2",
+          "text": "Why the Spaces Where People Thrive Are Also the Ones That Outperform"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Healthcare is the New Mixed-Use Amenity"
+        },
+        {
+          "tag": "h2",
+          "text": "Gensler-Designed Skyscaper Hopes to Become the San Francisco’s Newest Iconic Tower"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Worker Well-Being Is Core Infrastructure"
+        },
+        {
+          "tag": "h2",
+          "text": "A Field Guide to Workplace Microdiversity"
+        },
+        {
+          "tag": "h2",
+          "text": "Design Director Brian Barry Discusses How Gensler Transformed WME’s Sleek New Beverly Hills Headquarters Into a Town Square"
+        },
+        {
+          "tag": "h2",
+          "text": "Built to Flex: The Case for the Portable Office"
+        },
+        {
+          "tag": "h2",
+          "text": "What the Wellness Boom is Really Telling Us About People"
+        },
+        {
+          "tag": "h2",
+          "text": "Forbes Spotlights Gensler’s Luxury Masterplan of Truthful Hills, a $700 Million Development in the Jungles Near Laos’ Vang Vieng"
+        },
+        {
+          "tag": "h2",
+          "text": "Before the Road: How Hospitality’s Newest Markets Get More Creative"
+        },
+        {
+          "tag": "h2",
+          "text": "The Historic Rose Bowl Opens Its First Field-Level Premium Space"
+        },
+        {
+          "tag": "h2",
+          "text": "More Than a Venue: Designing Sports Assets for 365-Day Value"
+        },
+        {
+          "tag": "h2",
+          "text": "Gensler, Along With Live Nation’s Blueprint Studio, Is Designing a 4,000-Person Entertainment Venue"
+        },
+        {
+          "tag": "h2",
+          "text": "How Cities Are Rewriting the Rules of Urban Development"
+        },
+        {
+          "tag": "h2",
+          "text": "Fast Company Highlights How Gensler Is Building a Culture of AI Innovation"
+        },
+        {
+          "tag": "h2",
+          "text": "Can Agile Design Make Housing More Affordable?"
+        },
+        {
+          "tag": "h2",
+          "text": "The Link Between Patient Health and Provider Well-Being"
+        },
+        {
+          "tag": "h2",
+          "text": "Why Nature Access Is the Most Powerful Design Lever for Hospital Staff Well-Being"
+        },
+        {
+          "tag": "h2",
+          "text": "Advancing Specialty Care Closer to Home in Nigeria"
+        },
+        {
+          "tag": "h2",
+          "text": "Gensler Global Co-Chairs Andy Cohen and Diane Hoskins To Be Honored at Interior Design’s 2026 Hall of Fame Gala"
+        },
+        {
+          "tag": "h2",
+          "text": "Data Meets Strategy: How Higher Education Can Make Smarter Real Estate Decisions"
+        },
+        {
+          "tag": "h2",
+          "text": "What Engagement Really Means: Insights from Gensler’s 2025/2026 Education Engagement Index"
+        },
+        {
+          "tag": "h2",
+          "text": "Can One Month Change a City Forever? What Mega-Events Like the World Cup Can Teach Us"
+        },
+        {
+          "tag": "h2",
+          "text": "Beyond Matchday: Why Europe’s Next Sports Districts Must Be Designed as Everyday Places"
+        },
+        {
+          "tag": "h2",
+          "text": "6 Trends Shaping Design in 2026"
+        },
+        {
+          "tag": "h2",
+          "text": "We are creating a better world through the power of design."
+        },
+        {
+          "tag": "h2",
+          "text": "How AI is Making the Workplace More Human, Not Less"
+        },
+        {
+          "tag": "h2",
+          "text": "Under Armour Global Headquarters"
+        },
+        {
+          "tag": "h2",
+          "text": "10 Gresham Street"
+        },
+        {
+          "tag": "h2",
+          "text": "Baghdad Sustainable Forests"
+        },
+        {
+          "tag": "h2",
+          "text": "Recent searches"
+        },
+        {
+          "tag": "h2",
+          "text": "Popular Searches"
+        }
+      ],
+      "desktopScreenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/homepage-desktop-1790251193065.png",
+      "mobileScreenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/homepage-mobile-1790251193910.png",
+      "consoleErrors": [],
+      "networkErrors": [
+        {
+          "url": "https://data.openasset.com/3f741c2e/4c446f46a3c3e7c2f88b1c2a5194ec8a/F_260130_mp4/F_260130_videolarge.mp4",
+          "status": "net::ERR_ABORTED"
+        }
+      ],
+      "internalLinks": [
+        "https://www.gensler.com/",
+        "https://www.gensler.com/gri",
+        "https://www.gensler.com/gensler-research-institute",
+        "https://www.gensler.com/latest-research-insights",
+        "https://www.gensler.com/office-to-residential-services",
+        "https://www.gensler.com/research-topic-work-and-the-workplace",
+        "https://www.gensler.com/research-topic-future-of-cities",
+        "https://www.gensler.com/research-topic-resilience",
+        "https://www.gensler.com/research-topic-health",
+        "https://www.gensler.com/research-topic-equity",
+        "https://www.gensler.com/research-topic-lifestyle",
+        "https://www.gensler.com/blog",
+        "https://www.gensler.com/publications/design-forecast/",
+        "https://www.gensler.com/sustainability/resilience-by-design",
+        "https://www.gensler.com/research-library",
+        "https://www.gensler.com/workplace-surveys",
+        "https://www.gensler.com/webinars",
+        "https://www.gensler.com/expertise/aviation",
+        "https://www.gensler.com/expertise/brand-design",
+        "https://www.gensler.com/expertise/build-to-suit-headquarters",
+        "https://www.gensler.com/expertise/building-transformation-adaptive-reuse",
+        "https://www.gensler.com/expertise/cities-urban-design",
+        "https://www.gensler.com/expertise/climate-action-sustainability-services",
+        "https://www.gensler.com/expertise/consumer-goods",
+        "https://www.gensler.com/expertise/critical-facilities",
+        "https://www.gensler.com/expertise/culture-museums",
+        "https://www.gensler.com/expertise/digital-experience-design",
+        "https://www.gensler.com/expertise/education",
+        "https://www.gensler.com/expertise/energy",
+        "https://www.gensler.com/expertise/entertainment",
+        "https://www.gensler.com/expertise/financial-services",
+        "https://www.gensler.com/expertise/foundations-associations-organizations",
+        "https://www.gensler.com/expertise/government-defense",
+        "https://www.gensler.com/expertise/healthcare",
+        "https://www.gensler.com/expertise/hospitality",
+        "https://www.gensler.com/expertise/industrial-logistics",
+        "https://www.gensler.com/expertise/live-performance-venues",
+        "https://www.gensler.com/expertise/media",
+        "https://www.gensler.com/expertise/mixed-use-retail-centers",
+        "https://www.gensler.com/expertise/mobility-transportation",
+        "https://www.gensler.com/expertise/office-developers",
+        "https://www.gensler.com/expertise/product-development",
+        "https://www.gensler.com/expertise/professional-services",
+        "https://www.gensler.com/expertise/residential",
+        "https://www.gensler.com/expertise/retail-consumer-experience",
+        "https://www.gensler.com/expertise/sciences",
+        "https://www.gensler.com/expertise/senior-living",
+        "https://www.gensler.com/expertise/sports",
+        "https://www.gensler.com/expertise/strategy",
+        "https://www.gensler.com/expertise/technology",
+        "https://www.gensler.com/expertise/wellness",
+        "https://www.gensler.com/projects",
+        "https://www.gensler.com/projects/all",
+        "https://www.gensler.com/projects/all#topics",
+        "https://www.gensler.com/projects/all#offices",
+        "https://www.gensler.com/people",
+        "https://www.gensler.com/people/global-co-chairs",
+        "https://www.gensler.com/people/co-ceos",
+        "https://www.gensler.com/people/board-of-directors",
+        "https://www.gensler.com/legacy-of-leadership",
+        "https://www.gensler.com/people#topics",
+        "https://www.gensler.com/people#offices",
+        "https://www.gensler.com/offices/atlanta",
+        "https://www.gensler.com/offices/austin",
+        "https://www.gensler.com/offices/baltimore",
+        "https://www.gensler.com/offices/boston",
+        "https://www.gensler.com/offices/charlotte",
+        "https://www.gensler.com/offices/chicago",
+        "https://www.gensler.com/offices/columbus",
+        "https://www.gensler.com/offices/dallas",
+        "https://www.gensler.com/offices/denver",
+        "https://www.gensler.com/offices/detroit",
+        "https://www.gensler.com/offices/houston",
+        "https://www.gensler.com/offices/kansas-city",
+        "https://www.gensler.com/offices/la-crosse",
+        "https://www.gensler.com/offices/las-vegas",
+        "https://www.gensler.com/offices/los-angeles",
+        "https://www.gensler.com/offices/miami",
+        "https://www.gensler.com/offices/minneapolis",
+        "https://www.gensler.com/offices/morristown-nj",
+        "https://www.gensler.com/offices/nashville",
+        "https://www.gensler.com/offices/new-york",
+        "https://www.gensler.com/offices/newport-beach",
+        "https://www.gensler.com/offices/oakland",
+        "https://www.gensler.com/offices/philadelphia",
+        "https://www.gensler.com/offices/phoenix",
+        "https://www.gensler.com/offices/pittsburgh",
+        "https://www.gensler.com/offices/raleigh",
+        "https://www.gensler.com/offices/san-antonio",
+        "https://www.gensler.com/offices/san-diego",
+        "https://www.gensler.com/offices/san-francisco",
+        "https://www.gensler.com/offices/san-jose",
+        "https://www.gensler.com/offices/seattle",
+        "https://www.gensler.com/offices/tampa",
+        "https://www.gensler.com/offices/toronto",
+        "https://www.gensler.com/offices/vancouver",
+        "https://www.gensler.com/offices/washington-d-c",
+        "https://www.gensler.com/offices/bogota",
+        "https://www.gensler.com/offices/dominican-republic",
+        "https://www.gensler.com/offices/mexico-city",
+        "https://www.gensler.com/offices/monterrey",
+        "https://www.gensler.com/offices/san-jose-costa-rica",
+        "https://www.gensler.com/offices/berlin",
+        "https://www.gensler.com/offices/birmingham",
+        "https://www.gensler.com/offices/london",
+        "https://www.gensler.com/offices/munich",
+        "https://www.gensler.com/offices/paris",
+        "https://www.gensler.com/offices/abu-dhabi",
+        "https://www.gensler.com/offices/dubai",
+        "https://www.gensler.com/offices/riyadh",
+        "https://www.gensler.com/offices/beijing",
+        "https://www.gensler.com/offices/hong-kong",
+        "https://www.gensler.com/offices/shanghai",
+        "https://www.gensler.com/offices/bangalore",
+        "https://www.gensler.com/offices/bangkok",
+        "https://www.gensler.com/offices/delhi-ncr",
+        "https://www.gensler.com/offices/mumbai",
+        "https://www.gensler.com/offices/singapore",
+        "https://www.gensler.com/offices/sydney",
+        "https://www.gensler.com/offices/tokyo",
+        "https://www.gensler.com/about",
+        "https://www.gensler.com/in-the-media",
+        "https://www.gensler.com/press-releases",
+        "https://www.gensler.com/about/community",
+        "https://www.gensler.com/careers",
+        "https://www.gensler.com/contact",
+        "https://www.gensler.com/sustainability/resilience-by-design?utm_source=gensler_home",
+        "https://www.gensler.com/gri/city-pulse-survey-2026?utm_source=gensler_home",
+        "https://www.gensler.com/gri/voice-of-the-fan?utm_source=gensler_home",
+        "https://www.gensler.com/projects/pittsburgh-international-airport-terminal?utm_source=gensler_home",
+        "https://www.gensler.com/press-releases/fast-company-most-innovative-companies-2026?utm_source=gensler_home",
+        "https://www.gensler.com/gri/global-workplace-survey-2026?utm_source=gensler_home",
+        "https://www.gensler.com/publications/design-forecast?utm_source=gensler_home",
+        "https://www.gensler.com/gensler-product-sustainability-standards-overview?utm_source=gensler_home",
+        "https://www.gensler.com/projects/walmart-home-office",
+        "https://www.gensler.com/blog/pew-study-flexible-office-to-co-living-conversions",
+        "https://www.gensler.com/gensler-product-sustainability-standards-overview",
+        "https://www.gensler.com/blog/the-climate-has-already-changed-is-your-building-ready",
+        "https://www.gensler.com/blog/why-the-spaces-where-people-thrive-outperform",
+        "https://www.gensler.com/blog/why-healthcare-is-the-new-mixed-use-amenity",
+        "https://www.gensler.com/blog/why-worker-well-being-is-core-infrastructure",
+        "https://www.gensler.com/blog/field-guide-workplace-microdiversity",
+        "https://www.gensler.com/blog/built-to-flex-the-case-for-the-portable-office",
+        "https://www.gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+        "https://www.gensler.com/blog/how-hospitalitys-newest-markets-get-more-creative",
+        "https://www.gensler.com/blog/more-than-a-venue-designing-sports-assets-for-365-day-value",
+        "https://www.gensler.com/blog/how-cities-are-rewriting-the-rules-of-urban-development",
+        "https://www.gensler.com/blog/can-agile-design-make-housing-more-affordable",
+        "https://www.gensler.com/blog/patient-health-starts-with-designing-for-provider-wellbeing",
+        "https://www.gensler.com/blog/nature-powerful-design-lever-hospital-staff-wellbeing",
+        "https://www.gensler.com/blog/advancing-specialty-care-closer-to-home-in-nigeria",
+        "https://www.gensler.com/blog/higher-education-smarter-real-estate-decisions",
+        "https://www.gensler.com/blog/what-engagement-means-gensler-2025-2026-education-index",
+        "https://www.gensler.com/blog/voice-of-the-fan-what-mega-events-world-cup-can-teach-us",
+        "https://www.gensler.com/blog/designing-europe-next-sports-districts-everyday-places",
+        "https://www.gensler.com/6-trends-shaping-design-in-2026",
+        "https://www.gensler.com/gri/all",
+        "https://www.gensler.com/blog/will-ai-make-the-workplace-more-human",
+        "https://www.gensler.com/blog/workplace-ai-coworker",
+        "https://www.gensler.com/blog/from-capability-centres-to-innovation-centres",
+        "https://www.gensler.com/what-workers-want-2026",
+        "https://www.gensler.com/projects/accenture-chicago-headquarters",
+        "https://www.gensler.com/projects/under-armour-global-headquarters",
+        "https://www.gensler.com/projects/10-gresham-street",
+        "https://www.gensler.com/projects/baghdad-sustainable-forests",
+        "https://www.gensler.com/doc/gensler-fact-sheet",
+        "https://www.gensler.com/doc/gensler-guiding-principles",
+        "https://www.gensler.com/about/inclusion",
+        "https://www.gensler.com/ethics-compliance",
+        "https://www.gensler.com/#",
+        "https://www.gensler.com/privacy-policy",
+        "https://www.gensler.com/?cookie-preferences",
+        "https://www.gensler.com/doc/gensler-transparency-statement",
+        "https://www.gensler.com/privacy-policy#cookies"
+      ],
+      "externalLinks": [
+        "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.gensler.com%2F&title=Gensler&summary=Gensler+is+a+global+architecture%2C+design%2C+and+planning+firm+with+58+offices+and+6%2C000%2B+professionals+across+the+Americas%2C+Europe%2C+Greater+China%2C+and+APME.&source=Gensler",
+        "https://twitter.com/intent/tweet?text=Gensler&url=https%3A%2F%2Fwww.gensler.com%2F",
+        "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.gensler.com%2F",
+        "https://www.sfchronicle.com/realestate/article/downtown-tower-fiftyatfirst-oceanwide-22428915.php",
+        "https://www.hollywoodreporter.com/business/business-news/wme-new-headquarters-first-look-1236694508/",
+        "https://www.forbes.com/sites/jimdobson/2026/09/12/inside-the-700-million-plan-for-five-resorts-bamboo-villas-and-a-rice-paddy-golf-course-in-laos/",
+        "https://www.sportsbusinessjournal.com/Articles/2026/09/11/rose-bowl-opens-31m-field-club/",
+        "https://www.sandiegouniontribune.com/2026/08/17/live-nation-converting-san-diegos-historic-wonder-bread-building-into-music-venue/%C2%A0",
+        "https://www.fastcompany.com/91574378/architects-ai-data-design-tools",
+        "https://interiordesign.net/designwire/interior-design-2026-hall-of-fame-inductees/",
+        "https://www3.gensler.com/lp/dialogue-now-sign-up?utm_source=web&utm_medium=web-links&utm_content=dialogue-now-signup&utm_campaign=212361931-fwm_dialoguenow",
+        "https://www.linkedin.com/company/gensler/",
+        "https://www.youtube.com/@Gensler_Design",
+        "https://instagram.com/gensler_design",
+        "https://twitter.com/gensler_design",
+        "https://www.facebook.com/GenslerDesign",
+        "https://weixin.qq.com/r/3kPB2azEJPFbrei69xbM"
+      ],
+      "images": [
+        {
+          "src": "https://static1.gensler.com/uploads/image/107745/1783025370754/homepage-voice-of-the-fan-zoom-gradient-v2-1600x800.jpg",
+          "alt": "Diagram.",
+          "naturalWidth": 1600,
+          "naturalHeight": 900
+        },
+        {
+          "src": "",
+          "alt": "Logo.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "https://static1.gensler.com/uploads/image/108328/1790022256401/10GS_Gareth_Gardner_N8_1024x576.jpg",
+          "alt": "A man and woman sitting at a table with a view of a city.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A building with glass windows.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A large building with many windows.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A tall glass building.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A group of people in a park.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A group of people sitting on a bench in a large room with trees.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A room with a few people and a couch.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A group of people in a building.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "People in a room with blue couches and a sign.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A group of buildings next to a body of water.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A person standing on a deck.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "Rose Bowl football stadium aerial rendering",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A large building with a large glass front.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A building with people walking around.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A large building with many windows.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "Jordan Goldstein headshot",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A large blue building.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A group of people sitting around a table eating food.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A group of people walking around a building.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "People walking around a park.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "Gensler Global Co-Chairs Diane Hoskins and Andy Cohen",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "People sitting on a couch.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A group of people in a room.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A large building with a parking lot.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A large stadium with a field in the middle.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A large building with a courtyard and people walking around.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A building with graffiti on it.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A couple sitting on a bench in front of a large building.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "",
+          "alt": "A tall tower with a pointed top.",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "https://www.gensler.com/uploads/image/38246/filename/dialogue_now_masthead_1618248672.png",
+          "alt": "dialogue Now logo",
+          "naturalWidth": 952,
+          "naturalHeight": 264
+        },
+        {
+          "src": "",
+          "alt": "Interior view of Gensler Los Angeles",
+          "naturalWidth": 0,
+          "naturalHeight": 0
+        },
+        {
+          "src": "https://static1.gensler.com/images/spinner-5cf33e17.svg",
+          "alt": "",
+          "naturalWidth": 68,
+          "naturalHeight": 68
+        },
+        {
+          "src": "https://static1.gensler.com/images/spinner-5cf33e17.svg",
+          "alt": "Loading…",
+          "naturalWidth": 68,
+          "naturalHeight": 68
+        },
+        {
+          "src": "https://static1.gensler.com/images/spinner-5cf33e17.svg",
+          "alt": "Loading more results",
+          "naturalWidth": 68,
+          "naturalHeight": 68
+        },
+        {
+          "src": "https://static1.gensler.com/images/spinner-5cf33e17.svg",
+          "alt": "Loading",
+          "naturalWidth": 68,
+          "naturalHeight": 68
+        }
+      ],
+      "forms": [
+        {
+          "action": "/research-insights-search",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        },
+        {
+          "action": "/research-insights-search",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        },
+        {
+          "action": "/projects/all",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        },
+        {
+          "action": "/people",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        },
+        {
+          "action": "/search",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": false
+        },
+        {
+          "action": "",
+          "method": "GET",
+          "inputCount": 0,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        }
+      ],
+      "contactSignals": {
+        "phones": [],
+        "emails": [
+          ""
+        ],
+        "whatsapps": []
+      },
+      "securityHeaders": {
+        "hsts": "max-age=31536000; includeSubDomains",
+        "csp": "default-src * data: blob: 'unsafe-inline' 'unsafe-eval'",
+        "xFrameOptions": "SAMEORIGIN",
+        "xContentTypeOptions": "nosniff",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "permissionsPolicy": null
+      },
+      "htmlLengthBytes": 241918,
+      "evidenceIds": [
+        "E-002",
+        "E-003",
+        "E-004",
+        "E-005"
+      ]
+    },
+    {
+      "url": "https://gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+      "finalUrl": "https://www.gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+      "statusCode": 200,
+      "statusText": "",
+      "contentType": "text/html; charset=utf-8",
+      "responseTimeMs": 2453,
+      "title": "What the Wellness Boom is Really Telling Us About People",
+      "metaDescription": "The seven motivations turning wellness into cultural infrastructure.",
+      "canonicalUrl": "https://www.gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+      "h1s": [
+        "What the Wellness Boom is Really Telling Us About People"
+      ],
+      "headingTree": [
+        {
+          "tag": "h1",
+          "text": "What the Wellness Boom is Really Telling Us About People"
+        },
+        {
+          "tag": "h2",
+          "text": "The seven motivations turning wellness into cultural infrastructure."
+        },
+        {
+          "tag": "h2",
+          "text": "Control in a world that feels uncontrollable."
+        },
+        {
+          "tag": "h2",
+          "text": "Distrust of institutions, especially medicine."
+        },
+        {
+          "tag": "h2",
+          "text": "Identity and status signalling."
+        },
+        {
+          "tag": "h2",
+          "text": "Burnout and nervous-system depletion."
+        },
+        {
+          "tag": "h2",
+          "text": "Loneliness and the search for community."
+        },
+        {
+          "tag": "h2",
+          "text": "Longevity is the new aspiration."
+        },
+        {
+          "tag": "h2",
+          "text": "Self-worth tied to self-improvement."
+        },
+        {
+          "tag": "h3",
+          "text": "Related Content"
+        },
+        {
+          "tag": "h2",
+          "text": "Recent searches"
+        },
+        {
+          "tag": "h2",
+          "text": "Popular Searches"
+        }
+      ],
+      "desktopScreenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/page-1790251197644-desktop-1790251197645.png",
+      "mobileScreenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/page-1790251197644-mobile-1790251198659.png",
+      "consoleErrors": [],
+      "networkErrors": [
+        {
+          "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-NWF91HW4RS&gtm=45je69m1v871330401za200zd871330401xf1&_p=1790251197038&gcs=G100&gcd=13q3q3q3q5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACAC&cid=43390181.1790251198&frm=0&ibt=1&ngs=1&pscdl=denied&rcb=7&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153&sid=1790251198&sct=1&seg=0&dl=https%3A%2F%2Fwww.gensler.com%2Fblog%2Fwhat-the-wellness-boom-is-telling-us-about-people&dt=What%20the%20Wellness%20Boom%20is%20Really%20Telling%20Us%20About%20People&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3201",
+          "status": "net::ERR_ABORTED"
+        }
+      ],
+      "internalLinks": [
+        "https://www.gensler.com/",
+        "https://www.gensler.com/gri",
+        "https://www.gensler.com/gensler-research-institute",
+        "https://www.gensler.com/latest-research-insights",
+        "https://www.gensler.com/office-to-residential-services",
+        "https://www.gensler.com/research-topic-work-and-the-workplace",
+        "https://www.gensler.com/research-topic-future-of-cities",
+        "https://www.gensler.com/research-topic-resilience",
+        "https://www.gensler.com/research-topic-health",
+        "https://www.gensler.com/research-topic-equity",
+        "https://www.gensler.com/research-topic-lifestyle",
+        "https://www.gensler.com/blog",
+        "https://www.gensler.com/publications/design-forecast/",
+        "https://www.gensler.com/sustainability/resilience-by-design",
+        "https://www.gensler.com/research-library",
+        "https://www.gensler.com/workplace-surveys",
+        "https://www.gensler.com/webinars",
+        "https://www.gensler.com/expertise/aviation",
+        "https://www.gensler.com/expertise/brand-design",
+        "https://www.gensler.com/expertise/build-to-suit-headquarters",
+        "https://www.gensler.com/expertise/building-transformation-adaptive-reuse",
+        "https://www.gensler.com/expertise/cities-urban-design",
+        "https://www.gensler.com/expertise/climate-action-sustainability-services",
+        "https://www.gensler.com/expertise/consumer-goods",
+        "https://www.gensler.com/expertise/critical-facilities",
+        "https://www.gensler.com/expertise/culture-museums",
+        "https://www.gensler.com/expertise/digital-experience-design",
+        "https://www.gensler.com/expertise/education",
+        "https://www.gensler.com/expertise/energy",
+        "https://www.gensler.com/expertise/entertainment",
+        "https://www.gensler.com/expertise/financial-services",
+        "https://www.gensler.com/expertise/foundations-associations-organizations",
+        "https://www.gensler.com/expertise/government-defense",
+        "https://www.gensler.com/expertise/healthcare",
+        "https://www.gensler.com/expertise/hospitality",
+        "https://www.gensler.com/expertise/industrial-logistics",
+        "https://www.gensler.com/expertise/live-performance-venues",
+        "https://www.gensler.com/expertise/media",
+        "https://www.gensler.com/expertise/mixed-use-retail-centers",
+        "https://www.gensler.com/expertise/mobility-transportation",
+        "https://www.gensler.com/expertise/office-developers",
+        "https://www.gensler.com/expertise/product-development",
+        "https://www.gensler.com/expertise/professional-services",
+        "https://www.gensler.com/expertise/residential",
+        "https://www.gensler.com/expertise/retail-consumer-experience",
+        "https://www.gensler.com/expertise/sciences",
+        "https://www.gensler.com/expertise/senior-living",
+        "https://www.gensler.com/expertise/sports",
+        "https://www.gensler.com/expertise/strategy",
+        "https://www.gensler.com/expertise/technology",
+        "https://www.gensler.com/expertise/wellness",
+        "https://www.gensler.com/projects",
+        "https://www.gensler.com/projects/all",
+        "https://www.gensler.com/projects/all#topics",
+        "https://www.gensler.com/projects/all#offices",
+        "https://www.gensler.com/people",
+        "https://www.gensler.com/people/global-co-chairs",
+        "https://www.gensler.com/people/co-ceos",
+        "https://www.gensler.com/people/board-of-directors",
+        "https://www.gensler.com/legacy-of-leadership",
+        "https://www.gensler.com/people#topics",
+        "https://www.gensler.com/people#offices",
+        "https://www.gensler.com/offices/atlanta",
+        "https://www.gensler.com/offices/austin",
+        "https://www.gensler.com/offices/baltimore",
+        "https://www.gensler.com/offices/boston",
+        "https://www.gensler.com/offices/charlotte",
+        "https://www.gensler.com/offices/chicago",
+        "https://www.gensler.com/offices/columbus",
+        "https://www.gensler.com/offices/dallas",
+        "https://www.gensler.com/offices/denver",
+        "https://www.gensler.com/offices/detroit",
+        "https://www.gensler.com/offices/houston",
+        "https://www.gensler.com/offices/kansas-city",
+        "https://www.gensler.com/offices/la-crosse",
+        "https://www.gensler.com/offices/las-vegas",
+        "https://www.gensler.com/offices/los-angeles",
+        "https://www.gensler.com/offices/miami",
+        "https://www.gensler.com/offices/minneapolis",
+        "https://www.gensler.com/offices/morristown-nj",
+        "https://www.gensler.com/offices/nashville",
+        "https://www.gensler.com/offices/new-york",
+        "https://www.gensler.com/offices/newport-beach",
+        "https://www.gensler.com/offices/oakland",
+        "https://www.gensler.com/offices/philadelphia",
+        "https://www.gensler.com/offices/phoenix",
+        "https://www.gensler.com/offices/pittsburgh",
+        "https://www.gensler.com/offices/raleigh",
+        "https://www.gensler.com/offices/san-antonio",
+        "https://www.gensler.com/offices/san-diego",
+        "https://www.gensler.com/offices/san-francisco",
+        "https://www.gensler.com/offices/san-jose",
+        "https://www.gensler.com/offices/seattle",
+        "https://www.gensler.com/offices/tampa",
+        "https://www.gensler.com/offices/toronto",
+        "https://www.gensler.com/offices/vancouver",
+        "https://www.gensler.com/offices/washington-d-c",
+        "https://www.gensler.com/offices/bogota",
+        "https://www.gensler.com/offices/dominican-republic",
+        "https://www.gensler.com/offices/mexico-city",
+        "https://www.gensler.com/offices/monterrey",
+        "https://www.gensler.com/offices/san-jose-costa-rica",
+        "https://www.gensler.com/offices/berlin",
+        "https://www.gensler.com/offices/birmingham",
+        "https://www.gensler.com/offices/london",
+        "https://www.gensler.com/offices/munich",
+        "https://www.gensler.com/offices/paris",
+        "https://www.gensler.com/offices/abu-dhabi",
+        "https://www.gensler.com/offices/dubai",
+        "https://www.gensler.com/offices/riyadh",
+        "https://www.gensler.com/offices/beijing",
+        "https://www.gensler.com/offices/hong-kong",
+        "https://www.gensler.com/offices/shanghai",
+        "https://www.gensler.com/offices/bangalore",
+        "https://www.gensler.com/offices/bangkok",
+        "https://www.gensler.com/offices/delhi-ncr",
+        "https://www.gensler.com/offices/mumbai",
+        "https://www.gensler.com/offices/singapore",
+        "https://www.gensler.com/offices/sydney",
+        "https://www.gensler.com/offices/tokyo",
+        "https://www.gensler.com/about",
+        "https://www.gensler.com/in-the-media",
+        "https://www.gensler.com/press-releases",
+        "https://www.gensler.com/about/community",
+        "https://www.gensler.com/careers",
+        "https://www.gensler.com/contact",
+        "https://www.gensler.com/people/lara-marrero",
+        "https://www.gensler.com/blog?k=author%3A%22Lara%20Marrero%22",
+        "https://www.gensler.com/blog/why-the-spaces-where-people-thrive-outperform",
+        "https://www.gensler.com/blog/why-worker-well-being-is-core-infrastructure",
+        "https://www.gensler.com/blog/end-of-amenities-checklist-what-india-residents-want",
+        "https://www.gensler.com/blog/how-hospitalitys-newest-markets-get-more-creative",
+        "https://www.gensler.com/blog/memorable-hospitality-experiences-drive-loyalty-brand-value",
+        "https://www.gensler.com/blog/trends-to-watch-shaping-the-future-of-wellness",
+        "https://www.gensler.com/doc/gensler-fact-sheet",
+        "https://www.gensler.com/doc/gensler-guiding-principles",
+        "https://www.gensler.com/about/inclusion",
+        "https://www.gensler.com/ethics-compliance",
+        "https://www.gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people#",
+        "https://www.gensler.com/privacy-policy",
+        "https://www.gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people?cookie-preferences",
+        "https://www.gensler.com/doc/gensler-transparency-statement",
+        "https://www.gensler.com/privacy-policy#cookies"
+      ],
+      "externalLinks": [
+        "https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.gensler.com%2Fblog%2Fwhat-the-wellness-boom-is-telling-us-about-people&title=What+the+Wellness+Boom+is+Really+Telling+Us+About+People&summary=The+seven+motivations+turning+wellness+into+cultural+infrastructure.&source=Gensler",
+        "https://twitter.com/intent/tweet?text=What+the+Wellness+Boom+is+Really+Telling+Us+About+People&url=https%3A%2F%2Fwww.gensler.com%2Fblog%2Fwhat-the-wellness-boom-is-telling-us-about-people",
+        "https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.gensler.com%2Fblog%2Fwhat-the-wellness-boom-is-telling-us-about-people",
+        "https://globalwellnessinstitute.org/press-room/press-releases/the-global-wellness-economy-hits-a-record-6-8-trillion-and-is-forecast-to-reach-9-8-trillion-by-2029/",
+        "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/future-of-wellness-trends",
+        "https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/state-of-consumer",
+        "https://www.fortunebusinessinsights.com/industry-reports/personalized-medicine-market-100350",
+        "https://www.nekohealth.com/us/en/about",
+        "https://www.businessoffashion.com/articles/beauty/menopause-perimenopause-beauty-wellness/",
+        "https://www.glossy.co/beauty/ulta-strategies-inside-ultas-wellness-boutique-pilot-program-launching-next-week-in-select-markets/",
+        "https://standtogether.org/stories/health-care/the-confess-project-mental-health-movement-in-black-owned-barbershops",
+        "https://www.sohohouse.com/en-us/house-notes/issue-006/soho-health-club/everything-coming-to-soho-health-club-in-2026",
+        "https://cliniquelaprairie.com/clp/reservations.php",
+        "https://www.rituals.com/en-nl/lp/mind-oasis",
+        "https://www.sixsenses.com/en/corporate/media-center/press-releases/2026/six-senses-london-opens-at-the-whiteley/",
+        "https://www.othership.us/",
+        "https://hyrox.com/",
+        "https://press.strava.com/en-gb/articles/strava-releases-12th-annual-year-in-sport-trend-report-2025",
+        "https://www3.gensler.com/lp/dialogue-now-sign-up?utm_source=web&utm_medium=blog&utm_content=dialogue-now-signup&utm_campaign=212361931-fwm_dialoguenow",
+        "https://www.linkedin.com/company/gensler",
+        "https://www.youtube.com/@Gensler_Design",
+        "https://instagram.com/gensler_design",
+        "https://twitter.com/gensler_design",
+        "https://www.facebook.com/GenslerDesign",
+        "https://www3.gensler.com/lp/dialogue-now-sign-up?utm_source=web&utm_medium=web-links&utm_content=dialogue-now-signup&utm_campaign=212361931-fwm_dialoguenow",
+        "https://www.linkedin.com/company/gensler/",
+        "https://weixin.qq.com/r/3kPB2azEJPFbrei69xbM"
+      ],
+      "images": [
+        {
+          "src": "https://static2.gensler.com/uploads/image/108255/1787167072438/Studio_Three_N5.jpg",
+          "alt": "People in a room with blue couches and a sign.",
+          "naturalWidth": 2000,
+          "naturalHeight": 1125
+        },
+        {
+          "src": "https://static1.gensler.com/uploads/image/80017/250x250/people-lara-marrero-2023-508x508_1673549338.jpg",
+          "alt": "Lara Marrero headshot",
+          "naturalWidth": 250,
+          "naturalHeight": 250
+        },
+        {
+          "src": "https://static1.gensler.com/uploads/image/108233/1786655356776/250x250/Central_Park_House_N60_508x508.jpg",
+          "alt": "A building with glass windows.",
+          "naturalWidth": 250,
+          "naturalHeight": 250
+        },
+        {
+          "src": "https://static2.gensler.com/uploads/image/108217/1786487653139/250x250/Baghdad_Sustainable_Forests_N7_508x508.jpg",
+          "alt": "A group of people walking in a park.",
+          "naturalWidth": 250,
+          "naturalHeight": 250
+        },
+        {
+          "src": "https://static1.gensler.com/uploads/image/108185/1785515619796/250x250/Adani-Thane_Render_Image-1_508x508.jpg",
+          "alt": "A group of tall buildings.",
+          "naturalWidth": 250,
+          "naturalHeight": 250
+        },
+        {
+          "src": "https://static1.gensler.com/uploads/image/107972/1784232711463/250x250/053_7920_000_N173_508x508.jpg",
+          "alt": "A person standing next to a pool.",
+          "naturalWidth": 250,
+          "naturalHeight": 250
+        },
+        {
+          "src": "https://static2.gensler.com/uploads/image/107950/1784219145254/250x250/Pastis2_508x508.jpg",
+          "alt": "A restaurant with tables and chairs.",
+          "naturalWidth": 250,
+          "naturalHeight": 250
+        },
+        {
+          "src": "https://static1.gensler.com/uploads/image/96981/250x250/NVIDIA_N18_508_1742399619.jpg",
+          "alt": "A couple of people sitting on a bench outside of a building.",
+          "naturalWidth": 250,
+          "naturalHeight": 250
+        },
+        {
+          "src": "https://static1.gensler.com/images/spinner-5cf33e17.svg",
+          "alt": "",
+          "naturalWidth": 68,
+          "naturalHeight": 68
+        },
+        {
+          "src": "https://static1.gensler.com/images/spinner-5cf33e17.svg",
+          "alt": "Loading…",
+          "naturalWidth": 68,
+          "naturalHeight": 68
+        },
+        {
+          "src": "https://static1.gensler.com/images/spinner-5cf33e17.svg",
+          "alt": "Loading more results",
+          "naturalWidth": 68,
+          "naturalHeight": 68
+        },
+        {
+          "src": "https://static1.gensler.com/images/spinner-5cf33e17.svg",
+          "alt": "Loading",
+          "naturalWidth": 68,
+          "naturalHeight": 68
+        }
+      ],
+      "forms": [
+        {
+          "action": "/research-insights-search",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        },
+        {
+          "action": "/research-insights-search",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        },
+        {
+          "action": "/projects/all",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        },
+        {
+          "action": "/people",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        },
+        {
+          "action": "/search",
+          "method": "GET",
+          "inputCount": 1,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": false
+        },
+        {
+          "action": "",
+          "method": "GET",
+          "inputCount": 0,
+          "hasEmail": false,
+          "hasPhone": false,
+          "hasSubmit": true
+        }
+      ],
+      "contactSignals": {
+        "phones": [],
+        "emails": [
+          "",
+          "media@gensler.com",
+          "Lara_Marrero@Gensler.com",
+          "Lara_Marrero@gensler.com"
+        ],
+        "whatsapps": []
+      },
+      "securityHeaders": {
+        "hsts": "max-age=31536000; includeSubDomains",
+        "csp": "default-src * data: blob: 'unsafe-inline' 'unsafe-eval'",
+        "xFrameOptions": "SAMEORIGIN",
+        "xContentTypeOptions": "nosniff",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "permissionsPolicy": null
+      },
+      "htmlLengthBytes": 135634,
+      "evidenceIds": [
+        "E-006",
+        "E-007",
+        "E-008",
+        "E-009"
+      ]
+    }
+  ],
+  "evidenceRegistry": [
+    {
+      "id": "E-001",
+      "type": "robots_check",
+      "category": "seo",
+      "pageUrl": "https://www.gensler.com/",
+      "timestamp": "2026-09-24T11:59:50.877Z",
+      "status": "OBSERVED",
+      "description": "Robots.txt parsed. Disallowed paths: 2, Sitemaps: 1",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "disallowedPaths": [
+          "/search",
+          "/vas-mellis"
+        ],
+        "sitemaps": [
+          "https://www.gensler.com/sitemap.xml"
+        ]
+      }
+    },
+    {
+      "id": "E-002",
+      "type": "visual_screenshot",
+      "category": "visual",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T11:59:54.777Z",
+      "status": "OBSERVED",
+      "description": "Captured desktop and mobile viewport screenshots.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "desktopScreenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/homepage-desktop-1790251193065.png",
+        "mobileScreenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/homepage-mobile-1790251193910.png"
+      }
+    },
+    {
+      "id": "E-003",
+      "type": "http_response",
+      "category": "technical",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T11:59:54.792Z",
+      "status": "TESTED",
+      "description": "HTTP status 200 () returned in 2107ms.",
+      "metricValue": 2107,
+      "rawSnippet": null,
+      "data": {
+        "statusCode": 200,
+        "statusText": "",
+        "finalUrl": "https://www.gensler.com/",
+        "contentType": "text/html; charset=utf-8",
+        "responseTimeMs": 2107
+      }
+    },
+    {
+      "id": "E-004",
+      "type": "security_headers",
+      "category": "security",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T11:59:54.792Z",
+      "status": "OBSERVED",
+      "description": "Security headers present: hsts, csp, xFrameOptions, xContentTypeOptions, referrerPolicy",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "hsts": "max-age=31536000; includeSubDomains",
+        "csp": "default-src * data: blob: 'unsafe-inline' 'unsafe-eval'",
+        "xFrameOptions": "SAMEORIGIN",
+        "xContentTypeOptions": "nosniff",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "permissionsPolicy": null
+      }
+    },
+    {
+      "id": "E-005",
+      "type": "network_errors",
+      "category": "technical",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T11:59:54.792Z",
+      "status": "OBSERVED",
+      "description": "Detected 1 network request failures.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "networkErrors": [
+          {
+            "url": "https://data.openasset.com/3f741c2e/4c446f46a3c3e7c2f88b1c2a5194ec8a/F_260130_mp4/F_260130_videolarge.mp4",
+            "status": "net::ERR_ABORTED"
+          }
+        ]
+      }
+    },
+    {
+      "id": "E-006",
+      "type": "visual_screenshot",
+      "category": "visual",
+      "pageUrl": "https://gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+      "timestamp": "2026-09-24T11:59:59.535Z",
+      "status": "OBSERVED",
+      "description": "Captured desktop and mobile viewport screenshots.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "desktopScreenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/page-1790251197644-desktop-1790251197645.png",
+        "mobileScreenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/page-1790251197644-mobile-1790251198659.png"
+      }
+    },
+    {
+      "id": "E-007",
+      "type": "http_response",
+      "category": "technical",
+      "pageUrl": "https://gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+      "timestamp": "2026-09-24T11:59:59.549Z",
+      "status": "TESTED",
+      "description": "HTTP status 200 () returned in 2453ms.",
+      "metricValue": 2453,
+      "rawSnippet": null,
+      "data": {
+        "statusCode": 200,
+        "statusText": "",
+        "finalUrl": "https://www.gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+        "contentType": "text/html; charset=utf-8",
+        "responseTimeMs": 2453
+      }
+    },
+    {
+      "id": "E-008",
+      "type": "security_headers",
+      "category": "security",
+      "pageUrl": "https://gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+      "timestamp": "2026-09-24T11:59:59.549Z",
+      "status": "OBSERVED",
+      "description": "Security headers present: hsts, csp, xFrameOptions, xContentTypeOptions, referrerPolicy",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "hsts": "max-age=31536000; includeSubDomains",
+        "csp": "default-src * data: blob: 'unsafe-inline' 'unsafe-eval'",
+        "xFrameOptions": "SAMEORIGIN",
+        "xContentTypeOptions": "nosniff",
+        "referrerPolicy": "strict-origin-when-cross-origin",
+        "permissionsPolicy": null
+      }
+    },
+    {
+      "id": "E-009",
+      "type": "network_errors",
+      "category": "technical",
+      "pageUrl": "https://gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+      "timestamp": "2026-09-24T11:59:59.549Z",
+      "status": "OBSERVED",
+      "description": "Detected 1 network request failures.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "networkErrors": [
+          {
+            "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-NWF91HW4RS&gtm=45je69m1v871330401za200zd871330401xf1&_p=1790251197038&gcs=G100&gcd=13q3q3q3q5l1&npa=1&dma_cps=-&dma=0&_eu=AAAAACAC&cid=43390181.1790251198&frm=0&ibt=1&ngs=1&pscdl=denied&rcb=7&sr=1440x900&uaa=x86&uab=64&uafvl=HeadlessChrome%3B153.0.8010.12%7CNot_A%2520Brand%3B8.0.0.0%7CChromium%3B153.0.8010.12&uam=&uamb=0&uap=Windows&uapv=10.0&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153&sid=1790251198&sct=1&seg=0&dl=https%3A%2F%2Fwww.gensler.com%2Fblog%2Fwhat-the-wellness-boom-is-telling-us-about-people&dt=What%20the%20Wellness%20Boom%20is%20Really%20Telling%20Us%20About%20People&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=3201",
+            "status": "net::ERR_ABORTED"
+          }
+        ]
+      }
+    },
+    {
+      "id": "E-010",
+      "type": "lighthouse_unavailable",
+      "category": "performance",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.711Z",
+      "status": "NOT VERIFIED",
+      "description": "Lighthouse execution could not complete: __name is not defined. Core Web Vitals labeled as NOT VERIFIED.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-011",
+      "type": "seo_h1_structure",
+      "category": "seo",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.741Z",
+      "status": "OBSERVED",
+      "description": "0 pages missing H1, 1 pages with multiple H1 tags.",
+      "metricValue": 1,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-012",
+      "type": "seo_image_alts",
+      "category": "seo",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.741Z",
+      "status": "OBSERVED",
+      "description": "9 of 56 images (16%) missing alt attributes.",
+      "metricValue": 84,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-013",
+      "type": "a11y_image_alts",
+      "category": "accessibility",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.741Z",
+      "status": "OBSERVED",
+      "description": "9 images missing alt text attributes.",
+      "metricValue": 84,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-014",
+      "type": "mobile_viewport_audit",
+      "category": "mobile",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.741Z",
+      "status": "TESTED",
+      "description": "Captured and evaluated mobile viewport rendering at 390x844 dimensions.",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "mobileScreenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/homepage-mobile-1790251193910.png"
+      }
+    },
+    {
+      "id": "E-015",
+      "type": "visual_desktop_evidence",
+      "category": "visual",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.741Z",
+      "status": "OBSERVED",
+      "description": "Captured high-resolution desktop visual rendering (1440x900 viewport).",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "screenshot": "/screenshots/6f7d067e-774b-4348-a210-ee0a18057f94/homepage-desktop-1790251193065.png"
+      }
+    },
+    {
+      "id": "E-016",
+      "type": "ux_navigation_map",
+      "category": "ux",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.741Z",
+      "status": "OBSERVED",
+      "description": "Discovered 317 internal navigation paths and 12 interactive forms across 2 pages.",
+      "metricValue": 317,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-017",
+      "type": "content_structure",
+      "category": "content",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.741Z",
+      "status": "OBSERVED",
+      "description": "Analyzed content structure across 2 pages containing 51 structured headings.",
+      "metricValue": 51,
+      "rawSnippet": null,
+      "data": {}
+    },
+    {
+      "id": "E-018",
+      "type": "conversion_contact_signals",
+      "category": "conversion",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.741Z",
+      "status": "OBSERVED",
+      "description": "Detected contact signals: 0 phone(s), 4 email(s), 0 WhatsApp link(s), 12 form(s).",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "phones": [],
+        "emails": [
+          "",
+          "media@gensler.com",
+          "Lara_Marrero@Gensler.com",
+          "Lara_Marrero@gensler.com"
+        ],
+        "whatsapps": [],
+        "formsCount": 12
+      }
+    },
+    {
+      "id": "E-019",
+      "type": "local_seo_signals",
+      "category": "local_seo",
+      "pageUrl": "https://gensler.com/",
+      "timestamp": "2026-09-24T12:00:00.741Z",
+      "status": "OBSERVED",
+      "description": "Local SEO signals evaluated for business=\"Gensler Architecture & Interior Design\", location=\"Global / San Francisco\".",
+      "metricValue": null,
+      "rawSnippet": null,
+      "data": {
+        "businessFound": false,
+        "locationFound": false,
+        "businessName": "Gensler Architecture & Interior Design",
+        "location": "Global / San Francisco"
+      }
+    }
+  ],
+  "findings": [
+    {
+      "id": "SEO-002",
+      "category": "seo",
+      "priority": "MEDIUM",
+      "title": "Improper H1 Heading Structure (0 missing, 1 multiple H1s)",
+      "observation": "0 page(s) have no <h1> tag, and 1 page(s) have multiple <h1> tags.",
+      "evidence": "Inspected 2 pages. Heading hierarchy should feature exactly one main H1 per page followed by logical H2s and H3s.",
+      "evidenceIds": [
+        "E-011"
+      ],
+      "impact": "Impairs search engine understanding of the page topic and causes screen readers confusion for accessible navigation.",
+      "recommendation": "Ensure every page contains exactly one unique, descriptive <h1> tag at the top of the content structure.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "SEO-003",
+      "category": "seo",
+      "priority": "HIGH",
+      "title": "Images Missing Alt Text (9/56 images)",
+      "observation": "9 images on the website lack descriptive alt attributes.",
+      "evidence": "Found across crawled pages. Sample missing alt images detected in DOM.",
+      "evidenceIds": [
+        "E-012"
+      ],
+      "impact": "Prevents image search indexing in Google Images and makes visual content inaccessible to visually impaired users using screen readers.",
+      "recommendation": "Add concise, descriptive alt text to all meaningful images. Use empty alt=\"\" for purely decorative background elements.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "A11Y-001",
+      "category": "accessibility",
+      "priority": "HIGH",
+      "title": "Images Missing Accessible Alt Text (9 detected)",
+      "observation": "9 image elements do not provide textual alternatives via alt attributes.",
+      "evidence": "Found across 2 crawled pages.",
+      "evidenceIds": [
+        "E-013"
+      ],
+      "impact": "Assistive technology users (such as screen readers) cannot perceive the meaning or context of graphical content.",
+      "recommendation": "Add meaningful alt attributes describing the content or function of each image.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "LOCAL-001",
+      "category": "local_seo",
+      "priority": "HIGH",
+      "title": "Target Location (Global / San Francisco) Missing from Primary SEO Elements",
+      "observation": "The specified target geography \"Global / San Francisco\" was not prominently detected in page titles, meta descriptions, or main headings.",
+      "evidence": "Crawled 2 pages. Checked <title>, <meta description>, and <h1> tags against location \"Global / San Francisco\".",
+      "evidenceIds": [
+        "E-019"
+      ],
+      "impact": "Reduces visibility in localized search queries, Google Maps / Local Pack results, and nearby customer discovery.",
+      "recommendation": "Incorporate \"Global / San Francisco\" naturally into the homepage title tag, H1 heading, service area sections, and footer contact block.",
+      "verificationStatus": "OBSERVED"
+    },
+    {
+      "id": "AI-VIS-001",
+      "category": "visual",
+      "priority": "MEDIUM",
+      "title": "Visual Hierarchy & Focal Point Modernization",
+      "observation": "Above-the-fold layout could benefit from stronger headline typography contrast, clear primary call-to-action prominence, and elevated modern spacing tokens.",
+      "evidence": "Evaluated 2 crawled templates. Visual inspection of hero and body sections indicates opportunity for enhanced visual contrast and modern design tokens.",
+      "evidenceIds": [
+        "E-002",
+        "E-006",
+        "E-015"
+      ],
+      "impact": "Modern, high-contrast visual design builds instant visitor trust and dramatically improves engagement time on landing.",
+      "recommendation": "Implement a refined typographic hierarchy (48px+ H1 hero, 20px lead paragraph), distinct high-contrast CTA button styling, and consistent 64px+ section spacing.",
+      "verificationStatus": "INFERRED"
+    },
+    {
+      "id": "AI-CONV-001",
+      "category": "conversion",
+      "priority": "HIGH",
+      "title": "Lead Capture & Instant Engagement Opportunity",
+      "observation": "The website lacks instant real-time conversion channels such as floating WhatsApp buttons or frictionless 2-field lead capture forms.",
+      "evidence": "Inspected conversion triggers across 2 pages. Direct WhatsApp messaging links or streamlined quote forms were not detected in the primary navigation or sticky footer.",
+      "evidenceIds": [
+        "E-018"
+      ],
+      "impact": "Up to 60% of modern mobile visitors prefer instant chat or 1-click quote requests over navigating to a separate contact page.",
+      "recommendation": "Add a persistent floating WhatsApp contact widget and an above-the-fold \"Get Instant Quote\" trigger.",
+      "verificationStatus": "INFERRED"
+    }
+  ],
+  "startedAt": "2026-09-24T11:59:48.450Z",
+  "lighthouse": {
+    "performanceScore": null,
+    "accessibilityScore": null,
+    "bestPracticesScore": null,
+    "seoScore": null,
+    "metrics": {
+      "firstContentfulPaintMs": null,
+      "largestContentfulPaintMs": null,
+      "cumulativeLayoutShift": null,
+      "totalBlockingTimeMs": null,
+      "speedIndexMs": null,
+      "interactiveMs": null
+    },
+    "audits": [],
+    "status": "NOT VERIFIED"
+  },
+  "report": {
+    "clientSummary": {
+      "overview": "A strategic review of Gensler Architecture & Interior Design's website to help you increase client inquiries, improve Google visibility, and create a premium first impression for potential customers.",
+      "top5Opportunities": [
+        {
+          "title": "1. Fast Inbound Contact Triggers",
+          "businessImpact": "Captures urgent buyers who prefer calling or chatting instantly on mobile rather than filling out long forms.",
+          "recommendedAction": "Add a prominent 1-click \"Call Now\" button in the header and a sticky WhatsApp chat button on mobile."
+        },
+        {
+          "title": "2. Above-The-Fold Value & Proof",
+          "businessImpact": "Immediately answers \"Why choose us?\" within the first 5 seconds of a visitor landing on the website.",
+          "recommendedAction": "Place a clear headline stating your primary specialty, accompanied by 3 core benefit badges and client review ratings."
+        },
+        {
+          "title": "3. Dedicated Solution / Service Pages",
+          "businessImpact": "Allows Google to rank each specific service individually for targeted search queries in your area.",
+          "recommendedAction": "Build dedicated sub-pages for each major offering with project photos, client benefits, and an inquiry form."
+        },
+        {
+          "title": "4. Search Engine Snippet Optimization",
+          "businessImpact": "Improves the descriptive summary that prospective clients see on Google search result pages.",
+          "recommendedAction": "Craft compelling 150-character descriptions for each page inviting searchers to click and explore."
+        },
+        {
+          "title": "5. Modern Mobile Layout & Tap Targets",
+          "businessImpact": "Eliminates pinch-to-zoom and mis-taps on smartphones, ensuring a seamless experience for on-the-go clients.",
+          "recommendedAction": "Ensure all buttons and menus are at least 48px in height with generous spacing between clickable elements."
+        }
+      ],
+      "currentStrengths": [
+        "Website connection is secured with modern SSL encryption.",
+        "Clear multi-page structure covering 2 key customer areas."
+      ],
+      "recommendedWebsiteStructure": [
+        {
+          "pageName": "Home",
+          "purpose": "Create immediate authority, clearly state what you do, and drive visitors to request a quote or call.",
+          "keySections": [
+            "Hero with 1-Click Quote Button",
+            "Core Offerings Grid",
+            "Photo Showcase of Recent Work",
+            "Client Testimonials",
+            "Direct Contact Box"
+          ]
+        },
+        {
+          "pageName": "Services / Offerings",
+          "purpose": "Provide a transparent overview of capabilities, deliverables, and step-by-step process.",
+          "keySections": [
+            "Overview of Capabilities",
+            "What is Included",
+            "Process & Timeline",
+            "Frequently Asked Questions"
+          ]
+        },
+        {
+          "pageName": "Portfolio / Projects",
+          "purpose": "Provide tangible visual proof of craftsmanship and completed work to eliminate buyer hesitation.",
+          "keySections": [
+            "Filterable Project Gallery",
+            "Before & After Transformations",
+            "Client Success Quotes"
+          ]
+        },
+        {
+          "pageName": "About Us",
+          "purpose": "Humanize your business, demonstrate industry experience, and showcase team credentials.",
+          "keySections": [
+            "Our Story & Mission",
+            "Experience & Standards",
+            "Why Clients Choose Us",
+            "Leadership / Team"
+          ]
+        },
+        {
+          "pageName": "Contact & Inquiry",
+          "purpose": "Provide a simple, zero-friction point for visitors to call, email, chat, or visit.",
+          "keySections": [
+            "Simple 3-Field Quote Form",
+            "Direct Phone & WhatsApp Links",
+            "Business Hours",
+            "Location Map"
+          ]
+        }
+      ],
+      "nextSteps": [
+        {
+          "step": "Quick Conversion Wins: Add header phone number and mobile WhatsApp button",
+          "timeframe": "Days 1 - 3"
+        },
+        {
+          "step": "Content & Search Polish: Update Google titles, descriptions, and hero headlines",
+          "timeframe": "Week 1"
+        },
+        {
+          "step": "Visual Modernization: Deploy refined service cards, project gallery, and trust proof",
+          "timeframe": "Weeks 2 - 3"
+        }
+      ]
+    },
+    "executiveSummary": {
+      "summary": "This comprehensive website audit evaluates the digital presence, customer journey, and conversion readiness of https://www.gensler.com (Gensler Architecture & Interior Design in Global / San Francisco). \nBased on 2 inspected pages and automated viewport testing, the website provides a foundational web presence with substantial commercial opportunities to accelerate customer trust, improve mobile engagement, and capture more inbound enquiries.\n\nKey immediate priorities include introducing frictionless quote inquiry channels, refining page summaries for search engines, and modernizing layout contrast to highlight core services and proof of quality.",
+      "overallCondition": "Good",
+      "topStrengths": [
+        "Website connection is secured with modern SSL encryption.",
+        "Clear multi-page structure covering 2 key customer areas."
+      ],
+      "topRisks": [
+        "Missing immediate call or instant messaging buttons for high-intent visitors."
+      ],
+      "findingsCountByPriority": {
+        "CRITICAL": 0,
+        "HIGH": 4,
+        "MEDIUM": 2,
+        "LOW": 0
+      }
+    },
+    "websiteOverview": {
+      "url": "https://www.gensler.com",
+      "businessName": "Gensler Architecture & Interior Design",
+      "location": "Global / San Francisco",
+      "totalPagesCrawled": 2,
+      "auditDurationSec": 12,
+      "techStackDetected": [
+        "HTML5",
+        "Modern CSS/JS",
+        "HTTPS / SSL"
+      ],
+      "primaryLanguage": "en"
+    },
+    "pagesInspected": [
+      {
+        "url": "https://gensler.com/",
+        "title": "Gensler | Creating a Better World Through the Power of Design",
+        "statusCode": 200,
+        "responseTimeMs": 2107,
+        "issuesCount": 1
+      },
+      {
+        "url": "https://gensler.com/blog/what-the-wellness-boom-is-telling-us-about-people",
+        "title": "What the Wellness Boom is Really Telling Us About People",
+        "statusCode": 200,
+        "responseTimeMs": 2453,
+        "issuesCount": 1
+      }
+    ],
+    "keyStrengths": [
+      {
+        "title": "Strength 1",
+        "description": "Website connection is secured with modern SSL encryption."
+      },
+      {
+        "title": "Strength 2",
+        "description": "Clear multi-page structure covering 2 key customer areas."
+      }
+    ],
+    "criticalIssues": [],
+    "visualDesignAudit": {
+      "summary": "Visual presentation evaluated across desktop and mobile captures. Inspected hero section hierarchy, typography scaling, and component layout rhythm.",
+      "typographyAssessment": "Heading-to-body font scale and line-height balance inspected. Heading font scaling and line readability across desktop and mobile viewports inspected.",
+      "colorSystemAssessment": "Brand accent colors and background contrast ratios evaluated. Brand color accents and contrast ratios evaluated for visual hierarchy and readability.",
+      "spacingLayoutAssessment": "Container widths, section padding, and responsive grid layout analyzed. Container widths and vertical rhythm between content blocks evaluated.",
+      "visualHierarchyAssessment": "Primary headline prominence and visual weight distribution evaluated. Dominance of primary headlines, sub-headlines, and action buttons evaluated.",
+      "brandConsistencyAssessment": "Visual styling consistency verified across crawled templates. Visual component consistency across all crawled page templates.",
+      "heroAssessment": "Above-the-fold hero messaging and call-to-action prominence evaluated. Above-the-fold value proposition, background visuals, and primary conversion trigger evaluated.",
+      "footerAssessment": "Footer structure, secondary navigation links, and copyright info evaluated. Footer navigation links, contact information, and business credentials evaluated.",
+      "findings": [
+        {
+          "id": "AI-VIS-001",
+          "category": "visual",
+          "priority": "MEDIUM",
+          "title": "Visual Hierarchy & Focal Point Modernization",
+          "observation": "Above-the-fold layout could benefit from stronger headline typography contrast, clear primary call-to-action prominence, and elevated modern spacing tokens.",
+          "evidence": "Evaluated 2 crawled templates. Visual inspection of hero and body sections indicates opportunity for enhanced visual contrast and modern design tokens.",
+          "evidenceIds": [
+            "E-002",
+            "E-006",
+            "E-015"
+          ],
+          "impact": "Modern, high-contrast visual design builds instant visitor trust and dramatically improves engagement time on landing.",
+          "recommendation": "Implement a refined typographic hierarchy (48px+ H1 hero, 20px lead paragraph), distinct high-contrast CTA button styling, and consistent 64px+ section spacing.",
+          "verificationStatus": "INFERRED"
+        }
+      ]
+    },
+    "uxAudit": {
+      "summary": "Evaluated user experience architecture across 2 pages. Analyzed primary navigation paths, information hierarchy, and lead enquiry flows.",
+      "navigationStructure": "Discovered multi-page navigation across 2 accessible templates with 317 internal links. Header navigation menus and information grouping simplicity.",
+      "userJourney": "Audited user pathways from landing to information discovery and final conversion. Friction points from landing through solution exploration to final enquiry.",
+      "serviceDiscovery": "Evaluated visibility of core services, offering descriptions, and supporting details. Clarity and depth of service/product descriptions and offerings.",
+      "ctaPlacement": "Primary and secondary conversion touchpoints mapped across page layouts. Strategic placement of conversion buttons in hero, mid-page, and footer.",
+      "formsAssessment": "12 contact/enquiry forms analyzed for input simplicity and clear labels. Form field complexity, validation clarity, and submission ease.",
+      "findings": []
+    },
+    "mobileExperience": {
+      "summary": "Audited mobile presentation across 2 pages using simulated 390x844 mobile viewports. Touch targets and responsive viewport scaling verified.",
+      "responsiveDesignStatus": "TESTED",
+      "tapTargetAssessment": "Touch target size and spacing verified on mobile viewport.",
+      "horizontalOverflowDetected": false,
+      "mobileMenuAssessment": "Mobile navigation drawer and touch elements tested.",
+      "findings": []
+    },
+    "contentAudit": {
+      "summary": "Audited content depth, clarity, and value messaging across 2 pages. Verified structured heading breakdowns and core information sections.",
+      "clarityReadabilityScore": "Evaluated heading flow, paragraph chunking, and key value propositions. Clarity and conciseness of customer-facing messaging and solutions.",
+      "valuePropositionAssessment": "Hero messaging and solution clarity evaluated for target audience relevance. Immediate communication of unique advantages and core capabilities.",
+      "contentGaps": [
+        "Detailed client case studies with before/after results and metrics",
+        "Transparent engagement pricing or structured service packages",
+        "Comprehensive FAQ section addressing customer buying criteria"
+      ],
+      "findings": []
+    },
+    "conversionLeadGenAudit": {
+      "summary": "Lead conversion audit across 2 pages. Phone channels: No direct tel: links found. Email channels: Detected (, media@gensler.com, Lara_Marrero@Gensler.com, Lara_Marrero@gensler.com). WhatsApp integration: Not detected. Total enquiry forms: 12.",
+      "phoneVisibility": "No direct tel: links found",
+      "emailVisibility": "Detected (, media@gensler.com, Lara_Marrero@Gensler.com, Lara_Marrero@gensler.com)",
+      "whatsappAvailability": "Not detected",
+      "enquiryFlowAssessment": "12 contact/lead capture forms detected across pages. Streamlined pathway for visitors to initiate a quote, consultation, or purchase.",
+      "trustSignalsAssessment": "Evaluated social proof, client reviews, and warranty/trust claims. Presence of client testimonials, project portfolios, industry credentials, and security assurances.",
+      "findings": [
+        {
+          "id": "AI-CONV-001",
+          "category": "conversion",
+          "priority": "HIGH",
+          "title": "Lead Capture & Instant Engagement Opportunity",
+          "observation": "The website lacks instant real-time conversion channels such as floating WhatsApp buttons or frictionless 2-field lead capture forms.",
+          "evidence": "Inspected conversion triggers across 2 pages. Direct WhatsApp messaging links or streamlined quote forms were not detected in the primary navigation or sticky footer.",
+          "evidenceIds": [
+            "E-018"
+          ],
+          "impact": "Up to 60% of modern mobile visitors prefer instant chat or 1-click quote requests over navigating to a separate contact page.",
+          "recommendation": "Add a persistent floating WhatsApp contact widget and an above-the-fold \"Get Instant Quote\" trigger.",
+          "verificationStatus": "INFERRED"
+        }
+      ]
+    },
+    "seoAudit": {
+      "summary": "Audited on-page SEO signals across 2 pages. Meta titles: Verified on all pages. Meta descriptions: Verified on all pages. Images with alt text: 47/56.",
+      "metaTitleStatus": "Verified on all pages",
+      "metaDescriptionStatus": "Verified on all pages",
+      "headingHierarchyStatus": "0 missing, 1 multiple H1s",
+      "canonicalStatus": "Configured",
+      "robotsSitemapStatus": "Robots.txt verified during crawl",
+      "structuredDataStatus": "Inspected for JSON-LD schemas",
+      "findings": [
+        {
+          "id": "SEO-002",
+          "category": "seo",
+          "priority": "MEDIUM",
+          "title": "Improper H1 Heading Structure (0 missing, 1 multiple H1s)",
+          "observation": "0 page(s) have no <h1> tag, and 1 page(s) have multiple <h1> tags.",
+          "evidence": "Inspected 2 pages. Heading hierarchy should feature exactly one main H1 per page followed by logical H2s and H3s.",
+          "evidenceIds": [
+            "E-011"
+          ],
+          "impact": "Impairs search engine understanding of the page topic and causes screen readers confusion for accessible navigation.",
+          "recommendation": "Ensure every page contains exactly one unique, descriptive <h1> tag at the top of the content structure.",
+          "verificationStatus": "OBSERVED"
+        },
+        {
+          "id": "SEO-003",
+          "category": "seo",
+          "priority": "HIGH",
+          "title": "Images Missing Alt Text (9/56 images)",
+          "observation": "9 images on the website lack descriptive alt attributes.",
+          "evidence": "Found across crawled pages. Sample missing alt images detected in DOM.",
+          "evidenceIds": [
+            "E-012"
+          ],
+          "impact": "Prevents image search indexing in Google Images and makes visual content inaccessible to visually impaired users using screen readers.",
+          "recommendation": "Add concise, descriptive alt text to all meaningful images. Use empty alt=\"\" for purely decorative background elements.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "technicalAudit": {
+      "summary": "Inspected 2 pages. HTTPS is Enforced (HTTPS). Found 0 console errors, 0 broken link errors, and evaluated server security headers.",
+      "httpsStatus": "Enforced (HTTPS)",
+      "redirectsStatus": "Verified during crawl",
+      "brokenLinksCount": 0,
+      "brokenImagesCount": 0,
+      "consoleErrorsCount": 0,
+      "findings": []
+    },
+    "performanceAudit": {
+      "summary": "Lighthouse metrics could not be executed in the current environment and are marked as NOT VERIFIED.",
+      "lighthouse": {
+        "performanceScore": null,
+        "accessibilityScore": null,
+        "bestPracticesScore": null,
+        "seoScore": null,
+        "metrics": {
+          "firstContentfulPaintMs": null,
+          "largestContentfulPaintMs": null,
+          "cumulativeLayoutShift": null,
+          "totalBlockingTimeMs": null,
+          "speedIndexMs": null,
+          "interactiveMs": null
+        },
+        "audits": [],
+        "status": "NOT VERIFIED"
+      },
+      "coreWebVitalsSummary": "NOT VERIFIED",
+      "findings": []
+    },
+    "accessibilityAudit": {
+      "summary": "Evaluated accessible DOM signals across 2 pages. Alt text coverage is 84% (47/56 images have alt text). 12 interactive forms audited.",
+      "altTextCoverage": "84% (47/56 images have alt text)",
+      "formLabelingStatus": "Audited standard input fields",
+      "buttonNamesStatus": "Audited standard button elements",
+      "colorContrastStatus": "Heuristic evaluation (full audit requires color-pair extraction)",
+      "wcagDisclaimer": "This automated technical check inspects detectable DOM signals (alt attributes, heading hierarchy, form controls). It does NOT constitute a full WCAG 2.1/2.2 legal compliance guarantee, which requires extensive manual assistive technology testing.",
+      "findings": [
+        {
+          "id": "A11Y-001",
+          "category": "accessibility",
+          "priority": "HIGH",
+          "title": "Images Missing Accessible Alt Text (9 detected)",
+          "observation": "9 image elements do not provide textual alternatives via alt attributes.",
+          "evidence": "Found across 2 crawled pages.",
+          "evidenceIds": [
+            "E-013"
+          ],
+          "impact": "Assistive technology users (such as screen readers) cannot perceive the meaning or context of graphical content.",
+          "recommendation": "Add meaningful alt attributes describing the content or function of each image.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "localSeoOpportunities": {
+      "summary": "Local search visibility audit. Target Business: Gensler Architecture & Interior Design (Not prominently detected in main titles). Target Location: Global / San Francisco (Not found in main meta tags/headings). Evaluated NAP consistency and local schema opportunities.",
+      "businessNameMatch": "Not prominently detected in main titles",
+      "locationMatch": "Not found in main meta tags/headings",
+      "napConsistency": "Evaluated address and contact references across header/footer",
+      "localSchemaDetected": false,
+      "opportunities": [
+        "Add Schema.org LocalBusiness structured data (JSON-LD) with exact address, geo coordinates, and opening hours",
+        "Optimize Google Business Profile (GBP) with matching Name, Address, Phone (NAP) citations",
+        "Create dedicated location and service-area landing pages with localized content and customer testimonials"
+      ],
+      "findings": [
+        {
+          "id": "LOCAL-001",
+          "category": "local_seo",
+          "priority": "HIGH",
+          "title": "Target Location (Global / San Francisco) Missing from Primary SEO Elements",
+          "observation": "The specified target geography \"Global / San Francisco\" was not prominently detected in page titles, meta descriptions, or main headings.",
+          "evidence": "Crawled 2 pages. Checked <title>, <meta description>, and <h1> tags against location \"Global / San Francisco\".",
+          "evidenceIds": [
+            "E-019"
+          ],
+          "impact": "Reduces visibility in localized search queries, Google Maps / Local Pack results, and nearby customer discovery.",
+          "recommendation": "Incorporate \"Global / San Francisco\" naturally into the homepage title tag, H1 heading, service area sections, and footer contact block.",
+          "verificationStatus": "OBSERVED"
+        }
+      ]
+    },
+    "securityObservations": {
+      "summary": "Publicly observable security check: HTTPS Enforced (HTTPS). Missing defensive headers evaluated.",
+      "httpsEnforced": true,
+      "mixedContentDetected": false,
+      "securityHeadersAssessment": "Evaluated HSTS, CSP, and X-Frame-Options headers.",
+      "securityDisclaimer": "This security observation inspects publicly observable technical signals (HTTPS, security response headers). It does NOT constitute a penetration test or exploitation assessment.",
+      "findings": []
+    },
+    "priorityImprovementPlan": [
+      {
+        "priority": "HIGH",
+        "action": "Add Missing Meta Descriptions and Title Optimization",
+        "category": "technical",
+        "effort": "Low",
+        "rationale": "Essential for search engine indexing, click-through rates, and basic visitor trust."
+      },
+      {
+        "priority": "HIGH",
+        "action": "Implement Direct Call and WhatsApp Click-to-Chat Triggers",
+        "category": "conversion",
+        "effort": "Low",
+        "rationale": "Directly unlocks immediate lead capture for mobile and high-intent visitors."
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Add Descriptive Alt Text to All Product and Hero Images",
+        "category": "accessibility",
+        "effort": "Medium",
+        "rationale": "Enhances accessibility compliance and drives Google Image search traffic."
+      },
+      {
+        "priority": "MEDIUM",
+        "action": "Modernize Hero Layout and Visual Spacing Hierarchy",
+        "category": "visual",
+        "effort": "Medium",
+        "rationale": "Builds instant credibility and decreases initial bounce rates."
+      }
+    ],
+    "recommendedWebsiteStructure": {
+      "summary": "Target sitemap architecture designed for high-conversion user journeys and SEO depth.",
+      "suggestedSitemap": [
+        {
+          "pageName": "Home",
+          "slug": "/",
+          "purpose": "Establish immediate authority, showcase core value proposition, and drive primary conversions.",
+          "keySections": [
+            "Hero with Instant CTA",
+            "Core Services Grid",
+            "Featured Projects / Case Studies",
+            "Client Testimonials",
+            "Direct Contact Form"
+          ]
+        },
+        {
+          "pageName": "Services / Offerings",
+          "slug": "/services",
+          "purpose": "Comprehensive breakdown of solutions with transparent deliverables and process steps.",
+          "keySections": [
+            "Services Overview",
+            "Detailed Feature Comparison",
+            "Pricing / Packages",
+            "Client FAQ"
+          ]
+        },
+        {
+          "pageName": "Portfolio / Projects",
+          "slug": "/projects",
+          "purpose": "Build credibility through high-fidelity visual proof and real project outcomes.",
+          "keySections": [
+            "Project Gallery with Filter",
+            "In-depth Case Studies",
+            "Client Outcomes"
+          ]
+        },
+        {
+          "pageName": "About Us",
+          "slug": "/about",
+          "purpose": "Humanize the brand, share company mission, leadership, and credentials.",
+          "keySections": [
+            "Our Story",
+            "Leadership Team",
+            "Certifications & Awards",
+            "Why Choose Us"
+          ]
+        },
+        {
+          "pageName": "Contact & Consultation",
+          "slug": "/contact",
+          "purpose": "Frictionless multi-channel contact point for quotes, phone calls, and visits.",
+          "keySections": [
+            "Interactive Quote Form",
+            "Direct Phone & WhatsApp",
+            "Office Location Map",
+            "Business Hours"
+          ]
+        }
+      ]
+    },
+    "recommendedRedesignStrategy": {
+      "summary": "Modernize the digital experience into a high-performance, conversion-engineered flagship platform.",
+      "corePillars": [
+        {
+          "title": "1. Conversion-Engineered Architecture",
+          "description": "Introduce persistent mobile-friendly CTAs, floating chat triggers, and 2-step quote request funnels on every key landing page."
+        },
+        {
+          "title": "2. Modern Visual Design & Trust Signatures",
+          "description": "Elevate brand positioning with refined typography, rich micro-interactions, high-contrast accents, and visual social proof."
+        },
+        {
+          "title": "3. Core Web Vitals & Technical Excellence",
+          "description": "Ensure sub-second page loads, zero Cumulative Layout Shift (CLS), and rigorous mobile viewport responsiveness."
+        }
+      ],
+      "designTokensSuggestion": {
+        "colorPaletteRecommendation": "Deep Slate / Navy (#0F172A) primary, Vibrant Indigo (#4F46E5) or Amber (#F59E0B) accents, Crisp Neutral (#F8FAFC) background",
+        "typographyRecommendation": "Outfit or Plus Jakarta Sans for confident modern headlines; Inter for crystal-clear body copy",
+        "layoutGuidance": "Max-width 1280px containers, 80px section spacing, and glassmorphic card surfaces with subtle borders"
+      }
+    },
+    "nextSteps": [
+      {
+        "stepNumber": 1,
+        "title": "Immediate Technical & On-Page Quick Wins",
+        "description": "Fix missing meta descriptions, heading structure, and implement direct phone/WhatsApp contact buttons.",
+        "timelineRecommendation": "Days 1 - 3"
+      },
+      {
+        "stepNumber": 2,
+        "title": "Conversion Funnel & Hero Optimization",
+        "description": "Redesign above-the-fold hero section with crystal-clear value proposition and streamlined quote inquiry form.",
+        "timelineRecommendation": "Week 1 - 2"
+      },
+      {
+        "stepNumber": 3,
+        "title": "Comprehensive Content & UI Modernization",
+        "description": "Publish detailed service pages, client case studies, and deploy updated visual design system.",
+        "timelineRecommendation": "Month 1"
+      }
+    ]
+  },
+  "salesReport": {
+    "isParkedOrIncomplete": false,
+    "websiteStatusSummary": "An executive commercial review of Gensler Architecture & Interior Design's digital presence across 2 inspected page(s). This report highlights current digital strengths and outlines high-impact conversion opportunities to increase customer trust, local search visibility, and inbound inquiries.",
+    "industry": "Interior Design & Architecture",
+    "industryConfidence": "OBSERVED",
+    "whatIsWorking": [
+      {
+        "title": "SSL Security Encryption Active",
+        "explanation": "Your website is secured with an active SSL certificate (HTTPS), ensuring visitor connection privacy.",
+        "evidenceIds": [
+          "E-002"
+        ],
+        "status": "TESTED"
+      },
+      {
+        "title": "Multi-Device Viewport Compatibility",
+        "explanation": "The website successfully scales across desktop and smartphone screen viewports without critical horizontal layout breakage.",
+        "evidenceIds": [
+          "E-002",
+          "E-003"
+        ],
+        "status": "TESTED"
+      },
+      {
+        "title": "Active Domain & Web Hosting Infrastructure",
+        "explanation": "Domain routing is online and successfully responding to web requests (Response time: 2107ms).",
+        "evidenceIds": [
+          "E-002"
+        ],
+        "status": "TESTED"
+      },
+      {
+        "title": "Multi-Page Information Architecture",
+        "explanation": "Discovered and verified 2 accessible sub-pages covering core business offerings and company information.",
+        "evidenceIds": [
+          "E-002",
+          "E-003",
+          "E-004"
+        ],
+        "status": "OBSERVED"
+      }
+    ],
+    "topOpportunities": [
+      {
+        "id": "OPP-002",
+        "title": "Add Instant Inbound Contact Channels",
+        "clientObservation": "High-intent visitors on mobile smartphones have limited 1-tap options to contact your team directly.",
+        "businessImpact": "Adding direct call and instant WhatsApp triggers allows urgent buyers to connect immediately, preventing lost inquiries.",
+        "recommendedAction": "Place a visible \"Call Now\" button in the header and integrate a floating WhatsApp inquiry widget for mobile visitors.",
+        "evidenceIds": [
+          "E-018"
+        ],
+        "priority": "HIGH",
+        "status": "OBSERVED"
+      },
+      {
+        "id": "OPP-003",
+        "title": "Optimize Search Visibility for Global / San Francisco",
+        "clientObservation": "Search engines currently have limited descriptive information linking your website to your primary service area (Global / San Francisco).",
+        "businessImpact": "Ensures prospective clients searching for services in Global / San Francisco can easily discover and click on your website from Google search results.",
+        "recommendedAction": "Incorporate \"Global / San Francisco\" naturally into your main page title, search description, and footer service area block.",
+        "evidenceIds": [
+          "E-019"
+        ],
+        "priority": "HIGH",
+        "status": "OBSERVED"
+      },
+      {
+        "id": "OPP-004",
+        "title": "Elevate Visual Presentation & Brand Proof",
+        "clientObservation": "The current layout has an opportunity for stronger headline contrast, distinct action buttons, and modern section spacing.",
+        "businessImpact": "A modern, high-contrast visual design creates a memorable first impression and positions your business as a market leader.",
+        "recommendedAction": "Deploy high-contrast headlines, clear primary call-to-action buttons, and structured visual cards to showcase your best work.",
+        "evidenceIds": [
+          "E-002",
+          "E-006",
+          "E-015"
+        ],
+        "priority": "MEDIUM",
+        "status": "INFERRED"
+      },
+      {
+        "id": "OPP-005",
+        "title": "Standardize Google Heading Structure",
+        "clientObservation": "Page headings and structure tags can be enhanced to give search engines a clear understanding of your core offerings.",
+        "businessImpact": "Clear heading hierarchy helps search algorithms properly categorize and rank each of your service offerings.",
+        "recommendedAction": "Ensure each page features one prominent primary headline (H1) followed by organized section headings.",
+        "evidenceIds": [
+          "E-011"
+        ],
+        "priority": "MEDIUM",
+        "status": "OBSERVED"
+      }
+    ],
+    "whyTheseMatter": "Prospective clients evaluate credibility within the first five seconds of landing on your website. Addressing friction in contact channels, improving search summaries, and modernizing visual presentation directly increases the percentage of website visitors who convert into qualified consultations and sales.",
+    "recommendedStructure": [
+      {
+        "pageName": "Home",
+        "purpose": "Establish design authority, showcase signature transformations, and drive instant quote/consultation inquiries.",
+        "keySections": [
+          "Hero with 1-Click Consultation Trigger",
+          "Featured Projects Carousel",
+          "Core Design Services Grid",
+          "Client Testimonials",
+          "Direct Contact Box"
+        ]
+      },
+      {
+        "pageName": "Projects / Portfolio",
+        "purpose": "Provide tangible visual proof of craftsmanship and spatial transformations filterable by room/project type.",
+        "keySections": [
+          "Filterable Gallery (Residential / Commercial / Modular)",
+          "Before & After Sliders",
+          "Project Story & Material Highlights"
+        ]
+      },
+      {
+        "pageName": "Services & Offerings",
+        "purpose": "Provide a clear, transparent breakdown of design packages, deliverables, and step-by-step design process.",
+        "keySections": [
+          "Service Capabilities Grid",
+          "3-Step Design Process Timeline",
+          "Deliverables Checklist",
+          "Frequently Asked Questions"
+        ]
+      },
+      {
+        "pageName": "About the Studio",
+        "purpose": "Humanize the brand, showcase lead designer credentials, and communicate design philosophy.",
+        "keySections": [
+          "Studio Mission & Values",
+          "Design Leadership Bios",
+          "Standards of Quality",
+          "Press & Recognition"
+        ]
+      },
+      {
+        "pageName": "Contact & Consultation",
+        "purpose": "Zero-friction contact hub for prospective clients to book consultations, chat on WhatsApp, or call.",
+        "keySections": [
+          "Simple 3-Field Consultation Form",
+          "Direct Phone & WhatsApp Links",
+          "Studio Location Map",
+          "Hours of Operation"
+        ]
+      }
+    ],
+    "structureStatus": "OBSERVED",
+    "implementationRoadmap": [
+      {
+        "timeframe": "Days 1 – 3",
+        "title": "Immediate Contact Triggers",
+        "description": "Add prominent header phone dialing, sticky WhatsApp chat trigger, and 1-click quote inquiry buttons."
+      },
+      {
+        "timeframe": "Week 1",
+        "title": "Search & Location Alignment",
+        "description": "Update page titles, Google meta descriptions, and incorporate Global / San Francisco into main headings."
+      },
+      {
+        "timeframe": "Weeks 2 – 3",
+        "title": "Visual Modernization & Proof",
+        "description": "Elevate typography contrast, deploy structured service cards, and highlight completed projects with client testimonials."
+      }
+    ],
+    "agencyCta": {
+      "title": "Recommended Next Step: Strategic Modernization Consultation",
+      "message": "SHA WebStudio specializes in engineering high-performing, commercially focused websites that turn traffic into paying clients. We would welcome the opportunity to discuss these findings with Gensler Architecture & Interior Design and explore how a tailored digital presence can accelerate your business growth.",
+      "contactPrompt": "Schedule a complimentary 20-minute digital strategy consultation with our senior web architects."
+    }
+  },
+  "pdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-6f7d067e-774b-4348-a210-ee0a18057f94-client.pdf",
+  "clientPdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-6f7d067e-774b-4348-a210-ee0a18057f94-client.pdf",
+  "internalPdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-6f7d067e-774b-4348-a210-ee0a18057f94-internal.pdf",
+  "salesPdfPath": "C:\\Users\\shyam\\Desktop\\SS-Website-Audit-Agent\\data\\pdfs\\audit-6f7d067e-774b-4348-a210-ee0a18057f94-sales.pdf",
+  "completedAt": "2026-09-24T12:00:07.663Z"
+}

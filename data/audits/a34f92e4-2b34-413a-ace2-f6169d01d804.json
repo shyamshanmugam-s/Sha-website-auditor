@@ -1,0 +1,21 @@
+{
+  "id": "a34f92e4-2b34-413a-ace2-f6169d01d804",
+  "config": {
+    "url": "https://example.com/",
+    "businessName": "ABC Interiors",
+    "location": "Coimbatore, Tamil Nadu",
+    "maxPages": 15
+  },
+  "status": "failed",
+  "createdAt": "2026-09-23T15:50:13.934Z",
+  "progressPercent": 5,
+  "currentStepMessage": "Audit failed: browserType.launch: Playwright manages remote debugging connection itself.",
+  "crawledPagesCount": 0,
+  "totalPagesToCrawl": 15,
+  "pages": [],
+  "evidenceRegistry": [],
+  "findings": [],
+  "startedAt": "2026-09-23T15:50:13.936Z",
+  "error": "browserType.launch: Playwright manages remote debugging connection itself.",
+  "completedAt": "2026-09-23T15:50:14.530Z"
+}
